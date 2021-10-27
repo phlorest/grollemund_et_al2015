@@ -14,7 +14,6 @@ setup(
     install_requires=[
         'phlorest',
         'openpyxl',
-        'cldfbench',
     ],
     extras_require={
         'test': [

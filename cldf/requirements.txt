@@ -3,7 +3,7 @@ bs4==0.0.1
 certifi==2019.11.28
 chardet==3.0.4
 cldfbench==1.7.2
--e git+https://github.com/D-PLACE/dplace-tree-birchall_et_al2016@ee8e4e50dda2667d1ec1dc80c1b7285413aa610a#egg=cldfbench_birchall_et_al2016
+-e git+https://github.com/D-PLACE/dplace-tree-birchall_et_al2016@73ff4fd449b68fe1e1a09e5e3317ea906e33b63a#egg=cldfbench_birchall_et_al2016
 cldfcatalog==1.3.2
 clldutils==3.10.0
 colorama==0.4.3
@@ -21,15 +21,17 @@ newick==1.3.1
 numpy==1.21.1
 openpyxl==3.0.7
 packaging==20.3
--e git+https://github.com/dlce-eva/phlorest.git@ca0b0f86765ab3f0b5fa3c19125023e5ec71edf5#egg=phlorest
+-e git+https://github.com/cldf/phlorest@55cc122b47c85c8486e3d60358591bcddc5461d7#egg=phlorest
 pluggy==0.13.1
 purl==1.6
 py==1.10.0
 pybtex==0.24.0
 pycldf==1.22.0
+pyconcepticon==2.8.0
 pycountry==20.7.3
 -e git+https://github.com/d-place/pydplace@9a94a80bccd7e9d87f0aa50d40252e95fbba2a2c#egg=pydplace
 pyglottolog==3.6.0
+PyQt5==5.15.5
 pytest==6.2.4
 requests==2.22.0
 rfc3986==1.5.0
