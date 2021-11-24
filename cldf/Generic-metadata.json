@@ -14,25 +14,25 @@
     },
     "dc:identifier": "http://dx.doi.org/10.1073/pnas.1503793112",
     "dc:source": "sources.bib",
-    "dcat:accessURL": "https://github.com/D-PLACE/dplace-tree-grollemund_et_al2015",
+    "dcat:accessURL": "https://github.com/phlorest/grollemund_et_al2015",
     "prov:wasDerivedFrom": [
         {
-            "rdf:about": "https://github.com/D-PLACE/dplace-tree-grollemund_et_al2015",
+            "rdf:about": "https://github.com/phlorest/grollemund_et_al2015",
             "rdf:type": "prov:Entity",
-            "dc:created": "b06a54b",
+            "dc:created": "c03c833",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v4.4",
+            "dc:created": "v4.4-52-g73da501d96",
             "dc:title": "Glottolog"
         }
     ],
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.8.10"
+            "dc:description": "3.9.6"
         },
         {
             "dc:title": "python-packages",
