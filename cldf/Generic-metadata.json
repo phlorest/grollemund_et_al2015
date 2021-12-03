@@ -7,32 +7,39 @@
     ],
     "dc:bibliographicCitation": "Grollemund R, Branford S, Bostoen K, Meade A, Venditti C & Pagel M. 2015. Bantu expansion shows habitat alters the route and pace of human dispersals. Proceedings of the National Academy of Sciences of the USA, 112(43), 13296-13301.",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Generic",
-    "dc:hasPart": {
-        "dc:relation": "data.nex",
-        "dc:description": "The data underlying the analysis which created the phylogeny",
-        "dc:format": "https://en.wikipedia.org/wiki/Nexus_file"
-    },
-    "dc:identifier": "http://dx.doi.org/10.1073/pnas.1503793112",
+    "dc:identifier": "https://doi.org/10.1073/pnas.1503793112",
     "dc:source": "sources.bib",
+    "dc:subject": {
+        "family": "Atlantic-Congo [atla1278]",
+        "analysis": "bayesian",
+        "scaling": "centuries"
+    },
+    "dc:title": "Phlorest phylogeny derived from Grollemund et al.2015'Bantu (Grollemund et al. 2015)'",
     "dcat:accessURL": "https://github.com/phlorest/grollemund_et_al2015",
     "prov:wasDerivedFrom": [
         {
+            "rdf:about": "data.nex",
+            "rdf:type": "prov:Entity",
+            "dc:description": "The data underlying the analysis which created the phylogeny",
+            "dc:format": "https://en.wikipedia.org/wiki/Nexus_file"
+        },
+        {
             "rdf:about": "https://github.com/phlorest/grollemund_et_al2015",
             "rdf:type": "prov:Entity",
-            "dc:created": "c03c833",
+            "dc:created": "726bfba",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v4.4-52-g73da501d96",
+            "dc:created": "v4.4-57-g459b6703ab",
             "dc:title": "Glottolog"
         }
     ],
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.9.6"
+            "dc:description": "3.8.10"
         },
         {
             "dc:title": "python-packages",
@@ -113,6 +120,10 @@
                     },
                     {
                         "datatype": "string",
+                        "name": "Original_Name"
+                    },
+                    {
+                        "datatype": "string",
                         "name": "Glottolog_Name"
                     }
                 ],
@@ -123,7 +134,7 @@
             "url": "languages.csv"
         },
         {
-            "dc:extent": 101,
+            "dc:extent": 1,
             "tableSchema": {
                 "columns": [
                     {

@@ -13,7 +13,6 @@ setup(
     },
     install_requires=[
         'phlorest',
-        'openpyxl',
     ],
     extras_require={
         'test': [

@@ -1,426 +1,426 @@
-ID,Name,Macroarea,Latitude,Longitude,Glottocode,ISO639P3code,Glottolog_Name
-A11_Londo,A11_Londo,,4.89504,9.15209,orok1266,,Oroko
-A121_Mbonge,A121_Mbonge,,4.89504,9.15209,orok1266,,Oroko
-A122_Bakundu,A122_Bakundu,,4.89504,9.15209,orok1266,,Oroko
-A141_Lefo,A141_Lefo,,4.53307,9.522,bafa1247,,Bafaw-Balong
-A15_Manenguba,A15_Manenguba,,4.79991,9.80402,baka1273,,Bakaka
-A151_Nkongho,A151_Nkongho,,5.33848,9.80096,nkon1247,,Nkongho
-A15A_Mbuu,A15A_Mbuu,,5.13981,9.92766,mboc1235,,Mbo (Cameroon)
-A15B_Mienge_NW_Manenguba,A15B_Mienge_NW_Manenguba,,5.23655,9.52275,bass1260,,Bassossi
-A15C_Akossi,A15C_Akossi,,4.9243,9.65522,akoo1248,,Akoose
-A15C_Elung_Central_Manenguba,A15C_Elung_Central_Manenguba,,4.9243,9.65522,akoo1248,,Akoose
-A15C_Mkaa,A15C_Mkaa,,4.79991,9.80402,baka1273,,Bakaka
-A22_Bakweri,A22_Bakweri,,4.24178,9.23887,mokp1239,,Mokpwe
-A24_Duala,A24_Duala,,4.10208,9.61877,dual1243,,Duala
-A27_Malimba,A27_Malimba,,3.67696,9.67186,mali1280,,Malimba
-A31_Bubi,A31_Bubi,,3.53638,8.68929,bube1242,,Bube
-A32C_Batanga,A32C_Batanga,,1.397041,9.51011,bata1285,,Batanga
-A33a_Yasa,A33a_Yasa,,2.06043,10.678,yasa1242,,Yasa
-A34_Benga,A34_Benga,,1.075766,9.600739,beng1282,,Benga
-A41_Barombi-Kang,A41_Barombi-Kang,,4.64584,9.25261,baro1252,,Barombi
-A42_Abo,A42_Abo,,4.3702,9.6403,bank1256,,Bankon
-A43a_Basaa,A43a_Basaa,,3.80765,10.4213,basa1284,,Basa (Cameroon)
-A44_Tunen,A44_Tunen,,4.75,10.67,tune1261,,Tunen
-A45_Nyokon,A45_Nyokon,,4.75,10.5,nyok1243,,Nyokon
-A46_Nomaande,A46_Nomaande,,4.5893,10.9157,noma1260,,Nomaande
-A462_Yambeta,A462_Yambeta,,4.83615,10.9369,yamb1252,,Yambeta
-A51_Bafia_maja,A51_Bafia_maja,,4.72603,11.0982,bafi1243,,Bafia
-A53_Bafia_rikpa,A53_Bafia_rikpa,,4.72603,11.0982,bafi1243,,Bafia
-A54_Tibea,A54_Tibea,,5.30535,11.3103,tibe1274,,Tibea
-A601_Tuki,A601_Tuki,,4.64348,11.5353,tuki1240,,Tuki
-A61_Ngoro-Asom,A61_Ngoro-Asom,,4.78874,12.824,bebe1248,,Bebele
-A61_Ngoro-Bisoo,A61_Ngoro-Bisoo,,4.21045,11.3935,eton1253,,Eton-Mengisa
-A61_Ngoro-lunda,A61_Ngoro-lunda,,4.21045,11.3935,eton1253,,Eton-Mengisa
-A621_Nubaca,A621_Nubaca,,4.35696,11.029,nuba1241,,Nubaca
-A622_Nugunu,A622_Nugunu,,4.63103,11.1837,nugu1242,,Nugunu (Cameroon)
-A62A_Nuasue,A62A_Nuasue,,4.41971,11.0277,yang1293,,Yangben
-A62A_Nukalonge,A62A_Nukalonge,,4.41971,11.0277,yang1293,,Yangben
-A62B_Mmala,A62B_Mmala,,4.52188,11.0599,mmaa1238,,Mmaala
-A62C_Libie,A62C_Libie,,4.45694,11.193,elip1238,,Elip
-A63_Mangisa,A63_Mangisa,,4.21045,11.3935,eton1253,,Eton-Mengisa
-A71_Eton,A71_Eton,,4.21045,11.3935,eton1253,,Eton-Mengisa
-A72a_Ewondo,A72a_Ewondo,,4.21141,11.93646,ewon1239,,Ewondo
-A74a_Bulu,A74a_Bulu,,3.16141,11.6365,bulu1251,,Bulu (Cameroon)
-A75a_Fang_Bitam,A75a_Fang_Bitam,,1.723965,11.61454,fang1246,,Fang (Equatorial Guinea)
-A75a_Fang_Medouneu,A75a_Fang_Medouneu,,1.723965,11.61454,fang1246,,Fang (Equatorial Guinea)
-A75a_Fang_Minvoul,A75a_Fang_Minvoul,,1.723965,11.61454,fang1246,,Fang (Equatorial Guinea)
-A803_Shiwa,A803_Shiwa,,-0.091645,11.947061,shiw1234,,Shiwa
-A81_Kwasio,A81_Kwasio,,2.39354,10.0812,kwas1243,,Kwasio
-A83_Mekaa,A83_Mekaa,,4.15471,13.0789,maka1304,,Makaa
-A832_Bekol,A832_Bekol,,3.65994,12.8574,kolc1235,,Kol (Cameroon)
-A84_Njem,A84_Njem,,2.30483,14.1175,njye1238,,Njyem
-A841_Badwe,A841_Badwe,,3.25933,13.54152,koon1245,,Koonzime
-A85b_Bekwil_Makokou,A85b_Bekwil_Makokou,,1.71801,14.6527,bekw1242,,Bekwil
-A85b_Bekwil_Mv,A85b_Bekwil_Mv,,1.71801,14.6527,bekw1242,,Bekwil
-A86c_Mpiemo,A86c_Mpiemo,,3.45776,15.5246,mpie1238,,Mpiemo
-A87_Bomwali,A87_Bomwali,,1.71005,15.9546,bomw1238,,Bomwali
-A91_Kwakum,A91_Kwakum,,4.34393,13.6446,kwak1266,,Kwakum
-A93_Kako,A93_Kako,,3.79989,15.6282,kako1242,,Kako
-Aghem_Grassfields,Aghem_Grassfields,,6.38956,10.0807,aghe1239,,Aghem
-B11a_Mpongwe,B11a_Mpongwe,,-1.48741,9.50247,myen1241,,Myene
-B11b_Orungu,B11b_Orungu,,-1.48741,9.50247,myen1241,,Myene
-B11c_Galwa,B11c_Galwa,,-1.48741,9.50247,myen1241,,Myene
-B11d_Dyumba,B11d_Dyumba,,-1.48741,9.50247,myen1241,,Myene
-B11F_Enenga,B11F_Enenga,,-1.48741,9.50247,myen1241,,Myene
-B201_Ndasa,B201_Ndasa,,-2.449015,13.369465,ndas1238,,Ndasa
-B202_Sigu,B202_Sigu,,-0.95605,13.1214,sigh1238,,Sighu
-B203_Samaye,B203_Samaye,,-0.012,13.61,osam1235,,Osamayi
-B204_Ndambomo_Li,B204_Ndambomo_Li,,-0.82,12.77,ndam1254,,Ndambomo
-B204_Ndambomo_Massoukou,B204_Ndambomo_Massoukou,,-0.82,12.77,ndam1254,,Ndambomo
-B204_Ndambomo_Mbadi,B204_Ndambomo_Mbadi,,-0.82,12.77,ndam1254,,Ndambomo
-B21_Seki,B21_Seki,,1.52302,9.79206,seki1238,,Seki
-B22a_Kele,B22a_Kele,,-0.78854,10.3836,kele1257,,Kélé
-B22b_Koya,B22b_Koya,,0.882925,14.1345,ngom1270,,Ngom
-B22b_Ngom,B22b_Ngom,,0.882925,14.1345,ngom1270,,Ngom
-B22E_Mwesa,B22E_Mwesa,,0.086134,13.30037,mwes1234,,Mwesa
-B23_Mbangwe,B23_Mbangwe,,-2.28729,13.5956,mban1268,,Mbangwe
-B24_Wumbvu,B24_Wumbvu,,-2.39234,12.264,wumb1242,,Wumbvu
-B25_Kota,B25_Kota,,1.016,13.97,kota1274,,Kota (Gabon)
-B251_Shake,B251_Shake,,0.25188,11.787,sake1247,,Sake
-B252_Mahongwe,B252_Mahongwe,,0.64356,14.0472,maho1248,,Mahongwe
-B301_Viya,B301_Viya,,-1.22,10.58,eviy1235,,Viya
-B302_Himba,B302_Himba,,-1.28107,11.1783,simb1254,,Simba
-B304_Pinzi,B304_Pinzi,,-1.90305,11.223,pinj1243,,Pinji
-B305_Vove,B305_Vove,,-1.16762,12.32251,bubi1250,,Bubi
-B31_Tsogo,B31_Tsogo,,-1.55469,11.1359,tsog1243,,Tsogo
-B32_Kande,B32_Kande,,-0.00776,11.7076,kand1300,,Kande
-B404_Ngubi,B404_Ngubi,,-3.433411,10.768112,ngub1239,,Ngubi
-B41_Shira,B41_Shira,,-1.78084,10.4635,sira1266,,Sira
-B42_Sangu_Mb,B42_Sangu_Mb,,-1.52694,11.9098,sang1333,,Sangu (Gabon)
-B42_Sangu_Mi,B42_Sangu_Mi,,-1.52694,11.9098,sang1333,,Sangu (Gabon)
-B43_Punu,B43_Punu,,-2.67362,11.6714,punu1239,,Punu
-B44_Lumbu,B44_Lumbu,,-3.37917,11.124,lumb1249,,Lumbu
-B501_Wanzi_E,B501_Wanzi_E,,-1.51945,12.8951,wand1266,,Wandji
-B501_Wanzi_Mo,B501_Wanzi_Mo,,-1.51945,12.8951,wand1266,,Wandji
-B503_Vili,B503_Vili,,-2.752859,10.305563,vili1239,,Vili of Ngounie
-B51_Duma,B51_Duma,,-0.91927,13.0046,duma1253,,Duma
-B51_Duma_La,B51_Duma_La,,-0.91927,13.0046,duma1253,,Duma
-B52_Nzebi,B52_Nzebi,,-2.18115,12.7063,njeb1242,,Njebi
-B53_Tsaangi_Poungi,B53_Tsaangi_Poungi,,-2.29245,12.7581,tsaa1242,,Tsaangi
-B601_Lempini,B601_Lempini,,-0.477445,14.2877,mber1257,,Mbere-Mbamba
-B602_Kaningi_Nord,B602_Kaningi_Nord,,-1.71316,13.6111,kani1279,,Kaningi
-B602_Kaningi_Sud,B602_Kaningi_Sud,,-1.71316,13.6111,kani1279,,Kaningi
-B62_Mbaama,B62_Mbaama,,-0.477445,14.2877,mber1257,,Mbere-Mbamba
-B63_Ndumu,B63_Ndumu,,-1.67033,13.7279,ndum1239,,Ndumu
-B701_Atsitsege,B701_Atsitsege,,-2.03393,13.6001,tchi1245,,Tchitchege
-B71a_Teke_Dj,B71a_Teke_Dj,,-1.61688,14.8664,teke1275,,Latege
-B71a_Teke_Os,B71a_Teke_Os,,-1.61688,14.8664,teke1275,,Latege
-B71aIb_Teke_Ibali_Congo,B71aIb_Teke_Ibali_Congo,,-4.20697,15.3893,ibal1241,,Kwa South
-B71aLe_Teke_Leconi,B71aLe_Teke_Leconi,,-1.61688,14.8664,teke1275,,Latege
-B77b_Fumu,B77b_Fumu,,-3.59003,15.5061,teke1274,,Teke-Fuumu
-B78_Wuumu,B78_Wuumu,,-4.27,15.72,wuum1239,,Wuumu-Mpuono
-B81_Tiene,B81_Tiene,,-2.84694,16.4765,tien1242,,Tiene
-B82_Buma,B82_Buma,,-3.01,16.92,boma1251,,Boma Nord
-B84_Mbunda,B84_Mbunda,,-5.21134,19.4269,mpuo1241,,Mbuun
-B85_Yanzi,B85_Yanzi,,-3.8231,18.2341,yans1239,,Yansi
-B85d_Nsongo,B85d_Nsongo,,-4.55057,18.4978,song1299,,Nsong-Mpiin
-B85e_Mput,B85e_Mput,,-4.44304,19.3881,ding1239,,Ding
-B86_Dinga,B86_Dinga,,-4.44304,19.3881,ding1239,,Ding
-B86_Dzing,B86_Dzing,,-4.44304,19.3881,ding1239,,Ding
-B861_Ngul,B861_Ngul,,-4.09816,19.5129,ngul1247,,Ngwii
-B862_Lwel,B862_Lwel,,-4.38475,20.6314,lwel1234,,Lwel
-B863_Pindi,B863_Pindi,,-4.55057,18.4978,song1299,,Nsong-Mpiin
-B864_Ngong,B864_Ngong,,-5.5,18.2,ngon1267,,Ngongo
-B865_Nzadi,B865_Nzadi,,-4.102208,20.194462,nzad1234,,Nzadi
-Bamun_Grassfields,Bamun_Grassfields,,5.49017,10.8477,bamu1253,,Bamun
-Bile_Jarawan,Bile_Jarawan,,8.90052,11.1907,bile1244,,Bile
-Bwazza_Jarawan,Bwazza_Jarawan,,9.60769,12.2439,mbul1260,,Mbula-Bwazza
-C101_Babole_Dz,C101_Babole_Dz,,1.07773,17.2305,dibo1245,,Dibole
-C101_Babole_Ep,C101_Babole_Ep,,1.70044,17.3733,bomi1238,,Bomitaba
-C101_Babole_Ma,C101_Babole_Ma,,1.07773,17.2305,dibo1245,,Dibole
-C104_Aka,C104_Aka,,3.6515,17.2713,yaka1272,,Yaka (Central African Republic)
-C105_Mbenga,C105_Mbenga,,2.11942,20.8759,maba1270,,Mabaale
-C141_Bonyala,C141_Bonyala,,-1.23019,15.5322,mbos1242,,Mbosi
-C142_Mondongo,C142_Mondongo,,2.16773,19.1644,bamw1238,,Bamwe
-C15_Bongili,C15_Bongili,,0.37063,16.6079,bong1284,,Bongili
-C21_Ngare,C21_Ngare,,0.43541,14.7935,mbok1243,,Mboko
-C22_Akwa,C22_Akwa,,-0.39897,15.4623,akwa1248,,Akwa
-C24_Koyo,C24_Koyo,,-0.69688,15.7508,koyo1242,,Koyo
-C25_Mboshi,C25_Mboshi,,-1.23019,15.5322,mbos1242,,Mbosi
-C25A_Bunji,C25A_Bunji,,-1.23019,15.5322,mbos1242,,Mbosi
-C25B_Olee,C25B_Olee,,-1.23019,15.5322,mbos1242,,Mbosi
-C25C_Ondinga,C25C_Ondinga,,-1.23019,15.5322,mbos1242,,Mbosi
-C25E_Eboyi,C25E_Eboyi,,-0.69688,15.7508,koyo1242,,Koyo
-C302_Bolondo,C302_Bolondo,,2.46327,19.6181,bolo1263,,Bolondo
-C32_Bobangi,C32_Bobangi,,-0.87437,17.227,bang1354,,Bobangi
-C322_Zamba,C322_Zamba,,1.25,18.3,zamb1245,,Zamba
-C323_Mpama,C323_Mpama,,-0.739203,17.685662,mpam1239,,Mpama
-C34_Sakata,C34_Sakata,,-2.85653,17.9669,saka1287,,Sakata
-C36d_Lingala,C36d_Lingala,,-4.409174,15.28532,ling1263,,Kinshasa Lingala
-C36g_Monyongo,C36g_Monyongo,,2.16773,19.1644,bamw1238,,Bamwe
-C36g_Mosange,C36g_Mosange,,2.15101,19.4087,ndol1238,,Ndolo
-C37_Ebudza,C37_Ebudza,,2.19951,22.6107,budz1238,,Budza
-C401_Babati_1919,C401_Babati_1919,,2.5957,25.2514,bwaa1238,,Bwa
-C401_Pakabete,C401_Pakabete,,3.15636,22.1212,pagi1243,,Pagibete
-C41_Ngombe,C41_Ngombe,,1.45357,20.14148,ngom1268,,Ngombe (Democratic Republic of Congo)
-C412_Libobi,C412_Libobi,,2.16773,19.1644,bamw1238,,Bamwe
-C42_Ebwela,C42_Ebwela,,3.22,19.28,bwel1238,,Bwela
-C43A_Baati,C43A_Baati,,2.5957,25.2514,bwaa1238,,Bwa
-C44_Bwa,C44_Bwa,,2.5957,25.2514,bwaa1238,,Bwa
-C52_Soko,C52_Soko,,1.25037,23.6907,sode1235,,So (Democratic Republic of Congo)
-C52_Soko_1919,C52_Soko_1919,,1.25037,23.6907,sode1235,,So (Democratic Republic of Congo)
-C54_Turumba_1919,C54_Turumba_1919,,0.88267,24.6862,lomb1260,,Lombo
-C55_Lokele,C55_Lokele,,0.36906,24.3098,kele1255,,Kele-Foma
-C61_Mongo,C61_Mongo,,-1.54228,20.4259,mong1338,,Mongo
-C61E_Konda,C61E_Konda,,-1.54228,20.4259,mong1338,,Mongo
-C71_Tetela,C71_Tetela,,-4.29314,24.546,tete1250,,Tetela
-C76_Ombo,C76_Ombo,,-2.32162,25.1748,ombo1238,,Ombo
-C81_Dengese,C81_Dengese,,-3.26337,21.4194,deng1250,,Dengese
-C83_Bushong,C83_Bushong,,-4.69463,21.4556,bush1247,,Bushoong
-C85_Wongo,C85_Wongo,,-5.73837,20.5054,wong1247,,Wongo
-D11_Mbole,D11_Mbole,,-0.57181,24.0443,mbol1247,,Mbole
-D12_Lengola,D12_Lengola,,-1.95874,25.3343,leng1258,,Lengola
-D13_Metoko,D13_Metoko,,-1.57031,25.104,mitu1240,,Mituku
-D14_Enya,D14_Enya,,0.56,25.15,enya1247,,Enya
-D201_Liko,D201_Liko,,2.13777,27.6088,lika1243,,Liko
-D20B_Vamba_1919,D20B_Vamba_1919,,0.81206,30.0014,amba1263,,Amba (Uganda)
-D21_Baali,D21_Baali,,1.1807,26.5941,bali1274,,Bali (Democratic Republic of Congo)
-D211_Kango,D211_Kango,,1.59855,27.0186,kang1285,,Kango (Tshopo District)
-D23_Kibira-Kumu_1919,D23_Kibira-Kumu_1919,,-0.76333,26.7144,komo1260,,Komo (Democratic Republic of Congo)
-D24_Songola,D24_Songola,,-2.21871,26.3477,song1300,,Songoora
-D25_Lega,D25_Lega,,-3.83196,27.1424,lega1249,,Lega-Shabunda
-D28_Holoholo,D28_Holoholo,,-5.37545,28.3274,holo1240,,Holoholo
-D301_Kare,D301_Kare,,5.03525,25.7491,kari1306,,Kari
-D304_Homa_1919,D304_Homa_1919,,4.97912,28.0039,homa1239,,Homa
-D305_Nyanga-li,D305_Nyanga-li,,-1.29357,28.31546,nyan1304,,Nyanga
-D308_Bodo2,D308_Bodo2,,2.00501,27.951,budu1250,,Budu
-D308_Ebodo,D308_Ebodo,,2.00501,27.951,budu1250,,Budu
-D311_Bila,D311_Bila,,1.16839,28.7626,bila1255,,Bila
-D313_Mbuttu_1919,D313_Mbuttu_1919,,2.00501,27.951,budu1250,,Budu
-D32_Bira,D32_Bira,,1.16839,28.7626,bila1255,,Bila
-D32_Bira_Bunia,D32_Bira_Bunia,,1.50054,30.0293,bera1259,,Bera
-D33_Nyali,D33_Nyali,,1.92098,30.0201,nyal1250,,Nyali
-D331_Bvanuma,D331_Bvanuma,,0.93847,29.81348,vanu1242,,Vanuma
-D333_Ndaaka,D333_Ndaaka,,1.53341,27.9693,ndak1241,,Ndaka
-D334_Mbo,D334_Mbo,,1.11602,28.018,mbod1238,,Mbo (Democratic Republic of Congo)
-D43_Nyanga,D43_Nyanga,,-1.29357,28.31546,nyan1304,,Nyanga
-D55_Buyu,D55_Buyu,,-5.41806,28.5545,buyu1239,,Buyu
-Duguri_Jarawan,Duguri_Jarawan,,10.05,10.21,dugu1249,,Duguri
-E46_Sonjo,E46_Sonjo,,-2.19303,35.8035,temi1247,,Temi
-E51_Kikuyu,E51_Kikuyu,,-0.29005,36.719,kiku1240,,Kikuyu
-E52_Embu,E52_Embu,,-0.62822,37.5933,embu1241,,Embu
-E52_Mbeere,E52_Mbeere,,-0.62822,37.5933,embu1241,,Embu
-E53_Igoji,E53_Igoji,,0.26484,37.7396,meru1245,,Meru
-E53_Imenti,E53_Imenti,,0.26484,37.7396,meru1245,,Meru
-E53_Meru,E53_Meru,,0.26484,37.7396,meru1245,,Meru
-E53_Meruimenti,E53_Meruimenti,,0.26484,37.7396,meru1245,,Meru
-E53_Merutig,E53_Merutig,,0.26484,37.7396,meru1245,,Meru
-E53_Miutini,E53_Miutini,,0.26484,37.7396,meru1245,,Meru
-E53_Tigania,E53_Tigania,,0.26484,37.7396,meru1245,,Meru
-E531_Muthambi,E531_Muthambi,,-0.11968,37.5939,mwim1241,,Mwimbi-Muthambi
-E531_Mwimbi,E531_Mwimbi,,-0.11968,37.5939,mwim1241,,Mwimbi-Muthambi
-E54_Tharaka,E54_Tharaka,,-0.13221,38.073,thar1283,,Tharaka
-E541_Chuka,E541_Chuka,,-0.27405,37.6116,chuk1274,,Chuka
-E55_Kamba,E55_Kamba,,-1.60827,37.9532,kamb1297,,Kamba (Kenya)
-E55_Kamba_Kitu,E55_Kamba_Kitu,,-1.60827,37.9532,kamb1297,,Kamba (Kenya)
-E55_Kamba_Mach,E55_Kamba_Mach,,-1.60827,37.9532,kamb1297,,Kamba (Kenya)
-E56_Daiso,E56_Daiso,,-4.81209,38.818,dhai1238,,Dhaiso
-E621B_Machame,E621B_Machame,,-3.29385,37.0703,mach1266,,Machame
-E621C_Siha,E621C_Siha,,-3.29385,37.0703,mach1266,,Machame
-E621D_Kibosho,E621D_Kibosho,,-3.29385,37.0703,mach1266,,Machame
-E622A_Kimochi,E622A_Kimochi,,-3.33743,37.3357,moch1256,,Mochi
-E622C_Lema,E622C_Lema,,-3.42531,37.5847,vunj1238,,Vunjo
-E622C_Mamba,E622C_Mamba,,-3.42531,37.5847,vunj1238,,Vunjo
-E622C_Vunjo,E622C_Vunjo,,-3.42531,37.5847,vunj1238,,Vunjo
-E623_Mkuu,E623_Mkuu,,-3.07772,37.5382,romb1244,,Rombo
-E623A_Kiseri,E623A_Kiseri,,-3.07772,37.5382,romb1244,,Rombo
-E623D_Keni,E623D_Keni,,-3.07772,37.5382,romb1244,,Rombo
-E64_Kahe,E64_Kahe,,-3.51412,37.5759,kahe1238,,Kahe
-E65_Gweno,E65_Gweno,,-3.68407,37.6827,gwen1239,,Gweno
-E701_Elwana,E701_Elwana,,-0.66322,39.793,ilwa1237,,Ilwana
-E71A_Upper_Pokomo,E71A_Upper_Pokomo,,-2.31587,40.2897,poko1261,,Pokomo
-E72a_Giryama,E72a_Giryama,,-3.30638,39.6648,giry1241,,Giryama
-E73_Digo,E73_Digo,,-4.62101,39.1752,digo1243,,Digo
-E74a_Dawida,E74a_Dawida,,-3.79347,38.57254,tait1250,,Taita
-E74a_Tuveta,E74a_Tuveta,,-3.41822,37.7061,tave1240,,Taveta
-F12_Bende,F12_Bende,,-6.22082,30.5926,bend1258,,Bende
-F21_Ntuzu,F21_Ntuzu,,-3.16082,32.8765,suku1261,,Sukuma
-F21_Sukuma,F21_Sukuma,,-3.16082,32.8765,suku1261,,Sukuma
-F22_Nyamwezi,F22_Nyamwezi,,-5.08559,32.94452,nyam1276,,Nyamwezi
-F23_Sumbwa,F23_Sumbwa,,-3.47335,31.9457,sumb1240,,Sumbwa
-F24_Kimbu,F24_Kimbu,,-7.23023,33.6445,kimb1242,,Kimbu
-F25_Bungu,F25_Bungu,,-8.32587,32.8801,bung1265,,Bungu
-F31_Nyiramba,F31_Nyiramba,,-4.50002,34.3068,nila1242,,Nilamba
-F32_Nyaturucha,F32_Nyaturucha,,-5.12263,34.6657,nyat1246,,Nyaturu
-F32_Nyaturuwil,F32_Nyaturuwil,,-5.12263,34.6657,nyat1246,,Nyaturu
-F33_Langi,F33_Langi,,-4.71413,35.9517,lang1320,,Langi
-Fefe_Grassfields,Fefe_Grassfields,,5.18158,10.1442,fefe1239,,Fe'fe'
-G11_Gogo,G11_Gogo,,-6.35951,35.4807,gogo1263,,Gogo
-G12_Kagulu,G12_Kagulu,,-6.38204,37.0534,kagu1239,,Kagulu
-G22_Asu,G22_Asu,,-4.17978,37.8323,asut1235,,Asu (Tanzania)
-G22A_North_Pare,G22A_North_Pare,,-4.17978,37.8323,asut1235,,Asu (Tanzania)
-G22B_South_Pare,G22B_South_Pare,,-4.17978,37.8323,asut1235,,Asu (Tanzania)
-G23_Sambaa,G23_Sambaa,,-4.8,38.29,sham1280,,Shambala
-G24_Bondei,G24_Bondei,,-5.10749,38.5079,bond1247,,Bondei
-G31_Zigua,G31_Zigua,,-5.61864,38.41138,zigu1244,,Zigula-Mushungulu
-G32_Doe,G32_Doe,,-6.25844,38.4902,doee1238,,Doe
-G32_Kwere,G32_Kwere,,-6.50666,38.4449,kwer1261,,Kwere
-G33_Zaramo,G33_Zaramo,,-6.87705,38.9258,zara1247,,Zaramo
-G34_Nguungulu,G34_Nguungulu,,-5.79734,37.6823,ngul1246,,Ngulu
-G35_Luguru,G35_Luguru,,-6.86828,37.5557,lugu1238,,Luguru
-G36_Kami,G36_Kami,,-6.71075,37.98,kami1256,,Kami (Tanzania)
-G37_Kutu,G37_Kutu,,-7.23789,37.8623,kutu1263,,Kutu
-G39_Saghala,G39_Saghala,,-6.98537,36.9153,saga1256,,Sagala
-G401_Mwani,G401_Mwani,,-12.5821,40.4601,mwan1247,,Mwani
-G41_Bajuni,G41_Bajuni,,-8.25605,37.624,swah1253,,Swahili
-G412_Mwiini,G412_Mwiini,,1.111787,44.026991,chim1312,,Chimwiini
-G42_Swahili,G42_Swahili,,-8.25605,37.624,swah1253,,Swahili
-G42a_Amu,G42a_Amu,,-8.25605,37.624,swah1253,,Swahili
-G42d_Unguja,G42d_Unguja,,-8.25605,37.624,swah1253,,Swahili
-G43_Kae,G43_Kae,,-8.25605,37.624,swah1253,,Swahili
-G44a_Ngazija,G44a_Ngazija,,-11.6129,43.36,ngaz1238,,Ngazidja Comorian
-G44b_Ndzwani,G44b_Ndzwani,,-12.2123,44.3709,ndzw1235,,Ndzwani Comorian
-G44D_Maore,G44D_Maore,,-12.830306,45.154942,maor1244,,Maore Comorian
-G51_Pogoro,G51_Pogoro,,-8.72283,36.4148,pogo1243,,Pogolo
-G52_Ndamba,G52_Ndamba,,-8.40485,36.0271,ndam1239,,Ndamba
-G61_Sangu,G61_Sangu,,-8.4,33.9,sang1330,,Sangu (Tanzania)
-G62_Hehe,G62_Hehe,,-7.71572,35.7255,hehe1240,,Hehe
-G63_Bena,G63_Bena,,-9.26671,35.0364,bena1262,,Bena (Tanzania)
-G64_Pangwa,G64_Pangwa,,-9.96782,34.8039,pang1287,,Pangwa
-G65_Kinga,G65_Kinga,,-9.35868,34.2321,nucl1379,,Kinga
-G66_Wanji,G66_Wanji,,-9.00683,34.0757,vwan1235,,Vwanji
-H11_Beembe,H11_Beembe,,-3.95895,14.1,beem1239,,Beembe
-H111_Hangala,H111_Hangala,,-4.25,14.9,laar1238,,Laari
-H12_Civili_Congo,H12_Civili_Congo,,-4.06716,11.3804,vili1238,,Vili
-H13_Kikunyi_1989,H13_Kikunyi_1989,,-3.69702,12.5197,kuny1238,,Kunyi
-H131_Kisundi_Congo_Kimongo_1988,H131_Kisundi_Congo_Kimongo_1988,,-4.58488,13.3212,suun1239,,Suundi
-H16_Cilinji,H16_Cilinji,,-5.1263,12.9657,yomb1244,,Yombe
-H16_Cimbala,H16_Cimbala,,-5.1263,12.9657,yomb1244,,Yombe
-H16_Cizobe,H16_Cizobe,,-5.1263,12.9657,yomb1244,,Yombe
-H16_Kikongo,H16_Kikongo,,-5.57722,14.4771,koon1244,,South-Central Koongo
-H16_Kimbata_Ngidinga,H16_Kimbata_Ngidinga,,-5.25,15.5,east2782,,Eastern Kikongo
-H16_Kimbeko,H16_Kimbeko,,-5.25,15.5,east2782,,Eastern Kikongo
-H16a_Kisikongo_2013,H16a_Kisikongo_2013,,-5.57722,14.4771,koon1244,,South-Central Koongo
-H16a_Kisolongo_DRC_2012,H16a_Kisolongo_DRC_2012,,-5.57722,14.4771,koon1244,,South-Central Koongo
-H16b_Kindibu_2013,H16b_Kindibu_2013,,-5.57722,14.4771,koon1244,,South-Central Koongo
-H16c_Kiyombe_DRC_1982,H16c_Kiyombe_DRC_1982,,-5.1263,12.9657,yomb1244,,Yombe
-H16c_Yombe,H16c_Yombe,,-4.06716,11.3804,vili1238,,Vili
-H16d_Ciwoyo_DRC_2012,H16d_Ciwoyo_DRC_2012,,-5.7114,12.5372,sans1272,,San Salvador Kongo
-H16f_Laadi,H16f_Laadi,,-4.25,14.9,laar1238,,Laari
-H16g_Kimpangu_2012,H16g_Kimpangu_2012,,-5.25,15.5,east2782,,Eastern Kikongo
-H16g_Ntandu,H16g_Ntandu,,-5.25,15.5,east2782,,Eastern Kikongo
-H16h_Kinkanu_2012,H16h_Kinkanu_2012,,-5.25,15.5,east2782,,Eastern Kikongo
-H21a_Kimbundu,H21a_Kimbundu,,-8.97835,14.8893,kimb1241,,Kimbundu
-H31_Yaka,H31_Yaka,,-5.984,16.775,yaka1269,,Yaka-Pelende-Lonzo
-H32_Suku,H32_Suku,,-5.76495,17.7736,suku1259,,Suku
-H321_Soonde,H321_Soonde,,-6.32223,18.3555,sond1250,,Sonde
-H41_Mbala,H41_Mbala,,-5.11888,18.041,mbal1257,,Mbala
-H42_Hunganna,H42_Hunganna,,-3.69695,18.4312,hung1278,,Hungan
-JD53_Shi,JD53_Shi,,-2.55777,28.6122,shii1238,,Shi
-JD62_Rundi,JD62_Rundi,,-2.94,29.97,rund1242,,Rundi
-JD64_Shubi,JD64_Shubi,,-2.97663,31.0681,shub1238,,Shubi
-JD65_Hangaza,JD65_Hangaza,,-2.52347,30.7074,hang1260,,Hangaza
-JD66_Kiha,JD66_Kiha,,-3.77873,30.4894,haaa1252,,Ha
-JD67_Kivinza,JD67_Kivinza,,-4.99312,30.5699,vinz1238,,Vinza
-JE11_Runyoro,JE11_Runyoro,,0.95294,31.3493,nyor1246,,Nyoro
-JE12_Rutooro,JE12_Rutooro,,0.57291,30.6389,toor1238,,Tooro
-JE13_Runyankore,JE13_Runyankore,,-0.46364,30.548,nyan1307,,Nyankole
-JE14_Rukiga,JE14_Rukiga,,-1.04387,29.9122,chig1238,,Chiga
-JE15_Luganda,JE15_Luganda,,0.66884,32.15153,gand1255,,Ganda
-JE16_Lusoga,JE16_Lusoga,,0.40456,33.3942,soga1242,,Soga
-JE17_Gwere,JE17_Gwere,,1.11392,33.8227,gwer1238,,Gwere
-JE21_Runyambo,JE21_Runyambo,,-1.6096,30.9156,nyam1277,,Nyambo
-JE22_Haya,JE22_Haya,,-1.70878,31.4846,haya1250,,Haya
-JE23_Zinza,JE23_Zinza,,-2.64132,32.1755,zinz1238,,Zinza
-JE24_Kerebe,JE24_Kerebe,,-2.09315,33.5326,kere1283,,Kerewe
-JE25_Jita,JE25_Jita,,-1.62681,33.9141,jita1239,,Jita
-JE25_Kilegi,JE25_Kilegi,,-1.83511,33.0488,kara1481,,Kara (Tanzania)
-JE25_Mkwaya,JE25_Mkwaya,,-1.80737,33.71,kway1241,,Kwaya
-JE31_Lumasaaba,JE31_Lumasaaba,,1.05906,34.2829,masa1299,,Masaaba
-JE31c_Bukusu,JE31c_Bukusu,,0.68043,34.7719,buku1249,,Bukusu
-JE32_Luyia,JE32_Luyia,,0.3652,34.0335,saam1283,,Saamia
-JE34_Samialugwe,JE34_Samialugwe,,0.3652,34.0335,saam1283,,Saamia
-JE401_Ngoreme,JE401_Ngoreme,,-1.8485,34.6173,ngur1263,,Ngoreme
-JE402_Ikizu,JE402_Ikizu,,-1.9915,34.3589,ikiz1238,,Ikizu
-JE403_Suba,JE403_Suba,,-0.95719,34.1033,suba1238,,Suba
-JE404_Shasi,JE404_Shasi,,-1.9915,34.3589,ikiz1238,,Ikizu
-JE41_Maragoli,JE41_Maragoli,,0.09487,34.729,logo1258,,Logooli
-JE42_Gusii,JE42_Gusii,,-0.78872,34.76751,gusi1247,,Gusii
-JE43_Kuria,JE43_Kuria,,-1.50636,34.5049,kuri1259,,Kuria
-JE43_Kuria_Mago,JE43_Kuria_Mago,,-1.50636,34.5049,kuri1259,,Kuria
-JE43_Kuria_Tari,JE43_Kuria_Tari,,-1.50636,34.5049,kuri1259,,Kuria
-JE44_Zanaki,JE44_Zanaki,,-2.26367,34.0542,zana1238,,Zanaki
-JE45_Nata,JE45_Nata,,-1.94989,34.5361,ikom1245,,Ikoma-Nata
-K11_Ciokwe,K11_Ciokwe,,-9.66082,21.3992,chok1245,,Chokwe
-K14_Lwena,K14_Lwena,,-13.5382,22.2924,luva1239,,Luvale
-K15_Mbunda,K15_Mbunda,,-14.603,21.9768,mbun1249,,Mbunda
-K21_Lozi,K21_Lozi,,-17.7052,24.7398,lozi1239,,Lozi
-K31_Luyana,K31_Luyana,,-15.01,22.67,luya1241,,Luyi
-K33_Kwangali,K33_Kwangali,,-17.9026,19.256,kwan1273,,Kwangali
-K332_Rumanyo,K332_Rumanyo,,-18.1681,20.6678,diri1252,,Diriku-Shambyu
-Kom_Grassfields,Kom_Grassfields,,6.2596,10.3348,komc1235,,Kom (Cameroon)
-Kulung_Jarawan,Kulung_Jarawan,,9.20815,11.04651,kulu1255,,Kulung (Nigeria)
-L11_Pende,L11_Pende,,-5.64735,19.8275,phen1239,,Phende
-L12b_Holu,L12b_Holu,,-8.14754,17.572,holu1245,,Holu
-L13_Kwese,L13_Kwese,,-5.60445,18.5759,kwes1244,,Kwese
-L221_Lwalwa,L221_Lwalwa,,-7.16388,22.1097,lwal1238,,Lwalu
-L23_Songe,L23_Songe,,-5.71993,25.2765,song1303,,Songe
-L31a_Luba-Kasai,L31a_Luba-Kasai,,-5.72717,22.4422,luba1249,,Luba-Lulua
-L32_Kanyok,L32_Kanyok,,-7.31878,23.613,kany1247,,Kanyok
-L33_Luba-Shaba,L33_Luba-Shaba,,-8.2816,25.8918,luba1250,,Luba-Katanga
-L34_Hemba,L34_Hemba,,-7.77459,27.5913,hemb1242,,Hemba-Yazi
-L35_Sanga,L35_Sanga,,-10.0236,26.8462,sang1331,,Sanga (Democratic Republic of Congo)
-L41_Kaonde,L41_Kaonde,,-12.4129,25.7646,kaon1241,,Kaonde
-L51_Salampasu,L51_Salampasu,,-5.44937,23.1502,sala1268,,Salampasu
-L52_Lunda,L52_Lunda,,-11.1793,23.8662,lund1266,,Lunda
-L53_Runda,L53_Runda,,-8.86971,21.4164,ruun1238,,Ruund
-L62_Nkoya,L62_Nkoya,,-14.8513,24.7649,nkoy1244,,Nkoya
-M11_Pimbwe,M11_Pimbwe,,-6.81358,31.4289,pimb1238,,Pimbwe
-M12_Lungwa,M12_Lungwa,,-7.24959,31.7614,rung1255,,Rungwa
-M13_Fipa,M13_Fipa,,-7.88963,31.3442,fipa1238,,Fipa
-M14_Rungu,M14_Rungu,,-8.86817,31.2269,mamb1296,,Mambwe-Lungu
-M15_Mambwe,M15_Mambwe,,-8.86817,31.2269,mamb1296,,Mambwe-Lungu
-M21_Ndali,M21_Ndali,,-9.88948,33.6118,ndal1241,,Ndali
-M21_Wanda,M21_Wanda,,-8.34522,32.4375,wand1264,,Wanda
-M22_Namwanga,M22_Namwanga,,-9.11261,32.3163,nyam1275,,Nyamwanga
-M23_Nyiha,M23_Nyiha,,-9.4472,32.9057,nyih1240,,Nyiha (Tanzania)
-M24_Malila,M24_Malila,,-9.16619,33.339,mali1279,,Malila
-M25_Safwa,M25_Safwa,,-8.54936,33.4766,safw1238,,Safwa
-M28_Lambya,M28_Lambya,,-9.49372,33.15852,lamb1272,,Lambya
-M31_Nyakyusa,M31_Nyakyusa,,-9.71018,33.7763,nyak1260,,Nyakyusa-Ngonde
-M41_Taabwa,M41_Taabwa,,-7.91416,29.5238,taab1238,,Taabwa
-M42_Bemba,M42_Bemba,,-10.6122,29.2993,bemb1257,,Bemba (Zambia)
-M52_Lala,M52_Lala,,-12.945,30.2297,lala1264,,Lala-Bisa
-M54_Lamba,M54_Lamba,,-12.3366,27.9026,lamb1271,,Lamba
-M61_Lenje,M61_Lenje,,-14.7192,28.2581,lenj1248,,Lenje
-M62_Soli,M62_Soli,,-15.5213,28.7934,soli1239,,Soli
-M64_Tonga,M64_Tonga,,-17.422325,27.103495,tong1318,,Tonga (Zambia)
-Mbula_Jarawan,Mbula_Jarawan,,9.60769,12.2439,mbul1260,,Mbula-Bwazza
-Moghamo_Grassfields,Moghamo_Grassfields,,5.88942,9.87416,meta1238,,Meta'
-Mungaka_Grassfields,Mungaka_Grassfields,,5.89752,10.0294,mung1266,,Mungaka
-N11_Manda,N11_Manda,,-10.3991,34.7424,mand1423,,Manda-Matumba
-N12_Ngoni,N12_Ngoni,,-11.779,35.459,tanz1241,,Tanzanian Ngoni
-N13_Matengo,N13_Matengo,,-11.554,35.0056,mate1258,,Matengo
-N14_Mpoto,N14_Mpoto,,-11.13767,34.71269,mpot1240,,Mpoto
-N21_Tumbuka_Malawi,N21_Tumbuka_Malawi,,-11.3297,33.3738,tumb1250,,Tumbuka
-N31_Chewa,N31_Chewa,,-14.8047,32.8108,nyan1308,,Nyanja
-N42_Kunda,N42_Kunda,,-15.7337,30.2804,kund1255,,Chikunda
-Njen_Grassfields,Njen_Grassfields,,5.75169,9.90439,njen1238,,Njen
-Oku_Grassfields,Oku_Grassfields,,6.23712,10.5096,okuu1243,,Oku
-P11_Ndengeleko,P11_Ndengeleko,,-7.54628,38.958,nden1248,,Ndengereko
-P12_Rufiji,P12_Rufiji,,-7.54628,38.958,nden1248,,Ndengereko
-P13_Matumbi,P13_Matumbi,,-8.53734,39.0409,matu1259,,Matumbi
-P14_Ngindo,P14_Ngindo,,-9.78145,37.9832,ngin1244,,Ngindo
-P15_Mbunga,P15_Mbunga,,-8.19661,36.5362,mbun1248,,Mbunga
-P21_Yao,P21_Yao,,-13.6119,35.2387,yaoo1241,,Yao
-P22_Mwera,P22_Mwera,,-9.75639,38.8762,mwer1248,,Mwera (Chimwera)
-P23_Simakonde,P23_Simakonde,,-10.9906,39.5133,mako1251,,Makonde
-P25_Mabia,P25_Mabia,,-10.9906,39.5133,mako1251,,Makonde
-P31_Emakhua,P31_Emakhua,,-14.8509,38.8052,makh1264,,Makhuwa
-P31G_Ikorovere,P31G_Ikorovere,,-11.9553,38.6874,makh1261,,Makhuwa-Meetto
-R11_Umbundu,R11_Umbundu,,-12.4763,14.4148,umbu1257,,Umbundu
-R21_Kwanyama,R21_Kwanyama,,-17.7176,16.58,kuan1247,,Kuanyama
-R22_Ndonga,R22_Ndonga,,-17.22,17.35,ndon1254,,Ndonga
-R31_Herero,R31_Herero,,-21.0231,20.5655,here1253,,Herero
-S11_Shona,S11_Shona,,-17.20849,29.75725,shon1251,,Shona
-S16_Kalanga,S16_Kalanga,,-21.2887,27.401,kala1384,,Kalanga
-S21_Venda,S21_Venda,,-22.188,29.9523,vend1245,,Venda
-S31_Tswana,S31_Tswana,,-24.368,24.7587,tswa1253,,Tswana
-S311_Shekgalagari,S311_Shekgalagari,,-24.9208,22.72016,kgal1244,,Kgalagadi
-S41_Xhosa,S41_Xhosa,,-31.0389,28.0769,xhos1239,,Xhosa
-S42_Zulu,S42_Zulu,,-28.9,30.2,zulu1248,,Zulu
-S44_Ndebele,S44_Ndebele,,-28.9,30.2,zulu1248,,Zulu
-S51_Tshwa,S51_Tshwa,,-22.9891,32.4287,tswa1255,,Tswa
-S53_Tsonga,S53_Tsonga,,-23.5754,31.8105,tson1249,,Tsonga
-Tiv_Tivoid,Tiv_Tivoid,,6.88039,9.26287,tivv1240,,Tiv
-Zaambo_Jarawan,Zaambo_Jarawan,,9.60769,12.2439,mbul1260,,Mbula-Bwazza
+ID,Name,Macroarea,Latitude,Longitude,Glottocode,ISO639P3code,Original_Name,Glottolog_Name
+A11_Londo,A11_Londo,,4.89504,9.15209,orok1266,,A11_Londo,Oroko
+A121_Mbonge,A121_Mbonge,,4.89504,9.15209,orok1266,,A121_Mbonge,Oroko
+A122_Bakundu,A122_Bakundu,,4.89504,9.15209,orok1266,,A122_Bakundu,Oroko
+A141_Lefo,A141_Lefo,,4.53307,9.522,bafa1247,,A141_Lefo,Bafaw-Balong
+A15_Manenguba,A15_Manenguba,,4.79991,9.80402,baka1273,,A15_Manenguba,Bakaka
+A151_Nkongho,A151_Nkongho,,5.33848,9.80096,nkon1247,,A151_Nkongho,Nkongho
+A15A_Mbuu,A15A_Mbuu,,5.13981,9.92766,mboc1235,,A15A_Mbuu,Mbo (Cameroon)
+A15B_Mienge_NW_Manenguba,A15B_Mienge_NW_Manenguba,,5.23655,9.52275,bass1260,,A15B_Mienge_NW_Manenguba,Bassossi
+A15C_Akossi,A15C_Akossi,,4.9243,9.65522,akoo1248,,A15C_Akossi,Akoose
+A15C_Elung_Central_Manenguba,A15C_Elung_Central_Manenguba,,4.9243,9.65522,akoo1248,,A15C_Elung_Central_Manenguba,Akoose
+A15C_Mkaa,A15C_Mkaa,,4.79991,9.80402,baka1273,,A15C_Mkaa,Bakaka
+A22_Bakweri,A22_Bakweri,,4.24178,9.23887,mokp1239,,A22_Bakweri,Mokpwe
+A24_Duala,A24_Duala,,4.10208,9.61877,dual1243,,A24_Duala,Duala
+A27_Malimba,A27_Malimba,,3.67696,9.67186,mali1280,,A27_Malimba,Malimba
+A31_Bubi,A31_Bubi,,3.53638,8.68929,bube1242,,A31_Bubi,Bube
+A32C_Batanga,A32C_Batanga,,1.397041,9.51011,bata1285,,A32C_Batanga,Batanga
+A33a_Yasa,A33a_Yasa,,2.06043,10.678,yasa1242,,A33a_Yasa,Yasa
+A34_Benga,A34_Benga,,1.075766,9.600739,beng1282,,A34_Benga,Benga
+A41_Barombi-Kang,A41_Barombi-Kang,,4.64584,9.25261,baro1252,,A41_Barombi-Kang,Barombi
+A42_Abo,A42_Abo,,4.3702,9.6403,bank1256,,A42_Abo,Bankon
+A43a_Basaa,A43a_Basaa,,3.80765,10.4213,basa1284,,A43a_Basaa,Basa (Cameroon)
+A44_Tunen,A44_Tunen,,4.75,10.67,tune1261,,A44_Tunen,Tunen
+A45_Nyokon,A45_Nyokon,,4.75,10.5,nyok1243,,A45_Nyokon,Nyokon
+A46_Nomaande,A46_Nomaande,,4.5893,10.9157,noma1260,,A46_Nomaande,Nomaande
+A462_Yambeta,A462_Yambeta,,4.83615,10.9369,yamb1252,,A462_Yambeta,Yambeta
+A51_Bafia_maja,A51_Bafia_maja,,4.72603,11.0982,bafi1243,,A51_Bafia_maja,Bafia
+A53_Bafia_rikpa,A53_Bafia_rikpa,,4.72603,11.0982,bafi1243,,A53_Bafia_rikpa,Bafia
+A54_Tibea,A54_Tibea,,5.30535,11.3103,tibe1274,,A54_Tibea,Tibea
+A601_Tuki,A601_Tuki,,4.64348,11.5353,tuki1240,,A601_Tuki,Tuki
+A61_Ngoro-Asom,A61_Ngoro-Asom,,4.78874,12.824,bebe1248,,A61_Ngoro-Asom,Bebele
+A61_Ngoro-Bisoo,A61_Ngoro-Bisoo,,4.21045,11.3935,eton1253,,A61_Ngoro-Bisoo,Eton-Mengisa
+A61_Ngoro-lunda,A61_Ngoro-lunda,,4.21045,11.3935,eton1253,,A61_Ngoro-lunda,Eton-Mengisa
+A621_Nubaca,A621_Nubaca,,4.35696,11.029,nuba1241,,A621_Nubaca,Nubaca
+A622_Nugunu,A622_Nugunu,,4.63103,11.1837,nugu1242,,A622_Nugunu,Nugunu (Cameroon)
+A62A_Nuasue,A62A_Nuasue,,4.41971,11.0277,yang1293,,A62A_Nuasue,Yangben
+A62A_Nukalonge,A62A_Nukalonge,,4.41971,11.0277,yang1293,,A62A_Nukalonge,Yangben
+A62B_Mmala,A62B_Mmala,,4.52188,11.0599,mmaa1238,,A62B_Mmala,Mmaala
+A62C_Libie,A62C_Libie,,4.45694,11.193,elip1238,,A62C_Libie,Elip
+A63_Mangisa,A63_Mangisa,,4.21045,11.3935,eton1253,,A63_Mangisa,Eton-Mengisa
+A71_Eton,A71_Eton,,4.21045,11.3935,eton1253,,A71_Eton,Eton-Mengisa
+A72a_Ewondo,A72a_Ewondo,,4.21141,11.93646,ewon1239,,A72a_Ewondo,Ewondo
+A74a_Bulu,A74a_Bulu,,3.16141,11.6365,bulu1251,,A74a_Bulu,Bulu (Cameroon)
+A75a_Fang_Bitam,A75a_Fang_Bitam,,1.723965,11.61454,fang1246,,A75a_Fang_Bitam,Fang (Equatorial Guinea)
+A75a_Fang_Medouneu,A75a_Fang_Medouneu,,1.723965,11.61454,fang1246,,A75a_Fang_Medouneu,Fang (Equatorial Guinea)
+A75a_Fang_Minvoul,A75a_Fang_Minvoul,,1.723965,11.61454,fang1246,,A75a_Fang_Minvoul,Fang (Equatorial Guinea)
+A803_Shiwa,A803_Shiwa,,-0.091645,11.947061,shiw1234,,A803_Shiwa,Shiwa
+A81_Kwasio,A81_Kwasio,,2.39354,10.0812,kwas1243,,A81_Kwasio,Kwasio
+A83_Mekaa,A83_Mekaa,,4.15471,13.0789,maka1304,,A83_Mekaa,Makaa
+A832_Bekol,A832_Bekol,,3.65994,12.8574,kolc1235,,A832_Bekol,Kol (Cameroon)
+A84_Njem,A84_Njem,,2.30483,14.1175,njye1238,,A84_Njem,Njyem
+A841_Badwe,A841_Badwe,,3.25933,13.54152,koon1245,,A841_Badwe,Koonzime
+A85b_Bekwil_Makokou,A85b_Bekwil_Makokou,,1.71801,14.6527,bekw1242,,A85b_Bekwil_Makokou,Bekwil
+A85b_Bekwil_Mv,A85b_Bekwil_Mv,,1.71801,14.6527,bekw1242,,A85b_Bekwil_Mv,Bekwil
+A86c_Mpiemo,A86c_Mpiemo,,3.45776,15.5246,mpie1238,,A86c_Mpiemo,Mpiemo
+A87_Bomwali,A87_Bomwali,,1.71005,15.9546,bomw1238,,A87_Bomwali,Bomwali
+A91_Kwakum,A91_Kwakum,,4.34393,13.6446,kwak1266,,A91_Kwakum,Kwakum
+A93_Kako,A93_Kako,,3.79989,15.6282,kako1242,,A93_Kako,Kako
+Aghem_Grassfields,Aghem_Grassfields,,6.38956,10.0807,aghe1239,,Aghem_Grassfields,Aghem
+B11a_Mpongwe,B11a_Mpongwe,,-1.48741,9.50247,myen1241,,B11a_Mpongwe,Myene
+B11b_Orungu,B11b_Orungu,,-1.48741,9.50247,myen1241,,B11b_Orungu,Myene
+B11c_Galwa,B11c_Galwa,,-1.48741,9.50247,myen1241,,B11c_Galwa,Myene
+B11d_Dyumba,B11d_Dyumba,,-1.48741,9.50247,myen1241,,B11d_Dyumba,Myene
+B11F_Enenga,B11F_Enenga,,-1.48741,9.50247,myen1241,,B11F_Enenga,Myene
+B201_Ndasa,B201_Ndasa,,-2.449015,13.369465,ndas1238,,B201_Ndasa,Ndasa
+B202_Sigu,B202_Sigu,,-0.95605,13.1214,sigh1238,,B202_Sigu,Sighu
+B203_Samaye,B203_Samaye,,-0.012,13.61,osam1235,,B203_Samaye,Osamayi
+B204_Ndambomo_Li,B204_Ndambomo_Li,,-0.82,12.77,ndam1254,,B204_Ndambomo_Li,Ndambomo
+B204_Ndambomo_Massoukou,B204_Ndambomo_Massoukou,,-0.82,12.77,ndam1254,,B204_Ndambomo_Massoukou,Ndambomo
+B204_Ndambomo_Mbadi,B204_Ndambomo_Mbadi,,-0.82,12.77,ndam1254,,B204_Ndambomo_Mbadi,Ndambomo
+B21_Seki,B21_Seki,,1.52302,9.79206,seki1238,,B21_Seki,Seki
+B22a_Kele,B22a_Kele,,-0.78854,10.3836,kele1257,,B22a_Kele,Kélé
+B22b_Koya,B22b_Koya,,0.882925,14.1345,ngom1270,,B22b_Koya,Ngom
+B22b_Ngom,B22b_Ngom,,0.882925,14.1345,ngom1270,,B22b_Ngom,Ngom
+B22E_Mwesa,B22E_Mwesa,,0.086134,13.30037,mwes1234,,B22E_Mwesa,Mwesa
+B23_Mbangwe,B23_Mbangwe,,-2.28729,13.5956,mban1268,,B23_Mbangwe,Mbangwe
+B24_Wumbvu,B24_Wumbvu,,-2.39234,12.264,wumb1242,,B24_Wumbvu,Wumbvu
+B25_Kota,B25_Kota,,1.016,13.97,kota1274,,B25_Kota,Kota (Gabon)
+B251_Shake,B251_Shake,,0.25188,11.787,sake1247,,B251_Shake,Sake
+B252_Mahongwe,B252_Mahongwe,,0.64356,14.0472,maho1248,,B252_Mahongwe,Mahongwe
+B301_Viya,B301_Viya,,-1.22,10.58,eviy1235,,B301_Viya,Viya
+B302_Himba,B302_Himba,,-1.28107,11.1783,simb1254,,B302_Himba,Simba
+B304_Pinzi,B304_Pinzi,,-1.90305,11.223,pinj1243,,B304_Pinzi,Pinji
+B305_Vove,B305_Vove,,-1.16762,12.32251,bubi1250,,B305_Vove,Bubi
+B31_Tsogo,B31_Tsogo,,-1.55469,11.1359,tsog1243,,B31_Tsogo,Tsogo
+B32_Kande,B32_Kande,,-0.00776,11.7076,kand1300,,B32_Kande,Kande
+B404_Ngubi,B404_Ngubi,,-3.433411,10.768112,ngub1239,,B404_Ngubi,Ngubi
+B41_Shira,B41_Shira,,-1.78084,10.4635,sira1266,,B41_Shira,Sira
+B42_Sangu_Mb,B42_Sangu_Mb,,-1.52694,11.9098,sang1333,,B42_Sangu_Mb,Sangu (Gabon)
+B42_Sangu_Mi,B42_Sangu_Mi,,-1.52694,11.9098,sang1333,,B42_Sangu_Mi,Sangu (Gabon)
+B43_Punu,B43_Punu,,-2.67362,11.6714,punu1239,,B43_Punu,Punu
+B44_Lumbu,B44_Lumbu,,-3.37917,11.124,lumb1249,,B44_Lumbu,Lumbu
+B501_Wanzi_E,B501_Wanzi_E,,-1.51945,12.8951,wand1266,,B501_Wanzi_E,Wandji
+B501_Wanzi_Mo,B501_Wanzi_Mo,,-1.51945,12.8951,wand1266,,B501_Wanzi_Mo,Wandji
+B503_Vili,B503_Vili,,-2.752859,10.305563,vili1239,,B503_Vili,Vili of Ngounie
+B51_Duma,B51_Duma,,-0.91927,13.0046,duma1253,,B51_Duma,Duma
+B51_Duma_La,B51_Duma_La,,-0.91927,13.0046,duma1253,,B51_Duma_La,Duma
+B52_Nzebi,B52_Nzebi,,-2.18115,12.7063,njeb1242,,B52_Nzebi,Njebi
+B53_Tsaangi_Poungi,B53_Tsaangi_Poungi,,-2.29245,12.7581,tsaa1242,,B53_Tsaangi_Poungi,Tsaangi
+B601_Lempini,B601_Lempini,,-0.477445,14.2877,mber1257,,B601_Lempini,Mbere-Mbamba
+B602_Kaningi_Nord,B602_Kaningi_Nord,,-1.71316,13.6111,kani1279,,B602_Kaningi_Nord,Kaningi
+B602_Kaningi_Sud,B602_Kaningi_Sud,,-1.71316,13.6111,kani1279,,B602_Kaningi_Sud,Kaningi
+B62_Mbaama,B62_Mbaama,,-0.477445,14.2877,mber1257,,B62_Mbaama,Mbere-Mbamba
+B63_Ndumu,B63_Ndumu,,-1.67033,13.7279,ndum1239,,B63_Ndumu,Ndumu
+B701_Atsitsege,B701_Atsitsege,,-2.03393,13.6001,tchi1245,,B701_Atsitsege,Tchitchege
+B71a_Teke_Dj,B71a_Teke_Dj,,-1.61688,14.8664,teke1275,,B71a_Teke_Dj,Latege
+B71a_Teke_Os,B71a_Teke_Os,,-1.61688,14.8664,teke1275,,B71a_Teke_Os,Latege
+B71aIb_Teke_Ibali_Congo,B71aIb_Teke_Ibali_Congo,,-4.20697,15.3893,ibal1241,,B71aIb_Teke_Ibali_Congo,Kwa South
+B71aLe_Teke_Leconi,B71aLe_Teke_Leconi,,-1.61688,14.8664,teke1275,,B71aLe_Teke_Leconi,Latege
+B77b_Fumu,B77b_Fumu,,-3.59003,15.5061,teke1274,,B77b_Fumu,Teke-Fuumu
+B78_Wuumu,B78_Wuumu,,-4.27,15.72,wuum1239,,B78_Wuumu,Wuumu-Mpuono
+B81_Tiene,B81_Tiene,,-2.84694,16.4765,tien1242,,B81_Tiene,Tiene
+B82_Buma,B82_Buma,,-3.01,16.92,boma1251,,B82_Buma,Boma Nord
+B84_Mbunda,B84_Mbunda,,-5.21134,19.4269,mpuo1241,,B84_Mbunda,Mbuun
+B85_Yanzi,B85_Yanzi,,-3.8231,18.2341,yans1239,,B85_Yanzi,Yansi
+B85d_Nsongo,B85d_Nsongo,,-4.55057,18.4978,song1299,,B85d_Nsongo,Nsong-Mpiin
+B85e_Mput,B85e_Mput,,-4.44304,19.3881,ding1239,,B85e_Mput,Ding
+B86_Dinga,B86_Dinga,,-4.44304,19.3881,ding1239,,B86_Dinga,Ding
+B86_Dzing,B86_Dzing,,-4.44304,19.3881,ding1239,,B86_Dzing,Ding
+B861_Ngul,B861_Ngul,,-4.09816,19.5129,ngul1247,,B861_Ngul,Ngwii
+B862_Lwel,B862_Lwel,,-4.38475,20.6314,lwel1234,,B862_Lwel,Lwel
+B863_Pindi,B863_Pindi,,-4.55057,18.4978,song1299,,B863_Pindi,Nsong-Mpiin
+B864_Ngong,B864_Ngong,,-5.5,18.2,ngon1267,,B864_Ngong,Ngongo
+B865_Nzadi,B865_Nzadi,,-4.102208,20.194462,nzad1234,,B865_Nzadi,Nzadi
+Bamun_Grassfields,Bamun_Grassfields,,5.49017,10.8477,bamu1253,,Bamun_Grassfields,Bamun
+Bile_Jarawan,Bile_Jarawan,,8.90052,11.1907,bile1244,,Bile_Jarawan,Bile
+Bwazza_Jarawan,Bwazza_Jarawan,,9.60769,12.2439,mbul1260,,Bwazza_Jarawan,Mbula-Bwazza
+C101_Babole_Dz,C101_Babole_Dz,,1.07773,17.2305,dibo1245,,C101_Babole_Dz,Dibole
+C101_Babole_Ep,C101_Babole_Ep,,1.70044,17.3733,bomi1238,,C101_Babole_Ep,Bomitaba
+C101_Babole_Ma,C101_Babole_Ma,,1.07773,17.2305,dibo1245,,C101_Babole_Ma,Dibole
+C104_Aka,C104_Aka,,3.6515,17.2713,yaka1272,,C104_Aka,Yaka (Central African Republic)
+C105_Mbenga,C105_Mbenga,,2.11942,20.8759,maba1270,,C105_Mbenga,Mabaale
+C141_Bonyala,C141_Bonyala,,-1.23019,15.5322,mbos1242,,C141_Bonyala,Mbosi
+C142_Mondongo,C142_Mondongo,,2.16773,19.1644,bamw1238,,C142_Mondongo,Bamwe
+C15_Bongili,C15_Bongili,,0.37063,16.6079,bong1284,,C15_Bongili,Bongili
+C21_Ngare,C21_Ngare,,0.43541,14.7935,mbok1243,,C21_Ngare,Mboko
+C22_Akwa,C22_Akwa,,-0.39897,15.4623,akwa1248,,C22_Akwa,Akwa
+C24_Koyo,C24_Koyo,,-0.69688,15.7508,koyo1242,,C24_Koyo,Koyo
+C25_Mboshi,C25_Mboshi,,-1.23019,15.5322,mbos1242,,C25_Mboshi,Mbosi
+C25A_Bunji,C25A_Bunji,,-1.23019,15.5322,mbos1242,,C25A_Bunji,Mbosi
+C25B_Olee,C25B_Olee,,-1.23019,15.5322,mbos1242,,C25B_Olee,Mbosi
+C25C_Ondinga,C25C_Ondinga,,-1.23019,15.5322,mbos1242,,C25C_Ondinga,Mbosi
+C25E_Eboyi,C25E_Eboyi,,-0.69688,15.7508,koyo1242,,C25E_Eboyi,Koyo
+C302_Bolondo,C302_Bolondo,,2.46327,19.6181,bolo1263,,C302_Bolondo,Bolondo
+C32_Bobangi,C32_Bobangi,,-0.87437,17.227,bang1354,,C32_Bobangi,Bobangi
+C322_Zamba,C322_Zamba,,1.25,18.3,zamb1245,,C322_Zamba,Zamba
+C323_Mpama,C323_Mpama,,-0.739203,17.685662,mpam1239,,C323_Mpama,Mpama
+C34_Sakata,C34_Sakata,,-2.85653,17.9669,saka1287,,C34_Sakata,Sakata
+C36d_Lingala,C36d_Lingala,,-4.409174,15.28532,ling1263,,C36d_Lingala,Kinshasa Lingala
+C36g_Monyongo,C36g_Monyongo,,2.16773,19.1644,bamw1238,,C36g_Monyongo,Bamwe
+C36g_Mosange,C36g_Mosange,,2.15101,19.4087,ndol1238,,C36g_Mosange,Ndolo
+C37_Ebudza,C37_Ebudza,,2.19951,22.6107,budz1238,,C37_Ebudza,Budza
+C401_Babati_1919,C401_Babati_1919,,2.5957,25.2514,bwaa1238,,C401_Babati_1919,Bwa
+C401_Pakabete,C401_Pakabete,,3.15636,22.1212,pagi1243,,C401_Pakabete,Pagibete
+C41_Ngombe,C41_Ngombe,,1.45357,20.14148,ngom1268,,C41_Ngombe,Ngombe (Democratic Republic of Congo)
+C412_Libobi,C412_Libobi,,2.16773,19.1644,bamw1238,,C412_Libobi,Bamwe
+C42_Ebwela,C42_Ebwela,,3.22,19.28,bwel1238,,C42_Ebwela,Bwela
+C43A_Baati,C43A_Baati,,2.5957,25.2514,bwaa1238,,C43A_Baati,Bwa
+C44_Bwa,C44_Bwa,,2.5957,25.2514,bwaa1238,,C44_Bwa,Bwa
+C52_Soko,C52_Soko,,1.25037,23.6907,sode1235,,C52_Soko,So (Democratic Republic of Congo)
+C52_Soko_1919,C52_Soko_1919,,1.25037,23.6907,sode1235,,C52_Soko_1919,So (Democratic Republic of Congo)
+C54_Turumba_1919,C54_Turumba_1919,,0.88267,24.6862,lomb1260,,C54_Turumba_1919,Lombo
+C55_Lokele,C55_Lokele,,0.36906,24.3098,kele1255,,C55_Lokele,Kele-Foma
+C61_Mongo,C61_Mongo,,-1.54228,20.4259,mong1338,,C61_Mongo,Mongo
+C61E_Konda,C61E_Konda,,-1.54228,20.4259,mong1338,,C61E_Konda,Mongo
+C71_Tetela,C71_Tetela,,-4.29314,24.546,tete1250,,C71_Tetela,Tetela
+C76_Ombo,C76_Ombo,,-2.32162,25.1748,ombo1238,,C76_Ombo,Ombo
+C81_Dengese,C81_Dengese,,-3.26337,21.4194,deng1250,,C81_Dengese,Dengese
+C83_Bushong,C83_Bushong,,-4.69463,21.4556,bush1247,,C83_Bushong,Bushoong
+C85_Wongo,C85_Wongo,,-5.73837,20.5054,wong1247,,C85_Wongo,Wongo
+D11_Mbole,D11_Mbole,,-0.57181,24.0443,mbol1247,,D11_Mbole,Mbole
+D12_Lengola,D12_Lengola,,-1.95874,25.3343,leng1258,,D12_Lengola,Lengola
+D13_Metoko,D13_Metoko,,-1.57031,25.104,mitu1240,,D13_Metoko,Mituku
+D14_Enya,D14_Enya,,0.56,25.15,enya1247,,D14_Enya,Enya
+D201_Liko,D201_Liko,,2.13777,27.6088,lika1243,,D201_Liko,Liko
+D20B_Vamba_1919,D20B_Vamba_1919,,0.81206,30.0014,amba1263,,*D20B_Vamba_1919,Amba (Uganda)
+D21_Baali,D21_Baali,,1.1807,26.5941,bali1274,,D21_Baali,Bali (Democratic Republic of Congo)
+D211_Kango,D211_Kango,,1.59855,27.0186,kang1285,,D211_Kango,Kango (Tshopo District)
+D23_Kibira-Kumu_1919,D23_Kibira-Kumu_1919,,-0.76333,26.7144,komo1260,,D23_Kibira-Kumu_1919,Komo (Democratic Republic of Congo)
+D24_Songola,D24_Songola,,-2.21871,26.3477,song1300,,D24_Songola,Songoora
+D25_Lega,D25_Lega,,-3.83196,27.1424,lega1249,,D25_Lega,Lega-Shabunda
+D28_Holoholo,D28_Holoholo,,-5.37545,28.3274,holo1240,,D28_Holoholo,Holoholo
+D301_Kare,D301_Kare,,5.03525,25.7491,kari1306,,D301_Kare,Kari
+D304_Homa_1919,D304_Homa_1919,,4.97912,28.0039,homa1239,,*D304_Homa_1919,Homa
+D305_Nyanga-li,D305_Nyanga-li,,-1.29357,28.31546,nyan1304,,*D305_Nyanga-li,Nyanga
+D308_Bodo2,D308_Bodo2,,2.00501,27.951,budu1250,,*D308_Bodo2,Budu
+D308_Ebodo,D308_Ebodo,,2.00501,27.951,budu1250,,*D308_Ebodo,Budu
+D311_Bila,D311_Bila,,1.16839,28.7626,bila1255,,D311_Bila,Bila
+D313_Mbuttu_1919,D313_Mbuttu_1919,,2.00501,27.951,budu1250,,D313_Mbuttu_1919,Budu
+D32_Bira,D32_Bira,,1.16839,28.7626,bila1255,,D32_Bira,Bila
+D32_Bira_Bunia,D32_Bira_Bunia,,1.50054,30.0293,bera1259,,D32_Bira_Bunia,Bera
+D33_Nyali,D33_Nyali,,1.92098,30.0201,nyal1250,,D33_Nyali,Nyali
+D331_Bvanuma,D331_Bvanuma,,0.93847,29.81348,vanu1242,,D331_Bvanuma,Vanuma
+D333_Ndaaka,D333_Ndaaka,,1.53341,27.9693,ndak1241,,D333_Ndaaka,Ndaka
+D334_Mbo,D334_Mbo,,1.11602,28.018,mbod1238,,D334_Mbo,Mbo (Democratic Republic of Congo)
+D43_Nyanga,D43_Nyanga,,-1.29357,28.31546,nyan1304,,D43_Nyanga,Nyanga
+D55_Buyu,D55_Buyu,,-5.41806,28.5545,buyu1239,,D55_Buyu,Buyu
+Duguri_Jarawan,Duguri_Jarawan,,10.05,10.21,dugu1249,,Duguri_Jarawan,Duguri
+E46_Sonjo,E46_Sonjo,,-2.19303,35.8035,temi1247,,E46_Sonjo,Temi
+E51_Kikuyu,E51_Kikuyu,,-0.29005,36.719,kiku1240,,E51_Kikuyu,Kikuyu
+E52_Embu,E52_Embu,,-0.62822,37.5933,embu1241,,E52_Embu,Embu
+E52_Mbeere,E52_Mbeere,,-0.62822,37.5933,embu1241,,E52_Mbeere,Embu
+E53_Igoji,E53_Igoji,,0.26484,37.7396,meru1245,,E53_Igoji,Meru
+E53_Imenti,E53_Imenti,,0.26484,37.7396,meru1245,,E53_Imenti,Meru
+E53_Meru,E53_Meru,,0.26484,37.7396,meru1245,,E53_Meru,Meru
+E53_Meruimenti,E53_Meruimenti,,0.26484,37.7396,meru1245,,E53_Meruimenti,Meru
+E53_Merutig,E53_Merutig,,0.26484,37.7396,meru1245,,E53_Merutig,Meru
+E53_Miutini,E53_Miutini,,0.26484,37.7396,meru1245,,E53_Miutini,Meru
+E53_Tigania,E53_Tigania,,0.26484,37.7396,meru1245,,E53_Tigania,Meru
+E531_Muthambi,E531_Muthambi,,-0.11968,37.5939,mwim1241,,E531_Muthambi,Mwimbi-Muthambi
+E531_Mwimbi,E531_Mwimbi,,-0.11968,37.5939,mwim1241,,E531_Mwimbi,Mwimbi-Muthambi
+E54_Tharaka,E54_Tharaka,,-0.13221,38.073,thar1283,,E54_Tharaka,Tharaka
+E541_Chuka,E541_Chuka,,-0.27405,37.6116,chuk1274,,E541_Chuka,Chuka
+E55_Kamba,E55_Kamba,,-1.60827,37.9532,kamb1297,,E55_Kamba,Kamba (Kenya)
+E55_Kamba_Kitu,E55_Kamba_Kitu,,-1.60827,37.9532,kamb1297,,E55_Kamba_Kitu,Kamba (Kenya)
+E55_Kamba_Mach,E55_Kamba_Mach,,-1.60827,37.9532,kamb1297,,E55_Kamba_Mach,Kamba (Kenya)
+E56_Daiso,E56_Daiso,,-4.81209,38.818,dhai1238,,E56_Daiso,Dhaiso
+E621B_Machame,E621B_Machame,,-3.29385,37.0703,mach1266,,E621B_Machame,Machame
+E621C_Siha,E621C_Siha,,-3.29385,37.0703,mach1266,,E621C_Siha,Machame
+E621D_Kibosho,E621D_Kibosho,,-3.29385,37.0703,mach1266,,E621D_Kibosho,Machame
+E622A_Kimochi,E622A_Kimochi,,-3.33743,37.3357,moch1256,,E622A_Kimochi,Mochi
+E622C_Lema,E622C_Lema,,-3.42531,37.5847,vunj1238,,E622C_Lema,Vunjo
+E622C_Mamba,E622C_Mamba,,-3.42531,37.5847,vunj1238,,E622C_Mamba,Vunjo
+E622C_Vunjo,E622C_Vunjo,,-3.42531,37.5847,vunj1238,,E622C_Vunjo,Vunjo
+E623_Mkuu,E623_Mkuu,,-3.07772,37.5382,romb1244,,E623_Mkuu,Rombo
+E623A_Kiseri,E623A_Kiseri,,-3.07772,37.5382,romb1244,,E623A_Kiseri,Rombo
+E623D_Keni,E623D_Keni,,-3.07772,37.5382,romb1244,,E623D_Keni,Rombo
+E64_Kahe,E64_Kahe,,-3.51412,37.5759,kahe1238,,E64_Kahe,Kahe
+E65_Gweno,E65_Gweno,,-3.68407,37.6827,gwen1239,,E65_Gweno,Gweno
+E701_Elwana,E701_Elwana,,-0.66322,39.793,ilwa1237,,E701_Elwana,Ilwana
+E71A_Upper_Pokomo,E71A_Upper_Pokomo,,-2.31587,40.2897,poko1261,,E71A_Upper_Pokomo,Pokomo
+E72a_Giryama,E72a_Giryama,,-3.30638,39.6648,giry1241,,E72a_Giryama,Giryama
+E73_Digo,E73_Digo,,-4.62101,39.1752,digo1243,,E73_Digo,Digo
+E74a_Dawida,E74a_Dawida,,-3.79347,38.57254,tait1250,,E74a_Dawida,Taita
+E74a_Tuveta,E74a_Tuveta,,-3.41822,37.7061,tave1240,,E74a_Tuveta,Taveta
+F12_Bende,F12_Bende,,-6.22082,30.5926,bend1258,,F12_Bende,Bende
+F21_Ntuzu,F21_Ntuzu,,-3.16082,32.8765,suku1261,,F21_Ntuzu,Sukuma
+F21_Sukuma,F21_Sukuma,,-3.16082,32.8765,suku1261,,F21_Sukuma,Sukuma
+F22_Nyamwezi,F22_Nyamwezi,,-5.08559,32.94452,nyam1276,,F22_Nyamwezi,Nyamwezi
+F23_Sumbwa,F23_Sumbwa,,-3.47335,31.9457,sumb1240,,F23_Sumbwa,Sumbwa
+F24_Kimbu,F24_Kimbu,,-7.23023,33.6445,kimb1242,,F24_Kimbu,Kimbu
+F25_Bungu,F25_Bungu,,-8.32587,32.8801,bung1265,,F25_Bungu,Bungu
+F31_Nyiramba,F31_Nyiramba,,-4.50002,34.3068,nila1242,,F31_Nyiramba,Nilamba
+F32_Nyaturucha,F32_Nyaturucha,,-5.12263,34.6657,nyat1246,,F32_Nyaturucha,Nyaturu
+F32_Nyaturuwil,F32_Nyaturuwil,,-5.12263,34.6657,nyat1246,,F32_Nyaturuwil,Nyaturu
+F33_Langi,F33_Langi,,-4.71413,35.9517,lang1320,,F33_Langi,Langi
+Fefe_Grassfields,Fefe_Grassfields,,5.18158,10.1442,fefe1239,,Fefe_Grassfields,Fe'fe'
+G11_Gogo,G11_Gogo,,-6.35951,35.4807,gogo1263,,G11_Gogo,Gogo
+G12_Kagulu,G12_Kagulu,,-6.38204,37.0534,kagu1239,,G12_Kagulu,Kagulu
+G22_Asu,G22_Asu,,-4.17978,37.8323,asut1235,,G22_Asu,Asu (Tanzania)
+G22A_North_Pare,G22A_North_Pare,,-4.17978,37.8323,asut1235,,G22A_North_Pare,Asu (Tanzania)
+G22B_South_Pare,G22B_South_Pare,,-4.17978,37.8323,asut1235,,G22B_South_Pare,Asu (Tanzania)
+G23_Sambaa,G23_Sambaa,,-4.8,38.29,sham1280,,G23_Sambaa,Shambala
+G24_Bondei,G24_Bondei,,-5.10749,38.5079,bond1247,,G24_Bondei,Bondei
+G31_Zigua,G31_Zigua,,-5.61864,38.41138,zigu1244,,G31_Zigua,Zigula-Mushungulu
+G32_Doe,G32_Doe,,-6.25844,38.4902,doee1238,,G32_Doe,Doe
+G32_Kwere,G32_Kwere,,-6.50666,38.4449,kwer1261,,G32_Kwere,Kwere
+G33_Zaramo,G33_Zaramo,,-6.87705,38.9258,zara1247,,G33_Zaramo,Zaramo
+G34_Nguungulu,G34_Nguungulu,,-5.79734,37.6823,ngul1246,,G34_Nguungulu,Ngulu
+G35_Luguru,G35_Luguru,,-6.86828,37.5557,lugu1238,,G35_Luguru,Luguru
+G36_Kami,G36_Kami,,-6.71075,37.98,kami1256,,G36_Kami,Kami (Tanzania)
+G37_Kutu,G37_Kutu,,-7.23789,37.8623,kutu1263,,G37_Kutu,Kutu
+G39_Saghala,G39_Saghala,,-6.98537,36.9153,saga1256,,G39_Saghala,Sagala
+G401_Mwani,G401_Mwani,,-12.5821,40.4601,mwan1247,,G401_Mwani,Mwani
+G41_Bajuni,G41_Bajuni,,-8.25605,37.624,swah1253,,G41_Bajuni,Swahili
+G412_Mwiini,G412_Mwiini,,1.111787,44.026991,chim1312,,G412_Mwiini,Chimwiini
+G42_Swahili,G42_Swahili,,-8.25605,37.624,swah1253,,G42_Swahili,Swahili
+G42a_Amu,G42a_Amu,,-8.25605,37.624,swah1253,,G42a_Amu,Swahili
+G42d_Unguja,G42d_Unguja,,-8.25605,37.624,swah1253,,G42d_Unguja,Swahili
+G43_Kae,G43_Kae,,-8.25605,37.624,swah1253,,G43_Kae,Swahili
+G44a_Ngazija,G44a_Ngazija,,-11.6129,43.36,ngaz1238,,G44a_Ngazija,Ngazidja Comorian
+G44b_Ndzwani,G44b_Ndzwani,,-12.2123,44.3709,ndzw1235,,G44b_Ndzwani,Ndzwani Comorian
+G44D_Maore,G44D_Maore,,-12.830306,45.154942,maor1244,,G44D_Maore,Maore Comorian
+G51_Pogoro,G51_Pogoro,,-8.72283,36.4148,pogo1243,,G51_Pogoro,Pogolo
+G52_Ndamba,G52_Ndamba,,-8.40485,36.0271,ndam1239,,G52_Ndamba,Ndamba
+G61_Sangu,G61_Sangu,,-8.4,33.9,sang1330,,G61_Sangu,Sangu (Tanzania)
+G62_Hehe,G62_Hehe,,-7.71572,35.7255,hehe1240,,G62_Hehe,Hehe
+G63_Bena,G63_Bena,,-9.26671,35.0364,bena1262,,G63_Bena,Bena (Tanzania)
+G64_Pangwa,G64_Pangwa,,-9.96782,34.8039,pang1287,,G64_Pangwa,Pangwa
+G65_Kinga,G65_Kinga,,-9.35868,34.2321,nucl1379,,G65_Kinga,Kinga
+G66_Wanji,G66_Wanji,,-9.00683,34.0757,vwan1235,,G66_Wanji,Vwanji
+H11_Beembe,H11_Beembe,,-3.95895,14.1,beem1239,,H11_Beembe,Beembe
+H111_Hangala,H111_Hangala,,-4.25,14.9,laar1238,,H111_Hangala,Laari
+H12_Civili_Congo,H12_Civili_Congo,,-4.06716,11.3804,vili1238,,H12_Civili_Congo,Vili
+H13_Kikunyi_1989,H13_Kikunyi_1989,,-3.69702,12.5197,kuny1238,,H13_Kikunyi_1989,Kunyi
+H131_Kisundi_Congo_Kimongo_1988,H131_Kisundi_Congo_Kimongo_1988,,-4.58488,13.3212,suun1239,,H131_Kisundi_Congo_Kimongo_1988,Suundi
+H16_Cilinji,H16_Cilinji,,-5.1263,12.9657,yomb1244,,H16_Cilinji,Yombe
+H16_Cimbala,H16_Cimbala,,-5.1263,12.9657,yomb1244,,H16_Cimbala,Yombe
+H16_Cizobe,H16_Cizobe,,-5.1263,12.9657,yomb1244,,H16_Cizobe,Yombe
+H16_Kikongo,H16_Kikongo,,-5.57722,14.4771,koon1244,,H16_Kikongo,South-Central Koongo
+H16_Kimbata_Ngidinga,H16_Kimbata_Ngidinga,,-5.25,15.5,east2782,,H16_Kimbata_Ngidinga,Eastern Kikongo
+H16_Kimbeko,H16_Kimbeko,,-5.25,15.5,east2782,,H16_Kimbeko,Eastern Kikongo
+H16a_Kisikongo_2013,H16a_Kisikongo_2013,,-5.57722,14.4771,koon1244,,H16a_Kisikongo_2013,South-Central Koongo
+H16a_Kisolongo_DRC_2012,H16a_Kisolongo_DRC_2012,,-5.57722,14.4771,koon1244,,H16a_Kisolongo_DRC_2012,South-Central Koongo
+H16b_Kindibu_2013,H16b_Kindibu_2013,,-5.57722,14.4771,koon1244,,H16b_Kindibu_2013,South-Central Koongo
+H16c_Kiyombe_DRC_1982,H16c_Kiyombe_DRC_1982,,-5.1263,12.9657,yomb1244,,H16c_Kiyombe_DRC_1982,Yombe
+H16c_Yombe,H16c_Yombe,,-4.06716,11.3804,vili1238,,H16c_Yombe,Vili
+H16d_Ciwoyo_DRC_2012,H16d_Ciwoyo_DRC_2012,,-5.7114,12.5372,sans1272,,H16d_Ciwoyo_DRC_2012,San Salvador Kongo
+H16f_Laadi,H16f_Laadi,,-4.25,14.9,laar1238,,H16f_Laadi,Laari
+H16g_Kimpangu_2012,H16g_Kimpangu_2012,,-5.25,15.5,east2782,,H16g_Kimpangu_2012,Eastern Kikongo
+H16g_Ntandu,H16g_Ntandu,,-5.25,15.5,east2782,,H16g_Ntandu,Eastern Kikongo
+H16h_Kinkanu_2012,H16h_Kinkanu_2012,,-5.25,15.5,east2782,,H16h_Kinkanu_2012,Eastern Kikongo
+H21a_Kimbundu,H21a_Kimbundu,,-8.97835,14.8893,kimb1241,,H21a_Kimbundu,Kimbundu
+H31_Yaka,H31_Yaka,,-5.984,16.775,yaka1269,,H31_Yaka,Yaka-Pelende-Lonzo
+H32_Suku,H32_Suku,,-5.76495,17.7736,suku1259,,H32_Suku,Suku
+H321_Soonde,H321_Soonde,,-6.32223,18.3555,sond1250,,H321_Soonde,Sonde
+H41_Mbala,H41_Mbala,,-5.11888,18.041,mbal1257,,H41_Mbala,Mbala
+H42_Hunganna,H42_Hunganna,,-3.69695,18.4312,hung1278,,H42_Hunganna,Hungan
+JD53_Shi,JD53_Shi,,-2.55777,28.6122,shii1238,,JD53_Shi,Shi
+JD62_Rundi,JD62_Rundi,,-2.94,29.97,rund1242,,JD62_Rundi,Rundi
+JD64_Shubi,JD64_Shubi,,-2.97663,31.0681,shub1238,,JD64_Shubi,Shubi
+JD65_Hangaza,JD65_Hangaza,,-2.52347,30.7074,hang1260,,JD65_Hangaza,Hangaza
+JD66_Kiha,JD66_Kiha,,-3.77873,30.4894,haaa1252,,JD66_Kiha,Ha
+JD67_Kivinza,JD67_Kivinza,,-4.99312,30.5699,vinz1238,,JD67_Kivinza,Vinza
+JE11_Runyoro,JE11_Runyoro,,0.95294,31.3493,nyor1246,,JE11_Runyoro,Nyoro
+JE12_Rutooro,JE12_Rutooro,,0.57291,30.6389,toor1238,,JE12_Rutooro,Tooro
+JE13_Runyankore,JE13_Runyankore,,-0.46364,30.548,nyan1307,,JE13_Runyankore,Nyankole
+JE14_Rukiga,JE14_Rukiga,,-1.04387,29.9122,chig1238,,JE14_Rukiga,Chiga
+JE15_Luganda,JE15_Luganda,,0.66884,32.15153,gand1255,,JE15_Luganda,Ganda
+JE16_Lusoga,JE16_Lusoga,,0.40456,33.3942,soga1242,,JE16_Lusoga,Soga
+JE17_Gwere,JE17_Gwere,,1.11392,33.8227,gwer1238,,JE17_Gwere,Gwere
+JE21_Runyambo,JE21_Runyambo,,-1.6096,30.9156,nyam1277,,JE21_Runyambo,Nyambo
+JE22_Haya,JE22_Haya,,-1.70878,31.4846,haya1250,,JE22_Haya,Haya
+JE23_Zinza,JE23_Zinza,,-2.64132,32.1755,zinz1238,,JE23_Zinza,Zinza
+JE24_Kerebe,JE24_Kerebe,,-2.09315,33.5326,kere1283,,JE24_Kerebe,Kerewe
+JE25_Jita,JE25_Jita,,-1.62681,33.9141,jita1239,,JE25_Jita,Jita
+JE25_Kilegi,JE25_Kilegi,,-1.83511,33.0488,kara1481,,JE25_Kilegi,Kara (Tanzania)
+JE25_Mkwaya,JE25_Mkwaya,,-1.80737,33.71,kway1241,,JE25_Mkwaya,Kwaya
+JE31_Lumasaaba,JE31_Lumasaaba,,1.05906,34.2829,masa1299,,JE31_Lumasaaba,Masaaba
+JE31c_Bukusu,JE31c_Bukusu,,0.68043,34.7719,buku1249,,JE31c_Bukusu,Bukusu
+JE32_Luyia,JE32_Luyia,,0.3652,34.0335,saam1283,,JE32_Luyia,Saamia
+JE34_Samialugwe,JE34_Samialugwe,,0.3652,34.0335,saam1283,,JE34_Samialugwe,Saamia
+JE401_Ngoreme,JE401_Ngoreme,,-1.8485,34.6173,ngur1263,,JE401_Ngoreme,Ngoreme
+JE402_Ikizu,JE402_Ikizu,,-1.9915,34.3589,ikiz1238,,JE402_Ikizu,Ikizu
+JE403_Suba,JE403_Suba,,-0.95719,34.1033,suba1238,,JE403_Suba,Suba
+JE404_Shasi,JE404_Shasi,,-1.9915,34.3589,ikiz1238,,JE404_Shasi,Ikizu
+JE41_Maragoli,JE41_Maragoli,,0.09487,34.729,logo1258,,JE41_Maragoli,Logooli
+JE42_Gusii,JE42_Gusii,,-0.78872,34.76751,gusi1247,,JE42_Gusii,Gusii
+JE43_Kuria,JE43_Kuria,,-1.50636,34.5049,kuri1259,,JE43_Kuria,Kuria
+JE43_Kuria_Mago,JE43_Kuria_Mago,,-1.50636,34.5049,kuri1259,,JE43_Kuria_Mago,Kuria
+JE43_Kuria_Tari,JE43_Kuria_Tari,,-1.50636,34.5049,kuri1259,,JE43_Kuria_Tari,Kuria
+JE44_Zanaki,JE44_Zanaki,,-2.26367,34.0542,zana1238,,JE44_Zanaki,Zanaki
+JE45_Nata,JE45_Nata,,-1.94989,34.5361,ikom1245,,JE45_Nata,Ikoma-Nata
+K11_Ciokwe,K11_Ciokwe,,-9.66082,21.3992,chok1245,,K11_Ciokwe,Chokwe
+K14_Lwena,K14_Lwena,,-13.5382,22.2924,luva1239,,K14_Lwena,Luvale
+K15_Mbunda,K15_Mbunda,,-14.603,21.9768,mbun1249,,K15_Mbunda,Mbunda
+K21_Lozi,K21_Lozi,,-17.7052,24.7398,lozi1239,,K21_Lozi,Lozi
+K31_Luyana,K31_Luyana,,-15.01,22.67,luya1241,,K31_Luyana,Luyi
+K33_Kwangali,K33_Kwangali,,-17.9026,19.256,kwan1273,,K33_Kwangali,Kwangali
+K332_Rumanyo,K332_Rumanyo,,-18.1681,20.6678,diri1252,,K332_Rumanyo,Diriku-Shambyu
+Kom_Grassfields,Kom_Grassfields,,6.2596,10.3348,komc1235,,Kom_Grassfields,Kom (Cameroon)
+Kulung_Jarawan,Kulung_Jarawan,,9.20815,11.04651,kulu1255,,Kulung_Jarawan,Kulung (Nigeria)
+L11_Pende,L11_Pende,,-5.64735,19.8275,phen1239,,L11_Pende,Phende
+L12b_Holu,L12b_Holu,,-8.14754,17.572,holu1245,,L12b_Holu,Holu
+L13_Kwese,L13_Kwese,,-5.60445,18.5759,kwes1244,,L13_Kwese,Kwese
+L221_Lwalwa,L221_Lwalwa,,-7.16388,22.1097,lwal1238,,L221_Lwalwa,Lwalu
+L23_Songe,L23_Songe,,-5.71993,25.2765,song1303,,L23_Songe,Songe
+L31a_Luba-Kasai,L31a_Luba-Kasai,,-5.72717,22.4422,luba1249,,L31a_Luba-Kasai,Luba-Lulua
+L32_Kanyok,L32_Kanyok,,-7.31878,23.613,kany1247,,L32_Kanyok,Kanyok
+L33_Luba-Shaba,L33_Luba-Shaba,,-8.2816,25.8918,luba1250,,L33_Luba-Shaba,Luba-Katanga
+L34_Hemba,L34_Hemba,,-7.77459,27.5913,hemb1242,,L34_Hemba,Hemba-Yazi
+L35_Sanga,L35_Sanga,,-10.0236,26.8462,sang1331,,L35_Sanga,Sanga (Democratic Republic of Congo)
+L41_Kaonde,L41_Kaonde,,-12.4129,25.7646,kaon1241,,L41_Kaonde,Kaonde
+L51_Salampasu,L51_Salampasu,,-5.44937,23.1502,sala1268,,L51_Salampasu,Salampasu
+L52_Lunda,L52_Lunda,,-11.1793,23.8662,lund1266,,L52_Lunda,Lunda
+L53_Runda,L53_Runda,,-8.86971,21.4164,ruun1238,,L53_Runda,Ruund
+L62_Nkoya,L62_Nkoya,,-14.8513,24.7649,nkoy1244,,L62_Nkoya,Nkoya
+M11_Pimbwe,M11_Pimbwe,,-6.81358,31.4289,pimb1238,,M11_Pimbwe,Pimbwe
+M12_Lungwa,M12_Lungwa,,-7.24959,31.7614,rung1255,,M12_Lungwa,Rungwa
+M13_Fipa,M13_Fipa,,-7.88963,31.3442,fipa1238,,M13_Fipa,Fipa
+M14_Rungu,M14_Rungu,,-8.86817,31.2269,mamb1296,,M14_Rungu,Mambwe-Lungu
+M15_Mambwe,M15_Mambwe,,-8.86817,31.2269,mamb1296,,M15_Mambwe,Mambwe-Lungu
+M21_Ndali,M21_Ndali,,-9.88948,33.6118,ndal1241,,M21_Ndali,Ndali
+M21_Wanda,M21_Wanda,,-8.34522,32.4375,wand1264,,M21_Wanda,Wanda
+M22_Namwanga,M22_Namwanga,,-9.11261,32.3163,nyam1275,,M22_Namwanga,Nyamwanga
+M23_Nyiha,M23_Nyiha,,-9.4472,32.9057,nyih1240,,M23_Nyiha,Nyiha (Tanzania)
+M24_Malila,M24_Malila,,-9.16619,33.339,mali1279,,M24_Malila,Malila
+M25_Safwa,M25_Safwa,,-8.54936,33.4766,safw1238,,M25_Safwa,Safwa
+M28_Lambya,M28_Lambya,,-9.49372,33.15852,lamb1272,,M28_Lambya,Lambya
+M31_Nyakyusa,M31_Nyakyusa,,-9.71018,33.7763,nyak1260,,M31_Nyakyusa,Nyakyusa-Ngonde
+M41_Taabwa,M41_Taabwa,,-7.91416,29.5238,taab1238,,M41_Taabwa,Taabwa
+M42_Bemba,M42_Bemba,,-10.6122,29.2993,bemb1257,,M42_Bemba,Bemba (Zambia)
+M52_Lala,M52_Lala,,-12.945,30.2297,lala1264,,M52_Lala,Lala-Bisa
+M54_Lamba,M54_Lamba,,-12.3366,27.9026,lamb1271,,M54_Lamba,Lamba
+M61_Lenje,M61_Lenje,,-14.7192,28.2581,lenj1248,,M61_Lenje,Lenje
+M62_Soli,M62_Soli,,-15.5213,28.7934,soli1239,,M62_Soli,Soli
+M64_Tonga,M64_Tonga,,-17.422325,27.103495,tong1318,,M64_Tonga,Tonga (Zambia)
+Mbula_Jarawan,Mbula_Jarawan,,9.60769,12.2439,mbul1260,,Mbula_Jarawan,Mbula-Bwazza
+Moghamo_Grassfields,Moghamo_Grassfields,,5.88942,9.87416,meta1238,,Moghamo_Grassfields,Meta'
+Mungaka_Grassfields,Mungaka_Grassfields,,5.89752,10.0294,mung1266,,Mungaka_Grassfields,Mungaka
+N11_Manda,N11_Manda,,-10.3991,34.7424,mand1423,,N11_Manda,Manda-Matumba
+N12_Ngoni,N12_Ngoni,,-11.779,35.459,tanz1241,,N12_Ngoni,Tanzanian Ngoni
+N13_Matengo,N13_Matengo,,-11.554,35.0056,mate1258,,N13_Matengo,Matengo
+N14_Mpoto,N14_Mpoto,,-11.13767,34.71269,mpot1240,,N14_Mpoto,Mpoto
+N21_Tumbuka_Malawi,N21_Tumbuka_Malawi,,-11.3297,33.3738,tumb1250,,N21_Tumbuka_Malawi,Tumbuka
+N31_Chewa,N31_Chewa,,-14.8047,32.8108,nyan1308,,N31_Chewa,Nyanja
+N42_Kunda,N42_Kunda,,-15.7337,30.2804,kund1255,,N42_Kunda,Chikunda
+Njen_Grassfields,Njen_Grassfields,,5.75169,9.90439,njen1238,,Njen_Grassfields,Njen
+Oku_Grassfields,Oku_Grassfields,,6.23712,10.5096,okuu1243,,Oku_Grassfields,Oku
+P11_Ndengeleko,P11_Ndengeleko,,-7.54628,38.958,nden1248,,P11_Ndengeleko,Ndengereko
+P12_Rufiji,P12_Rufiji,,-7.54628,38.958,nden1248,,P12_Rufiji,Ndengereko
+P13_Matumbi,P13_Matumbi,,-8.53734,39.0409,matu1259,,P13_Matumbi,Matumbi
+P14_Ngindo,P14_Ngindo,,-9.78145,37.9832,ngin1244,,P14_Ngindo,Ngindo
+P15_Mbunga,P15_Mbunga,,-8.19661,36.5362,mbun1248,,P15_Mbunga,Mbunga
+P21_Yao,P21_Yao,,-13.6119,35.2387,yaoo1241,,P21_Yao,Yao
+P22_Mwera,P22_Mwera,,-9.75639,38.8762,mwer1248,,P22_Mwera,Mwera (Chimwera)
+P23_Simakonde,P23_Simakonde,,-10.9906,39.5133,mako1251,,P23_Simakonde,Makonde
+P25_Mabia,P25_Mabia,,-10.9906,39.5133,mako1251,,P25_Mabia,Makonde
+P31_Emakhua,P31_Emakhua,,-14.8509,38.8052,makh1264,,P31_Emakhua,Makhuwa
+P31G_Ikorovere,P31G_Ikorovere,,-11.9553,38.6874,makh1261,,P31G_Ikorovere,Makhuwa-Meetto
+R11_Umbundu,R11_Umbundu,,-12.4763,14.4148,umbu1257,,R11_Umbundu,Umbundu
+R21_Kwanyama,R21_Kwanyama,,-17.7176,16.58,kuan1247,,R21_Kwanyama,Kuanyama
+R22_Ndonga,R22_Ndonga,,-17.22,17.35,ndon1254,,R22_Ndonga,Ndonga
+R31_Herero,R31_Herero,,-21.0231,20.5655,here1253,,R31_Herero,Herero
+S11_Shona,S11_Shona,,-17.20849,29.75725,shon1251,,S11_Shona,Shona
+S16_Kalanga,S16_Kalanga,,-21.2887,27.401,kala1384,,S16_Kalanga,Kalanga
+S21_Venda,S21_Venda,,-22.188,29.9523,vend1245,,S21_Venda,Venda
+S31_Tswana,S31_Tswana,,-24.368,24.7587,tswa1253,,S31_Tswana,Tswana
+S311_Shekgalagari,S311_Shekgalagari,,-24.9208,22.72016,kgal1244,,S311_Shekgalagari,Kgalagadi
+S41_Xhosa,S41_Xhosa,,-31.0389,28.0769,xhos1239,,S41_Xhosa,Xhosa
+S42_Zulu,S42_Zulu,,-28.9,30.2,zulu1248,,S42_Zulu,Zulu
+S44_Ndebele,S44_Ndebele,,-28.9,30.2,zulu1248,,S44_Ndebele,Zulu
+S51_Tshwa,S51_Tshwa,,-22.9891,32.4287,tswa1255,,S51_Tshwa,Tswa
+S53_Tsonga,S53_Tsonga,,-23.5754,31.8105,tson1249,,S53_Tsonga,Tsonga
+Tiv_Tivoid,Tiv_Tivoid,,6.88039,9.26287,tivv1240,,Tiv_Tivoid,Tiv
+Zaambo_Jarawan,Zaambo_Jarawan,,9.60769,12.2439,mbul1260,,Zaambo_Jarawan,Mbula-Bwazza
