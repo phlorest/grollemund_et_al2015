@@ -2,6 +2,12 @@ import pathlib
 
 import phlorest
 
+def preprocess_nexus(s):
+    for t in self.taxa:
+        if t['taxon'] != t['Original_Name']:
+            s = s.replace(t['Original_Name'], t['taxon'])
+    return s
+
 
 class Dataset(phlorest.Dataset):
     dir = pathlib.Path(__file__).parent
@@ -23,12 +29,6 @@ class Dataset(phlorest.Dataset):
             posterior.trees.trees,
             self.metadata,
             args.log)
-
-        def preprocess_nexus(s):
-            for t in self.taxa:
-                if t['taxon'] != t['Original_Name']:
-                    s = s.replace(t['Original_Name'], t['taxon'])
-            return s
 
         args.writer.add_data(
             self.raw_dir.read_nexus(
