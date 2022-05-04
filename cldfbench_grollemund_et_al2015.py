@@ -2,11 +2,19 @@ import pathlib
 
 import phlorest
 
-def preprocess_nexus(s):
-    for t in self.taxa:
-        if t['taxon'] != t['Original_Name']:
-            s = s.replace(t['Original_Name'], t['taxon'])
-    return s
+
+def fix_nexus(nex_string):
+    """Remove asterisks in some names (nexus has them, trees don't)"""
+    fix = [
+        'D20B_Vamba_1919',
+        'D304_Homa_1919',
+        'D305_Nyanga-li',
+        'D308_Bodo2',
+        'D308_Ebodo',
+    ]
+    for f in fix:
+        nex_string = nex_string.replace("*%s" % f, f)
+    return nex_string
 
 
 class Dataset(phlorest.Dataset):
@@ -20,20 +28,15 @@ class Dataset(phlorest.Dataset):
             self.raw_dir.read_tree('grollemund.mcct.trees', detranslate=True),
             self.metadata,
             args.log)
-        posterior = self.sample(
-            self.raw_dir.read('BP425_M1P_100_cv2_relaxed_YP_runs_1_2_4_5_thinned-fixed.trees.gz'),
-            detranslate=True,
-            n=100,
-            as_nexus=True)
-        args.writer.add_posterior(
-            posterior.trees.trees,
-            self.metadata,
-            args.log)
 
-        args.writer.add_data(
-            self.raw_dir.read_nexus(
-                'Grollemund-et-al_Bantu-database_2015.nex',
-                preprocessor=preprocess_nexus,
-                encoding='latin1'),
-            self.characters,
-            args.log)
+        # note only 100 tree, burn-in pre-removed so just take what we have.
+        posterior = self.raw_dir.read_trees(
+            'BP425_M1P_100_cv2_relaxed_YP_runs_1_2_4_5_thinned-fixed.trees.gz',
+            detranslate=True)
+        args.writer.add_posterior(posterior, self.metadata, args.log)
+        
+        nex = self.raw_dir.read_nexus(
+            'Grollemund-et-al_Bantu-database_2015.nex',
+            preprocessor=fix_nexus,
+            encoding='latin1')
+        args.writer.add_data(nex, self.characters, args.log)
