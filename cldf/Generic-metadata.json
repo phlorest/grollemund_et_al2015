@@ -11,7 +11,7 @@
     "dc:license": "https://creativecommons.org/licenses/by/2.0/",
     "dc:source": "sources.bib",
     "dc:subject": {
-        "family": "Atlantic-Congo [atla1278]",
+        "family": "Bantu",
         "analysis": "bayesian",
         "scaling": "centuries"
     },
@@ -27,7 +27,7 @@
         {
             "rdf:about": "https://github.com/phlorest/grollemund_et_al2015",
             "rdf:type": "prov:Entity",
-            "dc:created": "5c43bd5",
+            "dc:created": "358bb28",
             "dc:title": "Repository"
         },
         {
