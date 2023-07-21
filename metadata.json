@@ -1,6 +1,7 @@
 {
     "id": "grollemund_et_al2015",
-    "license": "https://creativecommons.org/licenses/by/2.0/",    "url": "http://dx.doi.org/10.1073/pnas.1503793112",
+    "license": "https://creativecommons.org/licenses/by/2.0/",
+    "url": "https://doi.org/10.1073/pnas.1503793112",
     "citation": "Grollemund R, Branford S, Bostoen K, Meade A, Venditti C & Pagel M. 2015. Bantu expansion shows habitat alters the route and pace of human dispersals. Proceedings of the National Academy of Sciences of the USA, 112(43), 13296-13301.",
     "name": "Bantu (Grollemund et al. 2015)",
     "author": "Grollemund et al.",
@@ -8,5 +9,5 @@
     "scaling": "centuries",
     "analysis": "bayesian",
     "family": "Bantu",
-    "cldf": "https://github.com/lexibank/grollemundbantu"
+    "cldf": "https://doi.org/10.5281/zenodo.3755518"
 }

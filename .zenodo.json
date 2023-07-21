@@ -1,5 +1,5 @@
 {
-    "title": null,
+    "title": "Phlorest phylogeny derived from Grollemund et al. 2015 'Bantu (Grollemund et al. 2015)'",
     "access_right": "open",
     "keywords": [
         "cldf:Generic",
@@ -10,6 +10,32 @@
     "communities": [
         {
             "identifier": "dplace"
+        }
+    ],
+    "creators": [
+        {
+            "name": "Rebecca Grollemund"
+        },
+        {
+            "name": "Simon Branford"
+        },
+        {
+            "name": "Koen Bostoen"
+        },
+        {
+            "name": "Andrew Meade"
+        },
+        {
+            "name": "Chris Venditti"
+        },
+        {
+            "name": "Mark Pagel"
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Simon J. Greenhill",
+            "type": "Other"
         }
     ]
 }
