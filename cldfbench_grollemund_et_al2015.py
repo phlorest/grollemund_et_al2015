@@ -4,7 +4,7 @@ import phlorest
 
 
 def fix_nexus(nex_string):
-    """Remove asterisks in some names (nexus has them, trees don't)"""
+    # Remove asterisks in some names (nexus has them, trees don't)
     fix = [
         'D20B_Vamba_1919',
         'D304_Homa_1919',
@@ -14,7 +14,11 @@ def fix_nexus(nex_string):
     ]
     for f in fix:
         nex_string = nex_string.replace("*%s" % f, f)
-    return nex_string
+    # MATRIX command doesn't end with ";":
+    nex_string = nex_string.replace('end;', ';\nend;')
+    # DATATYPE=binary is not in the NEXUS spec.
+    nex_string = nex_string.replace('datatype=binary', 'datatype=standard')
+    return '\n'.join(line for line in nex_string.split('\n') if not line.startswith('# ')).strip()
 
 
 class Dataset(phlorest.Dataset):
