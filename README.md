@@ -1,4 +1,6 @@
-# Dataset grollemund_et_al2015
+# Phlorest phylogeny derived from Grollemund et al. 2015 'Bantu expansion shows habitat alters the route and pace of human dispersals'
+
+[![CLDF validation](https://github.com/phlorest/grollemund_et_al2015/workflows/CLDF-validation/badge.svg)](https://github.com/phlorest/grollemund_et_al2015/actions?query=workflow%3ACLDF-validation)
 
 ## How to cite
 
@@ -9,8 +11,12 @@ If you use these data please cite
 
 ## Description
 
+A [Phlorest phylogeny](https://github.com/phlorest) of the Bantu language family computed from a bayesian analysis scaled by centuries.
 
-Available online at http://dx.doi.org/10.1073/pnas.1503793112
+
+This dataset is licensed under a https://creativecommons.org/licenses/by/2.0/ license
+
+Source available online at https://doi.org/10.1073/pnas.1503793112
 
 
 ## CLDF Datasets
@@ -21,4 +27,4 @@ The following CLDF datasets are available in [cldf](cldf):
 
 ## Summary Tree
 
-![summary](./summary_tree.svg)
+![summary](https://raw.githubusercontent.com/phlorest/grollemund_et_al2015/main/summary_tree.svg)
