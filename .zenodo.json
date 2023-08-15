@@ -10,6 +10,9 @@
     "communities": [
         {
             "identifier": "dplace"
+        },
+        {
+            "identifier": "phlorest"
         }
     ],
     "creators": [
@@ -35,7 +38,14 @@
     "contributors": [
         {
             "name": "Simon J. Greenhill",
-            "type": "Other"
+            "type": "Editor"
+        },
+        {
+            "name": "Robert Forkel",
+            "type": "Editor"
         }
-    ]
+    ],
+    "license": {
+        "id": "CC-BY-4.0"
+    }
 }
