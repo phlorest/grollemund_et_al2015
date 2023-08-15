@@ -1,6 +1,7 @@
 # Phlorest phylogeny derived from Grollemund et al. 2015 'Bantu expansion shows habitat alters the route and pace of human dispersals'
 
 [![CLDF validation](https://github.com/phlorest/grollemund_et_al2015/workflows/CLDF-validation/badge.svg)](https://github.com/phlorest/grollemund_et_al2015/actions?query=workflow%3ACLDF-validation)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8250088.svg)](https://doi.org/10.5281/zenodo.8250088)
 
 ## How to cite
 
