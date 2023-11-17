@@ -33,7 +33,7 @@
         {
             "rdf:about": "https://github.com/phlorest/grollemund_et_al2015",
             "rdf:type": "prov:Entity",
-            "dc:created": "f599051",
+            "dc:created": "v1.0-1-g0c774eb",
             "dc:title": "Repository"
         },
         {
@@ -121,6 +121,15 @@
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#iso639P3code",
                         "required": false,
                         "name": "ISO639P3code"
+                    },
+                    {
+                        "dc:description": "D-PLACE \u201ccross-data-set\u201d identifier, used to link societies present in different datasets, if they share a focal location. Note: If this field is empty, other fields such as Name, Glottocode or location may be used to identify languoids/societies across datasets if appropriate.",
+                        "datatype": {
+                            "base": "string",
+                            "format": "xd[0-9]+"
+                        },
+                        "separator": " ",
+                        "name": "xd_ids"
                     },
                     {
                         "datatype": "string",
