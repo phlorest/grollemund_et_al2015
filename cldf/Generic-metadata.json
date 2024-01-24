@@ -33,7 +33,7 @@
         {
             "rdf:about": "https://github.com/phlorest/grollemund_et_al2015",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.0-1-g0c774eb",
+            "dc:created": "v1.1",
             "dc:title": "Repository"
         },
         {
@@ -46,7 +46,7 @@
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.10.12"
+            "dc:description": "3.11.1"
         },
         {
             "dc:title": "python-packages",
