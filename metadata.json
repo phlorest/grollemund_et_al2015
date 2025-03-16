@@ -10,5 +10,8 @@
     "scaling": "centuries",
     "analysis": "bayesian",
     "family": "Bantu",
-    "cldf": "https://doi.org/10.5281/zenodo.3755518"
+    "cldf": "https://doi.org/10.5281/zenodo.3755518",
+    "missing": {
+        "artefacts": "not readily available"
+    }
 }
