@@ -1,0 +1,7157 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.15209,
+          4.89504
+        ]
+      },
+      "properties": {
+        "Name": "A11_Londo",
+        "Glottocode": "orok1266",
+        "Original_Name": "A11_Londo",
+        "Glottolog_Name": "Oroko"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.15209,
+          4.89504
+        ]
+      },
+      "properties": {
+        "Name": "A121_Mbonge",
+        "Glottocode": "orok1266",
+        "Original_Name": "A121_Mbonge",
+        "Glottolog_Name": "Oroko"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.15209,
+          4.89504
+        ]
+      },
+      "properties": {
+        "Name": "A122_Bakundu",
+        "Glottocode": "orok1266",
+        "xd_ids": [
+          "xd166"
+        ],
+        "Original_Name": "A122_Bakundu",
+        "Glottolog_Name": "Oroko"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.522,
+          4.53307
+        ]
+      },
+      "properties": {
+        "Name": "A141_Lefo",
+        "Glottocode": "bafa1247",
+        "Original_Name": "A141_Lefo",
+        "Glottolog_Name": "Bafaw-Balong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.80402,
+          4.79991
+        ]
+      },
+      "properties": {
+        "Name": "A15_Manenguba",
+        "Glottocode": "baka1273",
+        "Original_Name": "A15_Manenguba",
+        "Glottolog_Name": "Bakaka"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.80096,
+          5.33848
+        ]
+      },
+      "properties": {
+        "Name": "A151_Nkongho",
+        "Glottocode": "nkon1247",
+        "Original_Name": "A151_Nkongho",
+        "Glottolog_Name": "Nkongho"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.92766,
+          5.13981
+        ]
+      },
+      "properties": {
+        "Name": "A15A_Mbuu",
+        "Glottocode": "mboc1235",
+        "Original_Name": "A15A_Mbuu",
+        "Glottolog_Name": "Mbo (Cameroon)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.52275,
+          5.23655
+        ]
+      },
+      "properties": {
+        "Name": "A15B_Mienge_NW_Manenguba",
+        "Glottocode": "bass1260",
+        "Original_Name": "A15B_Mienge_NW_Manenguba",
+        "Glottolog_Name": "Bassossi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.65522,
+          4.9243
+        ]
+      },
+      "properties": {
+        "Name": "A15C_Akossi",
+        "Glottocode": "akoo1248",
+        "Original_Name": "A15C_Akossi",
+        "Glottolog_Name": "Akoose"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.65522,
+          4.9243
+        ]
+      },
+      "properties": {
+        "Name": "A15C_Elung_Central_Manenguba",
+        "Glottocode": "akoo1248",
+        "Original_Name": "A15C_Elung_Central_Manenguba",
+        "Glottolog_Name": "Akoose"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.80402,
+          4.79991
+        ]
+      },
+      "properties": {
+        "Name": "A15C_Mkaa",
+        "Glottocode": "baka1273",
+        "Original_Name": "A15C_Mkaa",
+        "Glottolog_Name": "Bakaka"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.23887,
+          4.24178
+        ]
+      },
+      "properties": {
+        "Name": "A22_Bakweri",
+        "Glottocode": "mokp1239",
+        "xd_ids": [
+          "xd138"
+        ],
+        "Original_Name": "A22_Bakweri",
+        "Glottolog_Name": "Mokpwe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.61877,
+          4.10208
+        ]
+      },
+      "properties": {
+        "Name": "A24_Duala",
+        "Glottocode": "dual1243",
+        "xd_ids": [
+          "xd130"
+        ],
+        "Original_Name": "A24_Duala",
+        "Glottolog_Name": "Duala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.67186,
+          3.67696
+        ]
+      },
+      "properties": {
+        "Name": "A27_Malimba",
+        "Glottocode": "mali1280",
+        "Original_Name": "A27_Malimba",
+        "Glottolog_Name": "Malimba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.68929,
+          3.53638
+        ]
+      },
+      "properties": {
+        "Name": "A31_Bubi",
+        "Glottocode": "bube1242",
+        "Original_Name": "A31_Bubi",
+        "Glottolog_Name": "Bube"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.51011,
+          1.397041
+        ]
+      },
+      "properties": {
+        "Name": "A32C_Batanga",
+        "Glottocode": "bata1285",
+        "xd_ids": [
+          "xd168"
+        ],
+        "Original_Name": "A32C_Batanga",
+        "Glottolog_Name": "Batanga"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.678,
+          2.06043
+        ]
+      },
+      "properties": {
+        "Name": "A33a_Yasa",
+        "Glottocode": "yasa1242",
+        "Original_Name": "A33a_Yasa",
+        "Glottolog_Name": "Yasa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.600739,
+          1.075766
+        ]
+      },
+      "properties": {
+        "Name": "A34_Benga",
+        "Glottocode": "beng1282",
+        "Original_Name": "A34_Benga",
+        "Glottolog_Name": "Benga"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.25261,
+          4.64584
+        ]
+      },
+      "properties": {
+        "Name": "A41_Barombi-Kang",
+        "Glottocode": "baro1252",
+        "Original_Name": "A41_Barombi-Kang",
+        "Glottolog_Name": "Barombi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6403,
+          4.3702
+        ]
+      },
+      "properties": {
+        "Name": "A42_Abo",
+        "Glottocode": "bank1256",
+        "Original_Name": "A42_Abo",
+        "Glottolog_Name": "Bankon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4213,
+          3.80765
+        ]
+      },
+      "properties": {
+        "Name": "A43a_Basaa",
+        "Glottocode": "basa1284",
+        "Original_Name": "A43a_Basaa",
+        "Glottolog_Name": "Basa (Cameroon)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.67,
+          4.75
+        ]
+      },
+      "properties": {
+        "Name": "A44_Tunen",
+        "Glottocode": "tune1261",
+        "Original_Name": "A44_Tunen",
+        "Glottolog_Name": "Tunen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5,
+          4.75
+        ]
+      },
+      "properties": {
+        "Name": "A45_Nyokon",
+        "Glottocode": "nyok1243",
+        "Original_Name": "A45_Nyokon",
+        "Glottolog_Name": "Nyokon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9157,
+          4.5893
+        ]
+      },
+      "properties": {
+        "Name": "A46_Nomaande",
+        "Glottocode": "noma1260",
+        "Original_Name": "A46_Nomaande",
+        "Glottolog_Name": "Nomaande"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9369,
+          4.83615
+        ]
+      },
+      "properties": {
+        "Name": "A462_Yambeta",
+        "Glottocode": "yamb1252",
+        "Original_Name": "A462_Yambeta",
+        "Glottolog_Name": "Yambeta"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0982,
+          4.72603
+        ]
+      },
+      "properties": {
+        "Name": "A51_Bafia_maja",
+        "Glottocode": "bafi1243",
+        "Original_Name": "A51_Bafia_maja",
+        "Glottolog_Name": "Bafia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0982,
+          4.72603
+        ]
+      },
+      "properties": {
+        "Name": "A53_Bafia_rikpa",
+        "Glottocode": "bafi1243",
+        "xd_ids": [
+          "xd169"
+        ],
+        "Original_Name": "A53_Bafia_rikpa",
+        "Glottolog_Name": "Bafia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3103,
+          5.30535
+        ]
+      },
+      "properties": {
+        "Name": "A54_Tibea",
+        "Glottocode": "tibe1274",
+        "Original_Name": "A54_Tibea",
+        "Glottolog_Name": "Tibea"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5353,
+          4.64348
+        ]
+      },
+      "properties": {
+        "Name": "A601_Tuki",
+        "Glottocode": "tuki1240",
+        "Original_Name": "A601_Tuki",
+        "Glottolog_Name": "Tuki"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.824,
+          4.78874
+        ]
+      },
+      "properties": {
+        "Name": "A61_Ngoro-Asom",
+        "Glottocode": "bebe1248",
+        "Original_Name": "A61_Ngoro-Asom",
+        "Glottolog_Name": "Bebele"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3935,
+          4.21045
+        ]
+      },
+      "properties": {
+        "Name": "A61_Ngoro-Bisoo",
+        "Glottocode": "eton1253",
+        "Original_Name": "A61_Ngoro-Bisoo",
+        "Glottolog_Name": "Eton-Mengisa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3935,
+          4.21045
+        ]
+      },
+      "properties": {
+        "Name": "A61_Ngoro-lunda",
+        "Glottocode": "eton1253",
+        "Original_Name": "A61_Ngoro-lunda",
+        "Glottolog_Name": "Eton-Mengisa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.029,
+          4.35696
+        ]
+      },
+      "properties": {
+        "Name": "A621_Nubaca",
+        "Glottocode": "nuba1241",
+        "Original_Name": "A621_Nubaca",
+        "Glottolog_Name": "Nubaca"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1837,
+          4.63103
+        ]
+      },
+      "properties": {
+        "Name": "A622_Nugunu",
+        "Glottocode": "nugu1242",
+        "Original_Name": "A622_Nugunu",
+        "Glottolog_Name": "Nugunu (Cameroon)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0277,
+          4.41971
+        ]
+      },
+      "properties": {
+        "Name": "A62A_Nuasue",
+        "Glottocode": "yang1293",
+        "Original_Name": "A62A_Nuasue",
+        "Glottolog_Name": "Nuasue"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0277,
+          4.41971
+        ]
+      },
+      "properties": {
+        "Name": "A62A_Nukalonge",
+        "Glottocode": "yang1293",
+        "Original_Name": "A62A_Nukalonge",
+        "Glottolog_Name": "Nuasue"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0599,
+          4.52188
+        ]
+      },
+      "properties": {
+        "Name": "A62B_Mmala",
+        "Glottocode": "mmaa1238",
+        "Original_Name": "A62B_Mmala",
+        "Glottolog_Name": "Mmaala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.193,
+          4.45694
+        ]
+      },
+      "properties": {
+        "Name": "A62C_Libie",
+        "Glottocode": "elip1238",
+        "Original_Name": "A62C_Libie",
+        "Glottolog_Name": "Elip"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3935,
+          4.21045
+        ]
+      },
+      "properties": {
+        "Name": "A63_Mangisa",
+        "Glottocode": "eton1253",
+        "Original_Name": "A63_Mangisa",
+        "Glottolog_Name": "Eton-Mengisa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3935,
+          4.21045
+        ]
+      },
+      "properties": {
+        "Name": "A71_Eton",
+        "Glottocode": "eton1253",
+        "Original_Name": "A71_Eton",
+        "Glottolog_Name": "Eton-Mengisa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.93646,
+          4.21141
+        ]
+      },
+      "properties": {
+        "Name": "A72a_Ewondo",
+        "Glottocode": "ewon1239",
+        "Original_Name": "A72a_Ewondo",
+        "Glottolog_Name": "Ewondo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6365,
+          3.16141
+        ]
+      },
+      "properties": {
+        "Name": "A74a_Bulu",
+        "Glottocode": "bulu1251",
+        "Original_Name": "A74a_Bulu",
+        "Glottolog_Name": "Bulu (Cameroon)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.61454,
+          1.723965
+        ]
+      },
+      "properties": {
+        "Name": "A75a_Fang_Bitam",
+        "Glottocode": "fang1246",
+        "xd_ids": [
+          "xd149"
+        ],
+        "Original_Name": "A75a_Fang_Bitam",
+        "Glottolog_Name": "Fang (Equatorial Guinea)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.61454,
+          1.723965
+        ]
+      },
+      "properties": {
+        "Name": "A75a_Fang_Medouneu",
+        "Glottocode": "fang1246",
+        "Original_Name": "A75a_Fang_Medouneu",
+        "Glottolog_Name": "Fang (Equatorial Guinea)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.61454,
+          1.723965
+        ]
+      },
+      "properties": {
+        "Name": "A75a_Fang_Minvoul",
+        "Glottocode": "fang1246",
+        "Original_Name": "A75a_Fang_Minvoul",
+        "Glottolog_Name": "Fang (Equatorial Guinea)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.947061,
+          -0.091645
+        ]
+      },
+      "properties": {
+        "Name": "A803_Shiwa",
+        "Glottocode": "shiw1234",
+        "Original_Name": "A803_Shiwa",
+        "Glottolog_Name": "Shiwa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0812,
+          2.39354
+        ]
+      },
+      "properties": {
+        "Name": "A81_Kwasio",
+        "Glottocode": "kwas1243",
+        "xd_ids": [
+          "xd163"
+        ],
+        "Original_Name": "A81_Kwasio",
+        "Glottolog_Name": "Kwasio"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0789,
+          4.15471
+        ]
+      },
+      "properties": {
+        "Name": "A83_Mekaa",
+        "Glottocode": "maka1304",
+        "Original_Name": "A83_Mekaa",
+        "Glottolog_Name": "Makaa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8574,
+          3.65994
+        ]
+      },
+      "properties": {
+        "Name": "A832_Bekol",
+        "Glottocode": "kolc1235",
+        "Original_Name": "A832_Bekol",
+        "Glottolog_Name": "Kol (Cameroon)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1175,
+          2.30483
+        ]
+      },
+      "properties": {
+        "Name": "A84_Njem",
+        "Glottocode": "njye1238",
+        "Original_Name": "A84_Njem",
+        "Glottolog_Name": "Njyem"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.54152,
+          3.25933
+        ]
+      },
+      "properties": {
+        "Name": "A841_Badwe",
+        "Glottocode": "koon1245",
+        "Original_Name": "A841_Badwe",
+        "Glottolog_Name": "Koonzime"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.6527,
+          1.71801
+        ]
+      },
+      "properties": {
+        "Name": "A85b_Bekwil_Makokou",
+        "Glottocode": "bekw1242",
+        "Original_Name": "A85b_Bekwil_Makokou",
+        "Glottolog_Name": "Bekwil"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.6527,
+          1.71801
+        ]
+      },
+      "properties": {
+        "Name": "A85b_Bekwil_Mv",
+        "Glottocode": "bekw1242",
+        "Original_Name": "A85b_Bekwil_Mv",
+        "Glottolog_Name": "Bekwil"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.5246,
+          3.45776
+        ]
+      },
+      "properties": {
+        "Name": "A86c_Mpiemo",
+        "Glottocode": "mpie1238",
+        "Original_Name": "A86c_Mpiemo",
+        "Glottolog_Name": "Mpiemo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.9546,
+          1.71005
+        ]
+      },
+      "properties": {
+        "Name": "A87_Bomwali",
+        "Glottocode": "bomw1238",
+        "xd_ids": [
+          "xd164"
+        ],
+        "Original_Name": "A87_Bomwali",
+        "Glottolog_Name": "Bomwali"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6446,
+          4.34393
+        ]
+      },
+      "properties": {
+        "Name": "A91_Kwakum",
+        "Glottocode": "kwak1266",
+        "Original_Name": "A91_Kwakum",
+        "Glottolog_Name": "Kwakum"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.6282,
+          3.79989
+        ]
+      },
+      "properties": {
+        "Name": "A93_Kako",
+        "Glottocode": "kako1242",
+        "Original_Name": "A93_Kako",
+        "Glottolog_Name": "Kako"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0807,
+          6.38956
+        ]
+      },
+      "properties": {
+        "Name": "Aghem_Grassfields",
+        "Glottocode": "aghe1239",
+        "Original_Name": "Aghem_Grassfields",
+        "Glottolog_Name": "Aghem"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.50247,
+          -1.48741
+        ]
+      },
+      "properties": {
+        "Name": "B11a_Mpongwe",
+        "Glottocode": "myen1241",
+        "xd_ids": [
+          "xd167"
+        ],
+        "Original_Name": "B11a_Mpongwe",
+        "Glottolog_Name": "Myene"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.50247,
+          -1.48741
+        ]
+      },
+      "properties": {
+        "Name": "B11b_Orungu",
+        "Glottocode": "myen1241",
+        "Original_Name": "B11b_Orungu",
+        "Glottolog_Name": "Myene"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.50247,
+          -1.48741
+        ]
+      },
+      "properties": {
+        "Name": "B11c_Galwa",
+        "Glottocode": "myen1241",
+        "Original_Name": "B11c_Galwa",
+        "Glottolog_Name": "Myene"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.50247,
+          -1.48741
+        ]
+      },
+      "properties": {
+        "Name": "B11d_Dyumba",
+        "Glottocode": "myen1241",
+        "Original_Name": "B11d_Dyumba",
+        "Glottolog_Name": "Myene"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.50247,
+          -1.48741
+        ]
+      },
+      "properties": {
+        "Name": "B11F_Enenga",
+        "Glottocode": "myen1241",
+        "Original_Name": "B11F_Enenga",
+        "Glottolog_Name": "Myene"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.369465,
+          -2.449015
+        ]
+      },
+      "properties": {
+        "Name": "B201_Ndasa",
+        "Glottocode": "ndas1238",
+        "Original_Name": "B201_Ndasa",
+        "Glottolog_Name": "Ndasa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1214,
+          -0.95605
+        ]
+      },
+      "properties": {
+        "Name": "B202_Sigu",
+        "Glottocode": "sigh1238",
+        "Original_Name": "B202_Sigu",
+        "Glottolog_Name": "Sighu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.61,
+          -0.012
+        ]
+      },
+      "properties": {
+        "Name": "B203_Samaye",
+        "Glottocode": "osam1235",
+        "Original_Name": "B203_Samaye",
+        "Glottolog_Name": "Osamayi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.77,
+          -0.82
+        ]
+      },
+      "properties": {
+        "Name": "B204_Ndambomo_Li",
+        "Glottocode": "ndam1254",
+        "Original_Name": "B204_Ndambomo_Li",
+        "Glottolog_Name": "Ndambomo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.77,
+          -0.82
+        ]
+      },
+      "properties": {
+        "Name": "B204_Ndambomo_Massoukou",
+        "Glottocode": "ndam1254",
+        "Original_Name": "B204_Ndambomo_Massoukou",
+        "Glottolog_Name": "Ndambomo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.77,
+          -0.82
+        ]
+      },
+      "properties": {
+        "Name": "B204_Ndambomo_Mbadi",
+        "Glottocode": "ndam1254",
+        "Original_Name": "B204_Ndambomo_Mbadi",
+        "Glottolog_Name": "Ndambomo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.79206,
+          1.52302
+        ]
+      },
+      "properties": {
+        "Name": "B21_Seki",
+        "Glottocode": "seki1238",
+        "Original_Name": "B21_Seki",
+        "Glottolog_Name": "Seki"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3836,
+          -0.78854
+        ]
+      },
+      "properties": {
+        "Name": "B22a_Kele",
+        "Glottocode": "kele1257",
+        "Original_Name": "B22a_Kele",
+        "Glottolog_Name": "K\u00e9l\u00e9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1345,
+          0.882925
+        ]
+      },
+      "properties": {
+        "Name": "B22b_Koya",
+        "Glottocode": "ngom1270",
+        "Original_Name": "B22b_Koya",
+        "Glottolog_Name": "Ngom"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1345,
+          0.882925
+        ]
+      },
+      "properties": {
+        "Name": "B22b_Ngom",
+        "Glottocode": "ngom1270",
+        "Original_Name": "B22b_Ngom",
+        "Glottolog_Name": "Ngom"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.30037,
+          0.086134
+        ]
+      },
+      "properties": {
+        "Name": "B22E_Mwesa",
+        "Glottocode": "mwes1234",
+        "Original_Name": "B22E_Mwesa",
+        "Glottolog_Name": "Mwesa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5956,
+          -2.28729
+        ]
+      },
+      "properties": {
+        "Name": "B23_Mbangwe",
+        "Glottocode": "mban1268",
+        "Original_Name": "B23_Mbangwe",
+        "Glottolog_Name": "Mbangwe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.264,
+          -2.39234
+        ]
+      },
+      "properties": {
+        "Name": "B24_Wumbvu",
+        "Glottocode": "wumb1242",
+        "Original_Name": "B24_Wumbvu",
+        "Glottolog_Name": "Wumbvu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.97,
+          1.016
+        ]
+      },
+      "properties": {
+        "Name": "B25_Kota",
+        "Glottocode": "kota1274",
+        "xd_ids": [
+          "xd162"
+        ],
+        "Original_Name": "B25_Kota",
+        "Glottolog_Name": "Kota (Gabon)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.787,
+          0.25188
+        ]
+      },
+      "properties": {
+        "Name": "B251_Shake",
+        "Glottocode": "sake1247",
+        "Original_Name": "B251_Shake",
+        "Glottolog_Name": "Sake"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0472,
+          0.64356
+        ]
+      },
+      "properties": {
+        "Name": "B252_Mahongwe",
+        "Glottocode": "maho1248",
+        "Original_Name": "B252_Mahongwe",
+        "Glottolog_Name": "Mahongwe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.58,
+          -1.22
+        ]
+      },
+      "properties": {
+        "Name": "B301_Viya",
+        "Glottocode": "eviy1235",
+        "Original_Name": "B301_Viya",
+        "Glottolog_Name": "Viya"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1783,
+          -1.28107
+        ]
+      },
+      "properties": {
+        "Name": "B302_Himba",
+        "Glottocode": "simb1254",
+        "Original_Name": "B302_Himba",
+        "Glottolog_Name": "Simba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.223,
+          -1.90305
+        ]
+      },
+      "properties": {
+        "Name": "B304_Pinzi",
+        "Glottocode": "pinj1243",
+        "Original_Name": "B304_Pinzi",
+        "Glottolog_Name": "Pinji"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.32251,
+          -1.16762
+        ]
+      },
+      "properties": {
+        "Name": "B305_Vove",
+        "Glottocode": "bubi1250",
+        "Original_Name": "B305_Vove",
+        "Glottolog_Name": "Bubi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1359,
+          -1.55469
+        ]
+      },
+      "properties": {
+        "Name": "B31_Tsogo",
+        "Glottocode": "tsog1243",
+        "xd_ids": [
+          "xd40"
+        ],
+        "Original_Name": "B31_Tsogo",
+        "Glottolog_Name": "Tsogo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7076,
+          -0.00776
+        ]
+      },
+      "properties": {
+        "Name": "B32_Kande",
+        "Glottocode": "kand1300",
+        "Original_Name": "B32_Kande",
+        "Glottolog_Name": "Kande"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.768112,
+          -3.433411
+        ]
+      },
+      "properties": {
+        "Name": "B404_Ngubi",
+        "Glottocode": "ngub1239",
+        "Original_Name": "B404_Ngubi",
+        "Glottolog_Name": "Ngubi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4635,
+          -1.78084
+        ]
+      },
+      "properties": {
+        "Name": "B41_Shira",
+        "Glottocode": "sira1266",
+        "Original_Name": "B41_Shira",
+        "Glottolog_Name": "Sira"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9098,
+          -1.52694
+        ]
+      },
+      "properties": {
+        "Name": "B42_Sangu_Mb",
+        "Glottocode": "sang1333",
+        "Original_Name": "B42_Sangu_Mb",
+        "Glottolog_Name": "Sangu (Gabon)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9098,
+          -1.52694
+        ]
+      },
+      "properties": {
+        "Name": "B42_Sangu_Mi",
+        "Glottocode": "sang1333",
+        "Original_Name": "B42_Sangu_Mi",
+        "Glottolog_Name": "Sangu (Gabon)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6714,
+          -2.67362
+        ]
+      },
+      "properties": {
+        "Name": "B43_Punu",
+        "Glottocode": "punu1239",
+        "Original_Name": "B43_Punu",
+        "Glottolog_Name": "Punu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.124,
+          -3.37917
+        ]
+      },
+      "properties": {
+        "Name": "B44_Lumbu",
+        "Glottocode": "lumb1249",
+        "Original_Name": "B44_Lumbu",
+        "Glottolog_Name": "Lumbu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8951,
+          -1.51945
+        ]
+      },
+      "properties": {
+        "Name": "B501_Wanzi_E",
+        "Glottocode": "wand1266",
+        "Original_Name": "B501_Wanzi_E",
+        "Glottolog_Name": "Wandji"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8951,
+          -1.51945
+        ]
+      },
+      "properties": {
+        "Name": "B501_Wanzi_Mo",
+        "Glottocode": "wand1266",
+        "Original_Name": "B501_Wanzi_Mo",
+        "Glottolog_Name": "Wandji"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.305563,
+          -2.752859
+        ]
+      },
+      "properties": {
+        "Name": "B503_Vili",
+        "Glottocode": "vili1239",
+        "Original_Name": "B503_Vili",
+        "Glottolog_Name": "Vili of Ngounie"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0046,
+          -0.91927
+        ]
+      },
+      "properties": {
+        "Name": "B51_Duma",
+        "Glottocode": "duma1253",
+        "Original_Name": "B51_Duma",
+        "Glottolog_Name": "Duma"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0046,
+          -0.91927
+        ]
+      },
+      "properties": {
+        "Name": "B51_Duma_La",
+        "Glottocode": "duma1253",
+        "Original_Name": "B51_Duma_La",
+        "Glottolog_Name": "Duma"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.7063,
+          -2.18115
+        ]
+      },
+      "properties": {
+        "Name": "B52_Nzebi",
+        "Glottocode": "njeb1242",
+        "Original_Name": "B52_Nzebi",
+        "Glottolog_Name": "Njebi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.7581,
+          -2.29245
+        ]
+      },
+      "properties": {
+        "Name": "B53_Tsaangi_Poungi",
+        "Glottocode": "tsaa1242",
+        "Original_Name": "B53_Tsaangi_Poungi",
+        "Glottolog_Name": "Tsaangi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2877,
+          -0.477445
+        ]
+      },
+      "properties": {
+        "Name": "B601_Lempini",
+        "Glottocode": "mber1257",
+        "Original_Name": "B601_Lempini",
+        "Glottolog_Name": "Mbere-Mbamba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6111,
+          -1.71316
+        ]
+      },
+      "properties": {
+        "Name": "B602_Kaningi_Nord",
+        "Glottocode": "kani1279",
+        "Original_Name": "B602_Kaningi_Nord",
+        "Glottolog_Name": "Kaningi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6111,
+          -1.71316
+        ]
+      },
+      "properties": {
+        "Name": "B602_Kaningi_Sud",
+        "Glottocode": "kani1279",
+        "Original_Name": "B602_Kaningi_Sud",
+        "Glottolog_Name": "Kaningi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2877,
+          -0.477445
+        ]
+      },
+      "properties": {
+        "Name": "B62_Mbaama",
+        "Glottocode": "mber1257",
+        "Original_Name": "B62_Mbaama",
+        "Glottolog_Name": "Mbere-Mbamba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7279,
+          -1.67033
+        ]
+      },
+      "properties": {
+        "Name": "B63_Ndumu",
+        "Glottocode": "ndum1239",
+        "Original_Name": "B63_Ndumu",
+        "Glottolog_Name": "Ndumu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6001,
+          -2.03393
+        ]
+      },
+      "properties": {
+        "Name": "B701_Atsitsege",
+        "Glottocode": "tchi1245",
+        "Original_Name": "B701_Atsitsege",
+        "Glottolog_Name": "Tchitchege"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.8664,
+          -1.61688
+        ]
+      },
+      "properties": {
+        "Name": "B71a_Teke_Dj",
+        "Glottocode": "teke1275",
+        "Original_Name": "B71a_Teke_Dj",
+        "Glottolog_Name": "Latege"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.8664,
+          -1.61688
+        ]
+      },
+      "properties": {
+        "Name": "B71a_Teke_Os",
+        "Glottocode": "teke1275",
+        "Original_Name": "B71a_Teke_Os",
+        "Glottolog_Name": "Latege"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.3893,
+          -4.20697
+        ]
+      },
+      "properties": {
+        "Name": "B71aIb_Teke_Ibali_Congo",
+        "Glottocode": "ibal1241",
+        "Original_Name": "B71aIb_Teke_Ibali_Congo",
+        "Glottolog_Name": "Kwa South"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.8664,
+          -1.61688
+        ]
+      },
+      "properties": {
+        "Name": "B71aLe_Teke_Leconi",
+        "Glottocode": "teke1275",
+        "Original_Name": "B71aLe_Teke_Leconi",
+        "Glottolog_Name": "Latege"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.5061,
+          -3.59003
+        ]
+      },
+      "properties": {
+        "Name": "B77b_Fumu",
+        "Glottocode": "teke1274",
+        "Original_Name": "B77b_Fumu",
+        "Glottolog_Name": "Teke-Fuumu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.72,
+          -4.27
+        ]
+      },
+      "properties": {
+        "Name": "B78_Wuumu",
+        "Glottocode": "wuum1239",
+        "Original_Name": "B78_Wuumu",
+        "Glottolog_Name": "Wuumu-Mpuono"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4765,
+          -2.84694
+        ]
+      },
+      "properties": {
+        "Name": "B81_Tiene",
+        "Glottocode": "tien1242",
+        "Original_Name": "B81_Tiene",
+        "Glottolog_Name": "Tiene"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.92,
+          -3.01
+        ]
+      },
+      "properties": {
+        "Name": "B82_Buma",
+        "Glottocode": "boma1251",
+        "Original_Name": "B82_Buma",
+        "Glottolog_Name": "Boma Nord"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.4269,
+          -5.21134
+        ]
+      },
+      "properties": {
+        "Name": "B84_Mbunda",
+        "Glottocode": "mpuo1241",
+        "xd_ids": [
+          "xd46"
+        ],
+        "Original_Name": "B84_Mbunda",
+        "Glottolog_Name": "Mbuun"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.2341,
+          -3.8231
+        ]
+      },
+      "properties": {
+        "Name": "B85_Yanzi",
+        "Glottocode": "yans1239",
+        "xd_ids": [
+          "xd51"
+        ],
+        "Original_Name": "B85_Yanzi",
+        "Glottolog_Name": "Yansi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4978,
+          -4.55057
+        ]
+      },
+      "properties": {
+        "Name": "B85d_Nsongo",
+        "Glottocode": "song1299",
+        "xd_ids": [
+          "xd50"
+        ],
+        "Original_Name": "B85d_Nsongo",
+        "Glottolog_Name": "Nsong-Mpiin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.3881,
+          -4.44304
+        ]
+      },
+      "properties": {
+        "Name": "B85e_Mput",
+        "Glottocode": "ding1239",
+        "Original_Name": "B85e_Mput",
+        "Glottolog_Name": "Ding"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.3881,
+          -4.44304
+        ]
+      },
+      "properties": {
+        "Name": "B86_Dinga",
+        "Glottocode": "ding1239",
+        "xd_ids": [
+          "xd47"
+        ],
+        "Original_Name": "B86_Dinga",
+        "Glottolog_Name": "Ding"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.3881,
+          -4.44304
+        ]
+      },
+      "properties": {
+        "Name": "B86_Dzing",
+        "Glottocode": "ding1239",
+        "Original_Name": "B86_Dzing",
+        "Glottolog_Name": "Ding"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.5129,
+          -4.09816
+        ]
+      },
+      "properties": {
+        "Name": "B861_Ngul",
+        "Glottocode": "ngul1247",
+        "Original_Name": "B861_Ngul",
+        "Glottolog_Name": "Ngwii"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.6314,
+          -4.38475
+        ]
+      },
+      "properties": {
+        "Name": "B862_Lwel",
+        "Glottocode": "lwel1234",
+        "Original_Name": "B862_Lwel",
+        "Glottolog_Name": "Lwel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4978,
+          -4.55057
+        ]
+      },
+      "properties": {
+        "Name": "B863_Pindi",
+        "Glottocode": "song1299",
+        "Original_Name": "B863_Pindi",
+        "Glottolog_Name": "Nsong-Mpiin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.2,
+          -5.5
+        ]
+      },
+      "properties": {
+        "Name": "B864_Ngong",
+        "Glottocode": "ngon1267",
+        "Original_Name": "B864_Ngong",
+        "Glottolog_Name": "Ngongo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.194462,
+          -4.102208
+        ]
+      },
+      "properties": {
+        "Name": "B865_Nzadi",
+        "Glottocode": "nzad1234",
+        "Original_Name": "B865_Nzadi",
+        "Glottolog_Name": "Nzadi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8477,
+          5.49017
+        ]
+      },
+      "properties": {
+        "Name": "Bamun_Grassfields",
+        "Glottocode": "bamu1253",
+        "xd_ids": [
+          "xd172"
+        ],
+        "Original_Name": "Bamun_Grassfields",
+        "Glottolog_Name": "Bamun"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1907,
+          8.90052
+        ]
+      },
+      "properties": {
+        "Name": "Bile_Jarawan",
+        "Glottocode": "bile1244",
+        "Original_Name": "Bile_Jarawan",
+        "Glottolog_Name": "Bile"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2439,
+          9.60769
+        ]
+      },
+      "properties": {
+        "Name": "Bwazza_Jarawan",
+        "Glottocode": "mbul1260",
+        "Original_Name": "Bwazza_Jarawan",
+        "Glottolog_Name": "Mbula-Bwazza"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.2305,
+          1.07773
+        ]
+      },
+      "properties": {
+        "Name": "C101_Babole_Dz",
+        "Glottocode": "dibo1245",
+        "Original_Name": "C101_Babole_Dz",
+        "Glottolog_Name": "Dibole"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.3733,
+          1.70044
+        ]
+      },
+      "properties": {
+        "Name": "C101_Babole_Ep",
+        "Glottocode": "bomi1238",
+        "Original_Name": "C101_Babole_Ep",
+        "Glottolog_Name": "Bomitaba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.2305,
+          1.07773
+        ]
+      },
+      "properties": {
+        "Name": "C101_Babole_Ma",
+        "Glottocode": "dibo1245",
+        "Original_Name": "C101_Babole_Ma",
+        "Glottolog_Name": "Dibole"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.2713,
+          3.6515
+        ]
+      },
+      "properties": {
+        "Name": "C104_Aka",
+        "Glottocode": "yaka1272",
+        "xd_ids": [
+          "xd923",
+          "xd924"
+        ],
+        "Original_Name": "C104_Aka",
+        "Glottolog_Name": "Yaka (Central African Republic)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.8759,
+          2.11942
+        ]
+      },
+      "properties": {
+        "Name": "C105_Mbenga",
+        "Glottocode": "maba1270",
+        "Original_Name": "C105_Mbenga",
+        "Glottolog_Name": "Mabaale"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.5322,
+          -1.23019
+        ]
+      },
+      "properties": {
+        "Name": "C141_Bonyala",
+        "Glottocode": "mbos1242",
+        "Original_Name": "C141_Bonyala",
+        "Glottolog_Name": "Mbosi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1644,
+          2.16773
+        ]
+      },
+      "properties": {
+        "Name": "C142_Mondongo",
+        "Glottocode": "bamw1238",
+        "Original_Name": "C142_Mondongo",
+        "Glottolog_Name": "Bamwe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.6079,
+          0.37063
+        ]
+      },
+      "properties": {
+        "Name": "C15_Bongili",
+        "Glottocode": "bong1284",
+        "Original_Name": "C15_Bongili",
+        "Glottolog_Name": "Bongili"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.7935,
+          0.43541
+        ]
+      },
+      "properties": {
+        "Name": "C21_Ngare",
+        "Glottocode": "mbok1243",
+        "Original_Name": "C21_Ngare",
+        "Glottolog_Name": "Mboko"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4623,
+          -0.39897
+        ]
+      },
+      "properties": {
+        "Name": "C22_Akwa",
+        "Glottocode": "akwa1248",
+        "Original_Name": "C22_Akwa",
+        "Glottolog_Name": "Akwa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.7508,
+          -0.69688
+        ]
+      },
+      "properties": {
+        "Name": "C24_Koyo",
+        "Glottocode": "koyo1242",
+        "Original_Name": "C24_Koyo",
+        "Glottolog_Name": "Koyo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.5322,
+          -1.23019
+        ]
+      },
+      "properties": {
+        "Name": "C25_Mboshi",
+        "Glottocode": "mbos1242",
+        "Original_Name": "C25_Mboshi",
+        "Glottolog_Name": "Mbosi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.5322,
+          -1.23019
+        ]
+      },
+      "properties": {
+        "Name": "C25A_Bunji",
+        "Glottocode": "mbos1242",
+        "Original_Name": "C25A_Bunji",
+        "Glottolog_Name": "Mbosi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.5322,
+          -1.23019
+        ]
+      },
+      "properties": {
+        "Name": "C25B_Olee",
+        "Glottocode": "mbos1242",
+        "Original_Name": "C25B_Olee",
+        "Glottolog_Name": "Mbosi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.5322,
+          -1.23019
+        ]
+      },
+      "properties": {
+        "Name": "C25C_Ondinga",
+        "Glottocode": "mbos1242",
+        "Original_Name": "C25C_Ondinga",
+        "Glottolog_Name": "Mbosi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.7508,
+          -0.69688
+        ]
+      },
+      "properties": {
+        "Name": "C25E_Eboyi",
+        "Glottocode": "koyo1242",
+        "Original_Name": "C25E_Eboyi",
+        "Glottolog_Name": "Koyo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.6181,
+          2.46327
+        ]
+      },
+      "properties": {
+        "Name": "C302_Bolondo",
+        "Glottocode": "bolo1263",
+        "Original_Name": "C302_Bolondo",
+        "Glottolog_Name": "Bolondo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.227,
+          -0.87437
+        ]
+      },
+      "properties": {
+        "Name": "C32_Bobangi",
+        "Glottocode": "bang1354",
+        "Original_Name": "C32_Bobangi",
+        "Glottolog_Name": "Bobangi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.3,
+          1.25
+        ]
+      },
+      "properties": {
+        "Name": "C322_Zamba",
+        "Glottocode": "zamb1245",
+        "Original_Name": "C322_Zamba",
+        "Glottolog_Name": "Zamba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.685662,
+          -0.739203
+        ]
+      },
+      "properties": {
+        "Name": "C323_Mpama",
+        "Glottocode": "mpam1239",
+        "Original_Name": "C323_Mpama",
+        "Glottolog_Name": "Mpama"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.9669,
+          -2.85653
+        ]
+      },
+      "properties": {
+        "Name": "C34_Sakata",
+        "Glottocode": "saka1287",
+        "xd_ids": [
+          "xd49"
+        ],
+        "Original_Name": "C34_Sakata",
+        "Glottolog_Name": "Sakata"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.28532,
+          -4.409174
+        ]
+      },
+      "properties": {
+        "Name": "C36d_Lingala",
+        "Glottocode": "ling1263",
+        "xd_ids": [
+          "xd147"
+        ],
+        "Original_Name": "C36d_Lingala",
+        "Glottolog_Name": "Kinshasa Lingala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1644,
+          2.16773
+        ]
+      },
+      "properties": {
+        "Name": "C36g_Monyongo",
+        "Glottocode": "bamw1238",
+        "Original_Name": "C36g_Monyongo",
+        "Glottolog_Name": "Bamwe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.4087,
+          2.15101
+        ]
+      },
+      "properties": {
+        "Name": "C36g_Mosange",
+        "Glottocode": "ndol1238",
+        "Original_Name": "C36g_Mosange",
+        "Glottolog_Name": "Ndolo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.6107,
+          2.19951
+        ]
+      },
+      "properties": {
+        "Name": "C37_Ebudza",
+        "Glottocode": "budz1238",
+        "xd_ids": [
+          "xd157"
+        ],
+        "Original_Name": "C37_Ebudza",
+        "Glottolog_Name": "Budza"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2514,
+          2.5957
+        ]
+      },
+      "properties": {
+        "Name": "C401_Babati_1919",
+        "Glottocode": "bwaa1238",
+        "Original_Name": "C401_Babati_1919",
+        "Glottolog_Name": "Bwa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.1212,
+          3.15636
+        ]
+      },
+      "properties": {
+        "Name": "C401_Pakabete",
+        "Glottocode": "pagi1243",
+        "Original_Name": "C401_Pakabete",
+        "Glottolog_Name": "Pagibete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.14148,
+          1.45357
+        ]
+      },
+      "properties": {
+        "Name": "C41_Ngombe",
+        "Glottocode": "ngom1268",
+        "xd_ids": [
+          "xd159"
+        ],
+        "Original_Name": "C41_Ngombe",
+        "Glottolog_Name": "Ngombe (Democratic Republic of Congo)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1644,
+          2.16773
+        ]
+      },
+      "properties": {
+        "Name": "C412_Libobi",
+        "Glottocode": "bamw1238",
+        "Original_Name": "C412_Libobi",
+        "Glottolog_Name": "Bamwe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.28,
+          3.22
+        ]
+      },
+      "properties": {
+        "Name": "C42_Ebwela",
+        "Glottocode": "bwel1238",
+        "Original_Name": "C42_Ebwela",
+        "Glottolog_Name": "Bwela"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2514,
+          2.5957
+        ]
+      },
+      "properties": {
+        "Name": "C43A_Baati",
+        "Glottocode": "bwaa1238",
+        "Original_Name": "C43A_Baati",
+        "Glottolog_Name": "Bwa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2514,
+          2.5957
+        ]
+      },
+      "properties": {
+        "Name": "C44_Bwa",
+        "Glottocode": "bwaa1238",
+        "Original_Name": "C44_Bwa",
+        "Glottolog_Name": "Bwa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6907,
+          1.25037
+        ]
+      },
+      "properties": {
+        "Name": "C52_Soko",
+        "Glottocode": "sode1235",
+        "Original_Name": "C52_Soko",
+        "Glottolog_Name": "So (Democratic Republic of Congo)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6907,
+          1.25037
+        ]
+      },
+      "properties": {
+        "Name": "C52_Soko_1919",
+        "Glottocode": "sode1235",
+        "Original_Name": "C52_Soko_1919",
+        "Glottolog_Name": "So (Democratic Republic of Congo)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.6862,
+          0.88267
+        ]
+      },
+      "properties": {
+        "Name": "C54_Turumba_1919",
+        "Glottocode": "lomb1260",
+        "Original_Name": "C54_Turumba_1919",
+        "Glottolog_Name": "Lombo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.3098,
+          0.36906
+        ]
+      },
+      "properties": {
+        "Name": "C55_Lokele",
+        "Glottocode": "kele1255",
+        "Original_Name": "C55_Lokele",
+        "Glottolog_Name": "Kele-Foma"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.4259,
+          -1.54228
+        ]
+      },
+      "properties": {
+        "Name": "C61_Mongo",
+        "Glottocode": "mong1338",
+        "xd_ids": [
+          "xd143",
+          "xd160"
+        ],
+        "Original_Name": "C61_Mongo",
+        "Glottolog_Name": "Mongo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.4259,
+          -1.54228
+        ]
+      },
+      "properties": {
+        "Name": "C61E_Konda",
+        "Glottocode": "mong1338",
+        "xd_ids": [
+          "xd139"
+        ],
+        "Original_Name": "C61E_Konda",
+        "Glottolog_Name": "Mongo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.546,
+          -4.29314
+        ]
+      },
+      "properties": {
+        "Name": "C71_Tetela",
+        "Glottocode": "tete1250",
+        "xd_ids": [
+          "xd144"
+        ],
+        "Original_Name": "C71_Tetela",
+        "Glottolog_Name": "Tetela"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.1748,
+          -2.32162
+        ]
+      },
+      "properties": {
+        "Name": "C76_Ombo",
+        "Glottocode": "ombo1238",
+        "Original_Name": "C76_Ombo",
+        "Glottolog_Name": "Ombo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.4194,
+          -3.26337
+        ]
+      },
+      "properties": {
+        "Name": "C81_Dengese",
+        "Glottocode": "deng1250",
+        "Original_Name": "C81_Dengese",
+        "Glottolog_Name": "Dengese"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.4556,
+          -4.69463
+        ]
+      },
+      "properties": {
+        "Name": "C83_Bushong",
+        "Glottocode": "bush1247",
+        "xd_ids": [
+          "xd66"
+        ],
+        "Original_Name": "C83_Bushong",
+        "Glottolog_Name": "Bushoong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.5054,
+          -5.73837
+        ]
+      },
+      "properties": {
+        "Name": "C85_Wongo",
+        "Glottocode": "wong1247",
+        "Original_Name": "C85_Wongo",
+        "Glottolog_Name": "Wongo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.0443,
+          -0.57181
+        ]
+      },
+      "properties": {
+        "Name": "D11_Mbole",
+        "Glottocode": "mbol1247",
+        "Original_Name": "D11_Mbole",
+        "Glottolog_Name": "Mbole"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.3343,
+          -1.95874
+        ]
+      },
+      "properties": {
+        "Name": "D12_Lengola",
+        "Glottocode": "leng1258",
+        "Original_Name": "D12_Lengola",
+        "Glottolog_Name": "Lengola"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.104,
+          -1.57031
+        ]
+      },
+      "properties": {
+        "Name": "D13_Metoko",
+        "Glottocode": "mitu1240",
+        "Original_Name": "D13_Metoko",
+        "Glottolog_Name": "Mituku"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.15,
+          0.56
+        ]
+      },
+      "properties": {
+        "Name": "D14_Enya",
+        "Glottocode": "enya1247",
+        "Original_Name": "D14_Enya",
+        "Glottolog_Name": "Enya-Kisangani"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.6088,
+          2.13777
+        ]
+      },
+      "properties": {
+        "Name": "D201_Liko",
+        "Glottocode": "lika1243",
+        "Original_Name": "D201_Liko",
+        "Glottolog_Name": "Liko"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.0014,
+          0.81206
+        ]
+      },
+      "properties": {
+        "Name": "D20B_Vamba_1919",
+        "Glottocode": "amba1263",
+        "Original_Name": "*D20B_Vamba_1919",
+        "Glottolog_Name": "Amba (Uganda)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.5941,
+          1.1807
+        ]
+      },
+      "properties": {
+        "Name": "D21_Baali",
+        "Glottocode": "bali1274",
+        "xd_ids": [
+          "xd153"
+        ],
+        "Original_Name": "D21_Baali",
+        "Glottolog_Name": "Bali (Democratic Republic of Congo)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.0186,
+          1.59855
+        ]
+      },
+      "properties": {
+        "Name": "D211_Kango",
+        "Glottocode": "kang1285",
+        "xd_ids": [
+          "xd5"
+        ],
+        "Original_Name": "D211_Kango",
+        "Glottolog_Name": "Kango (Tshopo District)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7144,
+          -0.76333
+        ]
+      },
+      "properties": {
+        "Name": "D23_Kibira-Kumu_1919",
+        "Glottocode": "komo1260",
+        "xd_ids": [
+          "xd152"
+        ],
+        "Original_Name": "D23_Kibira-Kumu_1919",
+        "Glottolog_Name": "Komo (Democratic Republic of Congo)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.3477,
+          -2.21871
+        ]
+      },
+      "properties": {
+        "Name": "D24_Songola",
+        "Glottocode": "song1300",
+        "xd_ids": [
+          "xd129"
+        ],
+        "Original_Name": "D24_Songola",
+        "Glottolog_Name": "Songoora"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.1424,
+          -3.83196
+        ]
+      },
+      "properties": {
+        "Name": "D25_Lega",
+        "Glottocode": "lega1249",
+        "Original_Name": "D25_Lega",
+        "Glottolog_Name": "Lega-Shabunda"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.3274,
+          -5.37545
+        ]
+      },
+      "properties": {
+        "Name": "D28_Holoholo",
+        "Glottocode": "holo1240",
+        "Original_Name": "D28_Holoholo",
+        "Glottolog_Name": "Holoholo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.7491,
+          5.03525
+        ]
+      },
+      "properties": {
+        "Name": "D301_Kare",
+        "Glottocode": "kari1306",
+        "Original_Name": "D301_Kare",
+        "Glottolog_Name": "Kari"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.0039,
+          4.97912
+        ]
+      },
+      "properties": {
+        "Name": "D304_Homa_1919",
+        "Glottocode": "homa1239",
+        "Original_Name": "*D304_Homa_1919",
+        "Glottolog_Name": "Homa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.31546,
+          -1.29357
+        ]
+      },
+      "properties": {
+        "Name": "D305_Nyanga-li",
+        "Glottocode": "nyan1304",
+        "Original_Name": "*D305_Nyanga-li",
+        "Glottolog_Name": "Nyanga"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.951,
+          2.00501
+        ]
+      },
+      "properties": {
+        "Name": "D308_Bodo2",
+        "Glottocode": "budu1250",
+        "Original_Name": "*D308_Bodo2",
+        "Glottolog_Name": "Budu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.951,
+          2.00501
+        ]
+      },
+      "properties": {
+        "Name": "D308_Ebodo",
+        "Glottocode": "budu1250",
+        "Original_Name": "*D308_Ebodo",
+        "Glottolog_Name": "Budu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.7626,
+          1.16839
+        ]
+      },
+      "properties": {
+        "Name": "D311_Bila",
+        "Glottocode": "bila1255",
+        "xd_ids": [
+          "xd150"
+        ],
+        "Original_Name": "D311_Bila",
+        "Glottolog_Name": "Bila"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.951,
+          2.00501
+        ]
+      },
+      "properties": {
+        "Name": "D313_Mbuttu_1919",
+        "Glottocode": "budu1250",
+        "Original_Name": "D313_Mbuttu_1919",
+        "Glottolog_Name": "Budu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.7626,
+          1.16839
+        ]
+      },
+      "properties": {
+        "Name": "D32_Bira",
+        "Glottocode": "bila1255",
+        "xd_ids": [
+          "xd154"
+        ],
+        "Original_Name": "D32_Bira",
+        "Glottolog_Name": "Bila"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.0293,
+          1.50054
+        ]
+      },
+      "properties": {
+        "Name": "D32_Bira_Bunia",
+        "Glottocode": "bera1259",
+        "Original_Name": "D32_Bira_Bunia",
+        "Glottolog_Name": "Bera"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.0201,
+          1.92098
+        ]
+      },
+      "properties": {
+        "Name": "D33_Nyali",
+        "Glottocode": "nyal1250",
+        "Original_Name": "D33_Nyali",
+        "Glottolog_Name": "Nyali"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.81348,
+          0.93847
+        ]
+      },
+      "properties": {
+        "Name": "D331_Bvanuma",
+        "Glottocode": "vanu1242",
+        "Original_Name": "D331_Bvanuma",
+        "Glottolog_Name": "Vanuma"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.9693,
+          1.53341
+        ]
+      },
+      "properties": {
+        "Name": "D333_Ndaaka",
+        "Glottocode": "ndak1241",
+        "Original_Name": "D333_Ndaaka",
+        "Glottolog_Name": "Ndaka"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.018,
+          1.11602
+        ]
+      },
+      "properties": {
+        "Name": "D334_Mbo",
+        "Glottocode": "mbod1238",
+        "Original_Name": "D334_Mbo",
+        "Glottolog_Name": "Mbo (Democratic Republic of Congo)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.31546,
+          -1.29357
+        ]
+      },
+      "properties": {
+        "Name": "D43_Nyanga",
+        "Glottocode": "nyan1304",
+        "Original_Name": "D43_Nyanga",
+        "Glottolog_Name": "Nyanga"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.5545,
+          -5.41806
+        ]
+      },
+      "properties": {
+        "Name": "D55_Buyu",
+        "Glottocode": "buyu1239",
+        "xd_ids": [
+          "xd57"
+        ],
+        "Original_Name": "D55_Buyu",
+        "Glottolog_Name": "Buyu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.21,
+          10.05
+        ]
+      },
+      "properties": {
+        "Name": "Duguri_Jarawan",
+        "Glottocode": "dugu1249",
+        "Original_Name": "Duguri_Jarawan",
+        "Glottolog_Name": "Duguri"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.8035,
+          -2.19303
+        ]
+      },
+      "properties": {
+        "Name": "E46_Sonjo",
+        "Glottocode": "temi1247",
+        "xd_ids": [
+          "xd108"
+        ],
+        "Original_Name": "E46_Sonjo",
+        "Glottolog_Name": "Temi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.719,
+          -0.29005
+        ]
+      },
+      "properties": {
+        "Name": "E51_Kikuyu",
+        "Glottocode": "kiku1240",
+        "xd_ids": [
+          "xd109"
+        ],
+        "Original_Name": "E51_Kikuyu",
+        "Glottolog_Name": "Kikuyu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.5933,
+          -0.62822
+        ]
+      },
+      "properties": {
+        "Name": "E52_Embu",
+        "Glottocode": "embu1241",
+        "Original_Name": "E52_Embu",
+        "Glottolog_Name": "Embu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.5933,
+          -0.62822
+        ]
+      },
+      "properties": {
+        "Name": "E52_Mbeere",
+        "Glottocode": "embu1241",
+        "Original_Name": "E52_Mbeere",
+        "Glottolog_Name": "Embu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.7396,
+          0.26484
+        ]
+      },
+      "properties": {
+        "Name": "E53_Igoji",
+        "Glottocode": "meru1245",
+        "Original_Name": "E53_Igoji",
+        "Glottolog_Name": "Meru"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.7396,
+          0.26484
+        ]
+      },
+      "properties": {
+        "Name": "E53_Imenti",
+        "Glottocode": "meru1245",
+        "Original_Name": "E53_Imenti",
+        "Glottolog_Name": "Meru"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.7396,
+          0.26484
+        ]
+      },
+      "properties": {
+        "Name": "E53_Meru",
+        "Glottocode": "meru1245",
+        "xd_ids": [
+          "xd104"
+        ],
+        "Original_Name": "E53_Meru",
+        "Glottolog_Name": "Meru"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.7396,
+          0.26484
+        ]
+      },
+      "properties": {
+        "Name": "E53_Meruimenti",
+        "Glottocode": "meru1245",
+        "Original_Name": "E53_Meruimenti",
+        "Glottolog_Name": "Meru"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.7396,
+          0.26484
+        ]
+      },
+      "properties": {
+        "Name": "E53_Merutig",
+        "Glottocode": "meru1245",
+        "Original_Name": "E53_Merutig",
+        "Glottolog_Name": "Meru"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.7396,
+          0.26484
+        ]
+      },
+      "properties": {
+        "Name": "E53_Miutini",
+        "Glottocode": "meru1245",
+        "Original_Name": "E53_Miutini",
+        "Glottolog_Name": "Meru"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.7396,
+          0.26484
+        ]
+      },
+      "properties": {
+        "Name": "E53_Tigania",
+        "Glottocode": "meru1245",
+        "Original_Name": "E53_Tigania",
+        "Glottolog_Name": "Meru"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.5939,
+          -0.11968
+        ]
+      },
+      "properties": {
+        "Name": "E531_Muthambi",
+        "Glottocode": "mwim1241",
+        "Original_Name": "E531_Muthambi",
+        "Glottolog_Name": "Mwimbi-Muthambi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.5939,
+          -0.11968
+        ]
+      },
+      "properties": {
+        "Name": "E531_Mwimbi",
+        "Glottocode": "mwim1241",
+        "Original_Name": "E531_Mwimbi",
+        "Glottolog_Name": "Mwimbi-Muthambi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.073,
+          -0.13221
+        ]
+      },
+      "properties": {
+        "Name": "E54_Tharaka",
+        "Glottocode": "thar1283",
+        "Original_Name": "E54_Tharaka",
+        "Glottolog_Name": "Tharaka"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.6116,
+          -0.27405
+        ]
+      },
+      "properties": {
+        "Name": "E541_Chuka",
+        "Glottocode": "chuk1274",
+        "Original_Name": "E541_Chuka",
+        "Glottolog_Name": "Chuka"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.9532,
+          -1.60827
+        ]
+      },
+      "properties": {
+        "Name": "E55_Kamba",
+        "Glottocode": "kamb1297",
+        "xd_ids": [
+          "xd103"
+        ],
+        "Original_Name": "E55_Kamba",
+        "Glottolog_Name": "Kamba (Kenya)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.9532,
+          -1.60827
+        ]
+      },
+      "properties": {
+        "Name": "E55_Kamba_Kitu",
+        "Glottocode": "kamb1297",
+        "Original_Name": "E55_Kamba_Kitu",
+        "Glottolog_Name": "Kamba (Kenya)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.9532,
+          -1.60827
+        ]
+      },
+      "properties": {
+        "Name": "E55_Kamba_Mach",
+        "Glottocode": "kamb1297",
+        "Original_Name": "E55_Kamba_Mach",
+        "Glottolog_Name": "Kamba (Kenya)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.818,
+          -4.81209
+        ]
+      },
+      "properties": {
+        "Name": "E56_Daiso",
+        "Glottocode": "dhai1238",
+        "Original_Name": "E56_Daiso",
+        "Glottolog_Name": "Dhaiso"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.0703,
+          -3.29385
+        ]
+      },
+      "properties": {
+        "Name": "E621B_Machame",
+        "Glottocode": "mach1266",
+        "Original_Name": "E621B_Machame",
+        "Glottolog_Name": "Machame"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.0703,
+          -3.29385
+        ]
+      },
+      "properties": {
+        "Name": "E621C_Siha",
+        "Glottocode": "mach1266",
+        "Original_Name": "E621C_Siha",
+        "Glottolog_Name": "Machame"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.0703,
+          -3.29385
+        ]
+      },
+      "properties": {
+        "Name": "E621D_Kibosho",
+        "Glottocode": "mach1266",
+        "Original_Name": "E621D_Kibosho",
+        "Glottolog_Name": "Machame"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.3357,
+          -3.33743
+        ]
+      },
+      "properties": {
+        "Name": "E622A_Kimochi",
+        "Glottocode": "moch1256",
+        "xd_ids": [
+          "xd98"
+        ],
+        "Original_Name": "E622A_Kimochi",
+        "Glottolog_Name": "Mochi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.5847,
+          -3.42531
+        ]
+      },
+      "properties": {
+        "Name": "E622C_Lema",
+        "Glottocode": "vunj1238",
+        "Original_Name": "E622C_Lema",
+        "Glottolog_Name": "Vunjo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.5847,
+          -3.42531
+        ]
+      },
+      "properties": {
+        "Name": "E622C_Mamba",
+        "Glottocode": "vunj1238",
+        "Original_Name": "E622C_Mamba",
+        "Glottolog_Name": "Vunjo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.5847,
+          -3.42531
+        ]
+      },
+      "properties": {
+        "Name": "E622C_Vunjo",
+        "Glottocode": "vunj1238",
+        "Original_Name": "E622C_Vunjo",
+        "Glottolog_Name": "Vunjo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.5382,
+          -3.07772
+        ]
+      },
+      "properties": {
+        "Name": "E623_Mkuu",
+        "Glottocode": "romb1244",
+        "Original_Name": "E623_Mkuu",
+        "Glottolog_Name": "Rombo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.5382,
+          -3.07772
+        ]
+      },
+      "properties": {
+        "Name": "E623A_Kiseri",
+        "Glottocode": "romb1244",
+        "Original_Name": "E623A_Kiseri",
+        "Glottolog_Name": "Rombo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.5382,
+          -3.07772
+        ]
+      },
+      "properties": {
+        "Name": "E623D_Keni",
+        "Glottocode": "romb1244",
+        "Original_Name": "E623D_Keni",
+        "Glottolog_Name": "Rombo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.5759,
+          -3.51412
+        ]
+      },
+      "properties": {
+        "Name": "E64_Kahe",
+        "Glottocode": "kahe1238",
+        "Original_Name": "E64_Kahe",
+        "Glottolog_Name": "Kahe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.6827,
+          -3.68407
+        ]
+      },
+      "properties": {
+        "Name": "E65_Gweno",
+        "Glottocode": "gwen1239",
+        "Original_Name": "E65_Gweno",
+        "Glottolog_Name": "Gweno"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.793,
+          -0.66322
+        ]
+      },
+      "properties": {
+        "Name": "E701_Elwana",
+        "Glottocode": "ilwa1237",
+        "Original_Name": "E701_Elwana",
+        "Glottolog_Name": "Ilwana"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.2897,
+          -2.31587
+        ]
+      },
+      "properties": {
+        "Name": "E71A_Upper_Pokomo",
+        "Glottocode": "poko1261",
+        "xd_ids": [
+          "xd102"
+        ],
+        "Original_Name": "E71A_Upper_Pokomo",
+        "Glottolog_Name": "Pokomo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.6648,
+          -3.30638
+        ]
+      },
+      "properties": {
+        "Name": "E72a_Giryama",
+        "Glottocode": "giry1241",
+        "xd_ids": [
+          "xd101"
+        ],
+        "Original_Name": "E72a_Giryama",
+        "Glottolog_Name": "Giryama"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.1752,
+          -4.62101
+        ]
+      },
+      "properties": {
+        "Name": "E73_Digo",
+        "Glottocode": "digo1243",
+        "xd_ids": [
+          "xd99"
+        ],
+        "Original_Name": "E73_Digo",
+        "Glottolog_Name": "Digo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.57254,
+          -3.79347
+        ]
+      },
+      "properties": {
+        "Name": "E74a_Dawida",
+        "Glottocode": "tait1250",
+        "Original_Name": "E74a_Dawida",
+        "Glottolog_Name": "Taita"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.7061,
+          -3.41822
+        ]
+      },
+      "properties": {
+        "Name": "E74a_Tuveta",
+        "Glottocode": "tave1240",
+        "Original_Name": "E74a_Tuveta",
+        "Glottolog_Name": "Taveta"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.5926,
+          -6.22082
+        ]
+      },
+      "properties": {
+        "Name": "F12_Bende",
+        "Glottocode": "bend1258",
+        "xd_ids": [
+          "xd85"
+        ],
+        "Original_Name": "F12_Bende",
+        "Glottolog_Name": "Bende"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.8765,
+          -3.16082
+        ]
+      },
+      "properties": {
+        "Name": "F21_Ntuzu",
+        "Glottocode": "suku1261",
+        "Original_Name": "F21_Ntuzu",
+        "Glottolog_Name": "Sukuma"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.8765,
+          -3.16082
+        ]
+      },
+      "properties": {
+        "Name": "F21_Sukuma",
+        "Glottocode": "suku1261",
+        "xd_ids": [
+          "xd90"
+        ],
+        "Original_Name": "F21_Sukuma",
+        "Glottolog_Name": "Sukuma"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.94452,
+          -5.08559
+        ]
+      },
+      "properties": {
+        "Name": "F22_Nyamwezi",
+        "Glottocode": "nyam1276",
+        "Original_Name": "F22_Nyamwezi",
+        "Glottolog_Name": "Nyamwezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.9457,
+          -3.47335
+        ]
+      },
+      "properties": {
+        "Name": "F23_Sumbwa",
+        "Glottocode": "sumb1240",
+        "xd_ids": [
+          "xd117"
+        ],
+        "Original_Name": "F23_Sumbwa",
+        "Glottolog_Name": "Sumbwa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.6445,
+          -7.23023
+        ]
+      },
+      "properties": {
+        "Name": "F24_Kimbu",
+        "Glottocode": "kimb1242",
+        "Original_Name": "F24_Kimbu",
+        "Glottolog_Name": "Kimbu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.8801,
+          -8.32587
+        ]
+      },
+      "properties": {
+        "Name": "F25_Bungu",
+        "Glottocode": "bung1265",
+        "Original_Name": "F25_Bungu",
+        "Glottolog_Name": "Bungu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.3068,
+          -4.50002
+        ]
+      },
+      "properties": {
+        "Name": "F31_Nyiramba",
+        "Glottocode": "nila1242",
+        "Original_Name": "F31_Nyiramba",
+        "Glottolog_Name": "Nilamba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.6657,
+          -5.12263
+        ]
+      },
+      "properties": {
+        "Name": "F32_Nyaturucha",
+        "Glottocode": "nyat1246",
+        "Original_Name": "F32_Nyaturucha",
+        "Glottolog_Name": "Nyaturu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.6657,
+          -5.12263
+        ]
+      },
+      "properties": {
+        "Name": "F32_Nyaturuwil",
+        "Glottocode": "nyat1246",
+        "xd_ids": [
+          "xd94"
+        ],
+        "Original_Name": "F32_Nyaturuwil",
+        "Glottolog_Name": "Nyaturu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.9517,
+          -4.71413
+        ]
+      },
+      "properties": {
+        "Name": "F33_Langi",
+        "Glottocode": "lang1320",
+        "xd_ids": [
+          "xd93"
+        ],
+        "Original_Name": "F33_Langi",
+        "Glottolog_Name": "Langi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1442,
+          5.18158
+        ]
+      },
+      "properties": {
+        "Name": "Fefe_Grassfields",
+        "Glottocode": "fefe1239",
+        "xd_ids": [
+          "xd171"
+        ],
+        "Original_Name": "Fefe_Grassfields",
+        "Glottolog_Name": "Fe'fe'"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4807,
+          -6.35951
+        ]
+      },
+      "properties": {
+        "Name": "G11_Gogo",
+        "Glottocode": "gogo1263",
+        "xd_ids": [
+          "xd92"
+        ],
+        "Original_Name": "G11_Gogo",
+        "Glottolog_Name": "Gogo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.0534,
+          -6.38204
+        ]
+      },
+      "properties": {
+        "Name": "G12_Kagulu",
+        "Glottocode": "kagu1239",
+        "xd_ids": [
+          "xd121"
+        ],
+        "Original_Name": "G12_Kagulu",
+        "Glottolog_Name": "Kagulu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.8323,
+          -4.17978
+        ]
+      },
+      "properties": {
+        "Name": "G22_Asu",
+        "Glottocode": "asut1235",
+        "xd_ids": [
+          "xd105"
+        ],
+        "Original_Name": "G22_Asu",
+        "Glottolog_Name": "Asu (Tanzania)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.8323,
+          -4.17978
+        ]
+      },
+      "properties": {
+        "Name": "G22A_North_Pare",
+        "Glottocode": "asut1235",
+        "Original_Name": "G22A_North_Pare",
+        "Glottolog_Name": "Asu (Tanzania)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.8323,
+          -4.17978
+        ]
+      },
+      "properties": {
+        "Name": "G22B_South_Pare",
+        "Glottocode": "asut1235",
+        "Original_Name": "G22B_South_Pare",
+        "Glottolog_Name": "Asu (Tanzania)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.29,
+          -4.8
+        ]
+      },
+      "properties": {
+        "Name": "G23_Sambaa",
+        "Glottocode": "sham1280",
+        "Original_Name": "G23_Sambaa",
+        "Glottolog_Name": "Shambala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.5079,
+          -5.10749
+        ]
+      },
+      "properties": {
+        "Name": "G24_Bondei",
+        "Glottocode": "bond1247",
+        "Original_Name": "G24_Bondei",
+        "Glottolog_Name": "Bondei"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.41138,
+          -5.61864
+        ]
+      },
+      "properties": {
+        "Name": "G31_Zigua",
+        "Glottocode": "zigu1244",
+        "xd_ids": [
+          "xd96"
+        ],
+        "Original_Name": "G31_Zigua",
+        "Glottolog_Name": "Zigula-Mushungulu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.4902,
+          -6.25844
+        ]
+      },
+      "properties": {
+        "Name": "G32_Doe",
+        "Glottocode": "doee1238",
+        "Original_Name": "G32_Doe",
+        "Glottolog_Name": "Doe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.4449,
+          -6.50666
+        ]
+      },
+      "properties": {
+        "Name": "G32_Kwere",
+        "Glottocode": "kwer1261",
+        "xd_ids": [
+          "xd95"
+        ],
+        "Original_Name": "G32_Kwere",
+        "Glottolog_Name": "Kwere"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9258,
+          -6.87705
+        ]
+      },
+      "properties": {
+        "Name": "G33_Zaramo",
+        "Glottocode": "zara1247",
+        "Original_Name": "G33_Zaramo",
+        "Glottolog_Name": "Zaramo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.6823,
+          -5.79734
+        ]
+      },
+      "properties": {
+        "Name": "G34_Nguungulu",
+        "Glottocode": "ngul1246",
+        "xd_ids": [
+          "xd122"
+        ],
+        "Original_Name": "G34_Nguungulu",
+        "Glottolog_Name": "Ngulu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.5557,
+          -6.86828
+        ]
+      },
+      "properties": {
+        "Name": "G35_Luguru",
+        "Glottocode": "lugu1238",
+        "xd_ids": [
+          "xd81"
+        ],
+        "Original_Name": "G35_Luguru",
+        "Glottolog_Name": "Luguru"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.98,
+          -6.71075
+        ]
+      },
+      "properties": {
+        "Name": "G36_Kami",
+        "Glottocode": "kami1256",
+        "Original_Name": "G36_Kami",
+        "Glottolog_Name": "Kami (Tanzania)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.8623,
+          -7.23789
+        ]
+      },
+      "properties": {
+        "Name": "G37_Kutu",
+        "Glottocode": "kutu1263",
+        "Original_Name": "G37_Kutu",
+        "Glottolog_Name": "Kutu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.9153,
+          -6.98537
+        ]
+      },
+      "properties": {
+        "Name": "G39_Saghala",
+        "Glottocode": "saga1256",
+        "Original_Name": "G39_Saghala",
+        "Glottolog_Name": "Sagala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.4601,
+          -12.5821
+        ]
+      },
+      "properties": {
+        "Name": "G401_Mwani",
+        "Glottocode": "mwan1247",
+        "Original_Name": "G401_Mwani",
+        "Glottolog_Name": "Mwani"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.624,
+          -8.25605
+        ]
+      },
+      "properties": {
+        "Name": "G41_Bajuni",
+        "Glottocode": "swah1253",
+        "Original_Name": "G41_Bajuni",
+        "Glottolog_Name": "Swahili"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.026991,
+          1.111787
+        ]
+      },
+      "properties": {
+        "Name": "G412_Mwiini",
+        "Glottocode": "chim1312",
+        "Original_Name": "G412_Mwiini",
+        "Glottolog_Name": "Chimwiini"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.624,
+          -8.25605
+        ]
+      },
+      "properties": {
+        "Name": "G42_Swahili",
+        "Glottocode": "swah1253",
+        "Original_Name": "G42_Swahili",
+        "Glottolog_Name": "Swahili"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.624,
+          -8.25605
+        ]
+      },
+      "properties": {
+        "Name": "G42a_Amu",
+        "Glottocode": "swah1253",
+        "Original_Name": "G42a_Amu",
+        "Glottolog_Name": "Swahili"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.624,
+          -8.25605
+        ]
+      },
+      "properties": {
+        "Name": "G42d_Unguja",
+        "Glottocode": "swah1253",
+        "Original_Name": "G42d_Unguja",
+        "Glottolog_Name": "Swahili"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.624,
+          -8.25605
+        ]
+      },
+      "properties": {
+        "Name": "G43_Kae",
+        "Glottocode": "swah1253",
+        "Original_Name": "G43_Kae",
+        "Glottolog_Name": "Swahili"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.36,
+          -11.6129
+        ]
+      },
+      "properties": {
+        "Name": "G44a_Ngazija",
+        "Glottocode": "ngaz1238",
+        "Original_Name": "G44a_Ngazija",
+        "Glottolog_Name": "Ngazidja Comorian"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.3709,
+          -12.2123
+        ]
+      },
+      "properties": {
+        "Name": "G44b_Ndzwani",
+        "Glottocode": "ndzw1235",
+        "Original_Name": "G44b_Ndzwani",
+        "Glottolog_Name": "Ndzwani Comorian"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.154942,
+          -12.830306
+        ]
+      },
+      "properties": {
+        "Name": "G44D_Maore",
+        "Glottocode": "maor1244",
+        "Original_Name": "G44D_Maore",
+        "Glottolog_Name": "Maore Comorian"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.4148,
+          -8.72283
+        ]
+      },
+      "properties": {
+        "Name": "G51_Pogoro",
+        "Glottocode": "pogo1243",
+        "Original_Name": "G51_Pogoro",
+        "Glottolog_Name": "Pogolo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.0271,
+          -8.40485
+        ]
+      },
+      "properties": {
+        "Name": "G52_Ndamba",
+        "Glottocode": "ndam1239",
+        "Original_Name": "G52_Ndamba",
+        "Glottolog_Name": "Ndamba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.9,
+          -8.4
+        ]
+      },
+      "properties": {
+        "Name": "G61_Sangu",
+        "Glottocode": "sang1330",
+        "xd_ids": [
+          "xd91"
+        ],
+        "Original_Name": "G61_Sangu",
+        "Glottolog_Name": "Sangu (Tanzania)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.7255,
+          -7.71572
+        ]
+      },
+      "properties": {
+        "Name": "G62_Hehe",
+        "Glottocode": "hehe1240",
+        "xd_ids": [
+          "xd125"
+        ],
+        "Original_Name": "G62_Hehe",
+        "Glottolog_Name": "Hehe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.0364,
+          -9.26671
+        ]
+      },
+      "properties": {
+        "Name": "G63_Bena",
+        "Glottocode": "bena1262",
+        "xd_ids": [
+          "xd78"
+        ],
+        "Original_Name": "G63_Bena",
+        "Glottolog_Name": "Bena (Tanzania)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8039,
+          -9.96782
+        ]
+      },
+      "properties": {
+        "Name": "G64_Pangwa",
+        "Glottocode": "pang1287",
+        "Original_Name": "G64_Pangwa",
+        "Glottolog_Name": "Pangwa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.2321,
+          -9.35868
+        ]
+      },
+      "properties": {
+        "Name": "G65_Kinga",
+        "Glottocode": "nucl1379",
+        "Original_Name": "G65_Kinga",
+        "Glottolog_Name": "Kinga"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.0757,
+          -9.00683
+        ]
+      },
+      "properties": {
+        "Name": "G66_Wanji",
+        "Glottocode": "vwan1235",
+        "Original_Name": "G66_Wanji",
+        "Glottolog_Name": "Vwanji"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1,
+          -3.95895
+        ]
+      },
+      "properties": {
+        "Name": "H11_Beembe",
+        "Glottocode": "beem1239",
+        "Original_Name": "H11_Beembe",
+        "Glottolog_Name": "Beembe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.9,
+          -4.25
+        ]
+      },
+      "properties": {
+        "Name": "H111_Hangala",
+        "Glottocode": "laar1238",
+        "Original_Name": "H111_Hangala",
+        "Glottolog_Name": "Laari"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3804,
+          -4.06716
+        ]
+      },
+      "properties": {
+        "Name": "H12_Civili_Congo",
+        "Glottocode": "vili1238",
+        "Original_Name": "H12_Civili_Congo",
+        "Glottolog_Name": "Vili"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5197,
+          -3.69702
+        ]
+      },
+      "properties": {
+        "Name": "H13_Kikunyi_1989",
+        "Glottocode": "kuny1238",
+        "Original_Name": "H13_Kikunyi_1989",
+        "Glottolog_Name": "Kunyi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3212,
+          -4.58488
+        ]
+      },
+      "properties": {
+        "Name": "H131_Kisundi_Congo_Kimongo_1988",
+        "Glottocode": "suun1239",
+        "xd_ids": [
+          "xd42"
+        ],
+        "Original_Name": "H131_Kisundi_Congo_Kimongo_1988",
+        "Glottolog_Name": "Suundi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9657,
+          -5.1263
+        ]
+      },
+      "properties": {
+        "Name": "H16_Cilinji",
+        "Glottocode": "yomb1244",
+        "Original_Name": "H16_Cilinji",
+        "Glottolog_Name": "Yombe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9657,
+          -5.1263
+        ]
+      },
+      "properties": {
+        "Name": "H16_Cimbala",
+        "Glottocode": "yomb1244",
+        "Original_Name": "H16_Cimbala",
+        "Glottolog_Name": "Yombe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9657,
+          -5.1263
+        ]
+      },
+      "properties": {
+        "Name": "H16_Cizobe",
+        "Glottocode": "yomb1244",
+        "Original_Name": "H16_Cizobe",
+        "Glottolog_Name": "Yombe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4771,
+          -5.57722
+        ]
+      },
+      "properties": {
+        "Name": "H16_Kikongo",
+        "Glottocode": "koon1244",
+        "Original_Name": "H16_Kikongo",
+        "Glottolog_Name": "South-Central Koongo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.5,
+          -5.25
+        ]
+      },
+      "properties": {
+        "Name": "H16_Kimbata_Ngidinga",
+        "Glottocode": "east2782",
+        "Original_Name": "H16_Kimbata_Ngidinga",
+        "Glottolog_Name": "Eastern Kikongo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.5,
+          -5.25
+        ]
+      },
+      "properties": {
+        "Name": "H16_Kimbeko",
+        "Glottocode": "east2782",
+        "Original_Name": "H16_Kimbeko",
+        "Glottolog_Name": "Eastern Kikongo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4771,
+          -5.57722
+        ]
+      },
+      "properties": {
+        "Name": "H16a_Kisikongo_2013",
+        "Glottocode": "koon1244",
+        "xd_ids": [
+          "xd38"
+        ],
+        "Original_Name": "H16a_Kisikongo_2013",
+        "Glottolog_Name": "South-Central Koongo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4771,
+          -5.57722
+        ]
+      },
+      "properties": {
+        "Name": "H16a_Kisolongo_DRC_2012",
+        "Glottocode": "koon1244",
+        "Original_Name": "H16a_Kisolongo_DRC_2012",
+        "Glottolog_Name": "South-Central Koongo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4771,
+          -5.57722
+        ]
+      },
+      "properties": {
+        "Name": "H16b_Kindibu_2013",
+        "Glottocode": "koon1244",
+        "Original_Name": "H16b_Kindibu_2013",
+        "Glottolog_Name": "South-Central Koongo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9657,
+          -5.1263
+        ]
+      },
+      "properties": {
+        "Name": "H16c_Kiyombe_DRC_1982",
+        "Glottocode": "yomb1244",
+        "Original_Name": "H16c_Kiyombe_DRC_1982",
+        "Glottolog_Name": "Yombe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3804,
+          -4.06716
+        ]
+      },
+      "properties": {
+        "Name": "H16c_Yombe",
+        "Glottocode": "vili1238",
+        "xd_ids": [
+          "xd74"
+        ],
+        "Original_Name": "H16c_Yombe",
+        "Glottolog_Name": "Vili"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5372,
+          -5.7114
+        ]
+      },
+      "properties": {
+        "Name": "H16d_Ciwoyo_DRC_2012",
+        "Glottocode": "sans1272",
+        "Original_Name": "H16d_Ciwoyo_DRC_2012",
+        "Glottolog_Name": "San Salvador Kongo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.9,
+          -4.25
+        ]
+      },
+      "properties": {
+        "Name": "H16f_Laadi",
+        "Glottocode": "laar1238",
+        "Original_Name": "H16f_Laadi",
+        "Glottolog_Name": "Laari"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.5,
+          -5.25
+        ]
+      },
+      "properties": {
+        "Name": "H16g_Kimpangu_2012",
+        "Glottocode": "east2782",
+        "Original_Name": "H16g_Kimpangu_2012",
+        "Glottolog_Name": "Eastern Kikongo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.5,
+          -5.25
+        ]
+      },
+      "properties": {
+        "Name": "H16g_Ntandu",
+        "Glottocode": "east2782",
+        "Original_Name": "H16g_Ntandu",
+        "Glottolog_Name": "Eastern Kikongo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.5,
+          -5.25
+        ]
+      },
+      "properties": {
+        "Name": "H16h_Kinkanu_2012",
+        "Glottocode": "east2782",
+        "Original_Name": "H16h_Kinkanu_2012",
+        "Glottolog_Name": "Eastern Kikongo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.8893,
+          -8.97835
+        ]
+      },
+      "properties": {
+        "Name": "H21a_Kimbundu",
+        "Glottocode": "kimb1241",
+        "Original_Name": "H21a_Kimbundu",
+        "Glottolog_Name": "Kimbundu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.775,
+          -5.984
+        ]
+      },
+      "properties": {
+        "Name": "H31_Yaka",
+        "Glottocode": "yaka1269",
+        "xd_ids": [
+          "xd45"
+        ],
+        "Original_Name": "H31_Yaka",
+        "Glottolog_Name": "Yaka-Pelende-Lonzo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.7736,
+          -5.76495
+        ]
+      },
+      "properties": {
+        "Name": "H32_Suku",
+        "Glottocode": "suku1259",
+        "xd_ids": [
+          "xd41"
+        ],
+        "Original_Name": "H32_Suku",
+        "Glottolog_Name": "Suku"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.3555,
+          -6.32223
+        ]
+      },
+      "properties": {
+        "Name": "H321_Soonde",
+        "Glottocode": "sond1250",
+        "xd_ids": [
+          "xd54"
+        ],
+        "Original_Name": "H321_Soonde",
+        "Glottolog_Name": "Sonde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.041,
+          -5.11888
+        ]
+      },
+      "properties": {
+        "Name": "H41_Mbala",
+        "Glottocode": "mbal1257",
+        "xd_ids": [
+          "xd39"
+        ],
+        "Original_Name": "H41_Mbala",
+        "Glottolog_Name": "Mbala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4312,
+          -3.69695
+        ]
+      },
+      "properties": {
+        "Name": "H42_Hunganna",
+        "Glottocode": "hung1278",
+        "Original_Name": "H42_Hunganna",
+        "Glottolog_Name": "Hungan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.6122,
+          -2.55777
+        ]
+      },
+      "properties": {
+        "Name": "JD53_Shi",
+        "Glottocode": "shii1238",
+        "xd_ids": [
+          "xd131"
+        ],
+        "Original_Name": "JD53_Shi",
+        "Glottolog_Name": "Shi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.97,
+          -2.94
+        ]
+      },
+      "properties": {
+        "Name": "JD62_Rundi",
+        "Glottocode": "rund1242",
+        "xd_ids": [
+          "xd184"
+        ],
+        "Original_Name": "JD62_Rundi",
+        "Glottolog_Name": "Rundi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.0681,
+          -2.97663
+        ]
+      },
+      "properties": {
+        "Name": "JD64_Shubi",
+        "Glottocode": "shub1238",
+        "Original_Name": "JD64_Shubi",
+        "Glottolog_Name": "Shubi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.7074,
+          -2.52347
+        ]
+      },
+      "properties": {
+        "Name": "JD65_Hangaza",
+        "Glottocode": "hang1260",
+        "Original_Name": "JD65_Hangaza",
+        "Glottolog_Name": "Hangaza"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4894,
+          -3.77873
+        ]
+      },
+      "properties": {
+        "Name": "JD66_Kiha",
+        "Glottocode": "haaa1252",
+        "xd_ids": [
+          "xd132"
+        ],
+        "Original_Name": "JD66_Kiha",
+        "Glottolog_Name": "Ha"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.5699,
+          -4.99312
+        ]
+      },
+      "properties": {
+        "Name": "JD67_Kivinza",
+        "Glottocode": "vinz1238",
+        "Original_Name": "JD67_Kivinza",
+        "Glottolog_Name": "Vinza"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.3493,
+          0.95294
+        ]
+      },
+      "properties": {
+        "Name": "JE11_Runyoro",
+        "Glottocode": "nyor1246",
+        "xd_ids": [
+          "xd87"
+        ],
+        "Original_Name": "JE11_Runyoro",
+        "Glottolog_Name": "Nyoro"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.6389,
+          0.57291
+        ]
+      },
+      "properties": {
+        "Name": "JE12_Rutooro",
+        "Glottocode": "toor1238",
+        "xd_ids": [
+          "xd118"
+        ],
+        "Original_Name": "JE12_Rutooro",
+        "Glottolog_Name": "Tooro"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.548,
+          -0.46364
+        ]
+      },
+      "properties": {
+        "Name": "JE13_Runyankore",
+        "Glottocode": "nyan1307",
+        "Original_Name": "JE13_Runyankore",
+        "Glottolog_Name": "Nyankole"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.9122,
+          -1.04387
+        ]
+      },
+      "properties": {
+        "Name": "JE14_Rukiga",
+        "Glottocode": "chig1238",
+        "Original_Name": "JE14_Rukiga",
+        "Glottolog_Name": "Chiga"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.15153,
+          0.66884
+        ]
+      },
+      "properties": {
+        "Name": "JE15_Luganda",
+        "Glottocode": "gand1255",
+        "xd_ids": [
+          "xd124"
+        ],
+        "Original_Name": "JE15_Luganda",
+        "Glottolog_Name": "Ganda"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.3942,
+          0.40456
+        ]
+      },
+      "properties": {
+        "Name": "JE16_Lusoga",
+        "Glottocode": "soga1242",
+        "xd_ids": [
+          "xd116"
+        ],
+        "Original_Name": "JE16_Lusoga",
+        "Glottolog_Name": "Soga"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.8227,
+          1.11392
+        ]
+      },
+      "properties": {
+        "Name": "JE17_Gwere",
+        "Glottocode": "gwer1238",
+        "Original_Name": "JE17_Gwere",
+        "Glottolog_Name": "Gwere"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.9156,
+          -1.6096
+        ]
+      },
+      "properties": {
+        "Name": "JE21_Runyambo",
+        "Glottocode": "nyam1277",
+        "Original_Name": "JE21_Runyambo",
+        "Glottolog_Name": "Nyambo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.4846,
+          -1.70878
+        ]
+      },
+      "properties": {
+        "Name": "JE22_Haya",
+        "Glottocode": "haya1250",
+        "xd_ids": [
+          "xd112"
+        ],
+        "Original_Name": "JE22_Haya",
+        "Glottolog_Name": "Haya"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.1755,
+          -2.64132
+        ]
+      },
+      "properties": {
+        "Name": "JE23_Zinza",
+        "Glottocode": "zinz1238",
+        "xd_ids": [
+          "xd119"
+        ],
+        "Original_Name": "JE23_Zinza",
+        "Glottolog_Name": "Zinza"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.5326,
+          -2.09315
+        ]
+      },
+      "properties": {
+        "Name": "JE24_Kerebe",
+        "Glottocode": "kere1283",
+        "xd_ids": [
+          "xd113"
+        ],
+        "Original_Name": "JE24_Kerebe",
+        "Glottolog_Name": "Kerewe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.9141,
+          -1.62681
+        ]
+      },
+      "properties": {
+        "Name": "JE25_Jita",
+        "Glottocode": "jita1239",
+        "Original_Name": "JE25_Jita",
+        "Glottolog_Name": "Jita"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.0488,
+          -1.83511
+        ]
+      },
+      "properties": {
+        "Name": "JE25_Kilegi",
+        "Glottocode": "kara1481",
+        "Original_Name": "JE25_Kilegi",
+        "Glottolog_Name": "Kara (Tanzania)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.71,
+          -1.80737
+        ]
+      },
+      "properties": {
+        "Name": "JE25_Mkwaya",
+        "Glottocode": "kway1241",
+        "Original_Name": "JE25_Mkwaya",
+        "Glottolog_Name": "Kwaya"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.2829,
+          1.05906
+        ]
+      },
+      "properties": {
+        "Name": "JE31_Lumasaaba",
+        "Glottocode": "masa1299",
+        "xd_ids": [
+          "xd126"
+        ],
+        "Original_Name": "JE31_Lumasaaba",
+        "Glottolog_Name": "Masaaba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7719,
+          0.68043
+        ]
+      },
+      "properties": {
+        "Name": "JE31c_Bukusu",
+        "Glottocode": "buku1249",
+        "xd_ids": [
+          "xd111"
+        ],
+        "Original_Name": "JE31c_Bukusu",
+        "Glottolog_Name": "Bukusu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.0335,
+          0.3652
+        ]
+      },
+      "properties": {
+        "Name": "JE32_Luyia",
+        "Glottocode": "saam1283",
+        "Original_Name": "JE32_Luyia",
+        "Glottolog_Name": "Saamia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.0335,
+          0.3652
+        ]
+      },
+      "properties": {
+        "Name": "JE34_Samialugwe",
+        "Glottocode": "saam1283",
+        "Original_Name": "JE34_Samialugwe",
+        "Glottolog_Name": "Saamia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.6173,
+          -1.8485
+        ]
+      },
+      "properties": {
+        "Name": "JE401_Ngoreme",
+        "Glottocode": "ngur1263",
+        "Original_Name": "JE401_Ngoreme",
+        "Glottolog_Name": "Ngoreme"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.3589,
+          -1.9915
+        ]
+      },
+      "properties": {
+        "Name": "JE402_Ikizu",
+        "Glottocode": "ikiz1238",
+        "Original_Name": "JE402_Ikizu",
+        "Glottolog_Name": "Ikizu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.1033,
+          -0.95719
+        ]
+      },
+      "properties": {
+        "Name": "JE403_Suba",
+        "Glottocode": "suba1238",
+        "Original_Name": "JE403_Suba",
+        "Glottolog_Name": "Suba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.3589,
+          -1.9915
+        ]
+      },
+      "properties": {
+        "Name": "JE404_Shasi",
+        "Glottocode": "ikiz1238",
+        "Original_Name": "JE404_Shasi",
+        "Glottolog_Name": "Ikizu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.729,
+          0.09487
+        ]
+      },
+      "properties": {
+        "Name": "JE41_Maragoli",
+        "Glottocode": "logo1258",
+        "Original_Name": "JE41_Maragoli",
+        "Glottolog_Name": "Logooli"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.76751,
+          -0.78872
+        ]
+      },
+      "properties": {
+        "Name": "JE42_Gusii",
+        "Glottocode": "gusi1247",
+        "xd_ids": [
+          "xd79"
+        ],
+        "Original_Name": "JE42_Gusii",
+        "Glottolog_Name": "Gusii"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.5049,
+          -1.50636
+        ]
+      },
+      "properties": {
+        "Name": "JE43_Kuria",
+        "Glottocode": "kuri1259",
+        "Original_Name": "JE43_Kuria",
+        "Glottolog_Name": "Kuria"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.5049,
+          -1.50636
+        ]
+      },
+      "properties": {
+        "Name": "JE43_Kuria_Mago",
+        "Glottocode": "kuri1259",
+        "Original_Name": "JE43_Kuria_Mago",
+        "Glottolog_Name": "Kuria"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.5049,
+          -1.50636
+        ]
+      },
+      "properties": {
+        "Name": "JE43_Kuria_Tari",
+        "Glottocode": "kuri1259",
+        "Original_Name": "JE43_Kuria_Tari",
+        "Glottolog_Name": "Kuria"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.0542,
+          -2.26367
+        ]
+      },
+      "properties": {
+        "Name": "JE44_Zanaki",
+        "Glottocode": "zana1238",
+        "Original_Name": "JE44_Zanaki",
+        "Glottolog_Name": "Zanaki"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.5361,
+          -1.94989
+        ]
+      },
+      "properties": {
+        "Name": "JE45_Nata",
+        "Glottocode": "ikom1245",
+        "Original_Name": "JE45_Nata",
+        "Glottolog_Name": "Ikoma-Nata"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.3992,
+          -9.66082
+        ]
+      },
+      "properties": {
+        "Name": "K11_Ciokwe",
+        "Glottocode": "chok1245",
+        "xd_ids": [
+          "xd36"
+        ],
+        "Original_Name": "K11_Ciokwe",
+        "Glottolog_Name": "Chokwe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.2924,
+          -13.5382
+        ]
+      },
+      "properties": {
+        "Name": "K14_Lwena",
+        "Glottocode": "luva1239",
+        "xd_ids": [
+          "xd35"
+        ],
+        "Original_Name": "K14_Lwena",
+        "Glottolog_Name": "Luvale"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.9768,
+          -14.603
+        ]
+      },
+      "properties": {
+        "Name": "K15_Mbunda",
+        "Glottocode": "mbun1249",
+        "Original_Name": "K15_Mbunda",
+        "Glottolog_Name": "Mbunda"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7398,
+          -17.7052
+        ]
+      },
+      "properties": {
+        "Name": "K21_Lozi",
+        "Glottocode": "lozi1239",
+        "xd_ids": [
+          "xd26"
+        ],
+        "Original_Name": "K21_Lozi",
+        "Glottolog_Name": "Lozi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.67,
+          -15.01
+        ]
+      },
+      "properties": {
+        "Name": "K31_Luyana",
+        "Glottocode": "luya1241",
+        "Original_Name": "K31_Luyana",
+        "Glottolog_Name": "Luyi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.256,
+          -17.9026
+        ]
+      },
+      "properties": {
+        "Name": "K33_Kwangali",
+        "Glottocode": "kwan1273",
+        "Original_Name": "K33_Kwangali",
+        "Glottolog_Name": "Kwangali"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.6678,
+          -18.1681
+        ]
+      },
+      "properties": {
+        "Name": "K332_Rumanyo",
+        "Glottocode": "diri1252",
+        "Original_Name": "K332_Rumanyo",
+        "Glottolog_Name": "Diriku-Shambyu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3348,
+          6.2596
+        ]
+      },
+      "properties": {
+        "Name": "Kom_Grassfields",
+        "Glottocode": "komc1235",
+        "xd_ids": [
+          "xd176"
+        ],
+        "Original_Name": "Kom_Grassfields",
+        "Glottolog_Name": "Kom (Cameroon)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.04651,
+          9.20815
+        ]
+      },
+      "properties": {
+        "Name": "Kulung_Jarawan",
+        "Glottocode": "kulu1255",
+        "Original_Name": "Kulung_Jarawan",
+        "Glottolog_Name": "Kulung (Nigeria)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8275,
+          -5.64735
+        ]
+      },
+      "properties": {
+        "Name": "L11_Pende",
+        "Glottocode": "phen1239",
+        "xd_ids": [
+          "xd44"
+        ],
+        "Original_Name": "L11_Pende",
+        "Glottolog_Name": "Phende"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.572,
+          -8.14754
+        ]
+      },
+      "properties": {
+        "Name": "L12b_Holu",
+        "Glottocode": "holu1245",
+        "Original_Name": "L12b_Holu",
+        "Glottolog_Name": "Holu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5759,
+          -5.60445
+        ]
+      },
+      "properties": {
+        "Name": "L13_Kwese",
+        "Glottocode": "kwes1244",
+        "Original_Name": "L13_Kwese",
+        "Glottolog_Name": "Kwese"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.1097,
+          -7.16388
+        ]
+      },
+      "properties": {
+        "Name": "L221_Lwalwa",
+        "Glottocode": "lwal1238",
+        "Original_Name": "L221_Lwalwa",
+        "Glottolog_Name": "Lwalu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2765,
+          -5.71993
+        ]
+      },
+      "properties": {
+        "Name": "L23_Songe",
+        "Glottocode": "song1303",
+        "xd_ids": [
+          "xd136"
+        ],
+        "Original_Name": "L23_Songe",
+        "Glottolog_Name": "Songe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.4422,
+          -5.72717
+        ]
+      },
+      "properties": {
+        "Name": "L31a_Luba-Kasai",
+        "Glottocode": "luba1249",
+        "xd_ids": [
+          "xd182"
+        ],
+        "Original_Name": "L31a_Luba-Kasai",
+        "Glottolog_Name": "Luba-Lulua"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.613,
+          -7.31878
+        ]
+      },
+      "properties": {
+        "Name": "L32_Kanyok",
+        "Glottocode": "kany1247",
+        "Original_Name": "L32_Kanyok",
+        "Glottolog_Name": "Kanyok"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.8918,
+          -8.2816
+        ]
+      },
+      "properties": {
+        "Name": "L33_Luba-Shaba",
+        "Glottocode": "luba1250",
+        "Original_Name": "L33_Luba-Shaba",
+        "Glottolog_Name": "Luba-Katanga"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.5913,
+          -7.77459
+        ]
+      },
+      "properties": {
+        "Name": "L34_Hemba",
+        "Glottocode": "hemb1242",
+        "Original_Name": "L34_Hemba",
+        "Glottolog_Name": "Hemba-Yazi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8462,
+          -10.0236
+        ]
+      },
+      "properties": {
+        "Name": "L35_Sanga",
+        "Glottocode": "sang1331",
+        "xd_ids": [
+          "xd137"
+        ],
+        "Original_Name": "L35_Sanga",
+        "Glottolog_Name": "Sanga (Democratic Republic of Congo)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.7646,
+          -12.4129
+        ]
+      },
+      "properties": {
+        "Name": "L41_Kaonde",
+        "Glottocode": "kaon1241",
+        "xd_ids": [
+          "xd58"
+        ],
+        "Original_Name": "L41_Kaonde",
+        "Glottolog_Name": "Kaonde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.1502,
+          -5.44937
+        ]
+      },
+      "properties": {
+        "Name": "L51_Salampasu",
+        "Glottocode": "sala1268",
+        "Original_Name": "L51_Salampasu",
+        "Glottolog_Name": "Salampasu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8662,
+          -11.1793
+        ]
+      },
+      "properties": {
+        "Name": "L52_Lunda",
+        "Glottocode": "lund1266",
+        "xd_ids": [
+          "xd72"
+        ],
+        "Original_Name": "L52_Lunda",
+        "Glottolog_Name": "Lunda"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.4164,
+          -8.86971
+        ]
+      },
+      "properties": {
+        "Name": "L53_Runda",
+        "Glottocode": "ruun1238",
+        "Original_Name": "L53_Runda",
+        "Glottolog_Name": "Ruund"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7649,
+          -14.8513
+        ]
+      },
+      "properties": {
+        "Name": "L62_Nkoya",
+        "Glottocode": "nkoy1244",
+        "Original_Name": "L62_Nkoya",
+        "Glottolog_Name": "Nkoya"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.4289,
+          -6.81358
+        ]
+      },
+      "properties": {
+        "Name": "M11_Pimbwe",
+        "Glottocode": "pimb1238",
+        "xd_ids": [
+          "xd89"
+        ],
+        "Original_Name": "M11_Pimbwe",
+        "Glottolog_Name": "Pimbwe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.7614,
+          -7.24959
+        ]
+      },
+      "properties": {
+        "Name": "M12_Lungwa",
+        "Glottocode": "rung1255",
+        "Original_Name": "M12_Lungwa",
+        "Glottolog_Name": "Rungwa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.3442,
+          -7.88963
+        ]
+      },
+      "properties": {
+        "Name": "M13_Fipa",
+        "Glottocode": "fipa1238",
+        "xd_ids": [
+          "xd86"
+        ],
+        "Original_Name": "M13_Fipa",
+        "Glottolog_Name": "Fipa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2269,
+          -8.86817
+        ]
+      },
+      "properties": {
+        "Name": "M14_Rungu",
+        "Glottocode": "mamb1296",
+        "Original_Name": "M14_Rungu",
+        "Glottolog_Name": "Mambwe-Lungu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2269,
+          -8.86817
+        ]
+      },
+      "properties": {
+        "Name": "M15_Mambwe",
+        "Glottocode": "mamb1296",
+        "Original_Name": "M15_Mambwe",
+        "Glottolog_Name": "Mambwe-Lungu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.6118,
+          -9.88948
+        ]
+      },
+      "properties": {
+        "Name": "M21_Ndali",
+        "Glottocode": "ndal1241",
+        "Original_Name": "M21_Ndali",
+        "Glottolog_Name": "Ndali"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.4375,
+          -8.34522
+        ]
+      },
+      "properties": {
+        "Name": "M21_Wanda",
+        "Glottocode": "wand1264",
+        "Original_Name": "M21_Wanda",
+        "Glottolog_Name": "Wanda"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.3163,
+          -9.11261
+        ]
+      },
+      "properties": {
+        "Name": "M22_Namwanga",
+        "Glottocode": "nyam1275",
+        "Original_Name": "M22_Namwanga",
+        "Glottolog_Name": "Nyamwanga"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.9057,
+          -9.4472
+        ]
+      },
+      "properties": {
+        "Name": "M23_Nyiha",
+        "Glottocode": "nyih1240",
+        "Original_Name": "M23_Nyiha",
+        "Glottolog_Name": "Nyiha (Tanzania)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.339,
+          -9.16619
+        ]
+      },
+      "properties": {
+        "Name": "M24_Malila",
+        "Glottocode": "mali1279",
+        "Original_Name": "M24_Malila",
+        "Glottolog_Name": "Malila"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.4766,
+          -8.54936
+        ]
+      },
+      "properties": {
+        "Name": "M25_Safwa",
+        "Glottocode": "safw1238",
+        "xd_ids": [
+          "xd84"
+        ],
+        "Original_Name": "M25_Safwa",
+        "Glottolog_Name": "Safwa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.15852,
+          -9.49372
+        ]
+      },
+      "properties": {
+        "Name": "M28_Lambya",
+        "Glottocode": "lamb1272",
+        "Original_Name": "M28_Lambya",
+        "Glottolog_Name": "Lambya"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.7763,
+          -9.71018
+        ]
+      },
+      "properties": {
+        "Name": "M31_Nyakyusa",
+        "Glottocode": "nyak1260",
+        "xd_ids": [
+          "xd123",
+          "xd83"
+        ],
+        "Original_Name": "M31_Nyakyusa",
+        "Glottolog_Name": "Nyakyusa-Ngonde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.5238,
+          -7.91416
+        ]
+      },
+      "properties": {
+        "Name": "M41_Taabwa",
+        "Glottocode": "taab1238",
+        "xd_ids": [
+          "xd61"
+        ],
+        "Original_Name": "M41_Taabwa",
+        "Glottolog_Name": "Taabwa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.2993,
+          -10.6122
+        ]
+      },
+      "properties": {
+        "Name": "M42_Bemba",
+        "Glottocode": "bemb1257",
+        "xd_ids": [
+          "xd55",
+          "xd60"
+        ],
+        "Original_Name": "M42_Bemba",
+        "Glottolog_Name": "Bemba (Zambia)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2297,
+          -12.945
+        ]
+      },
+      "properties": {
+        "Name": "M52_Lala",
+        "Glottocode": "lala1264",
+        "xd_ids": [
+          "xd59"
+        ],
+        "Original_Name": "M52_Lala",
+        "Glottolog_Name": "Lala-Bisa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.9026,
+          -12.3366
+        ]
+      },
+      "properties": {
+        "Name": "M54_Lamba",
+        "Glottocode": "lamb1271",
+        "xd_ids": [
+          "xd71"
+        ],
+        "Original_Name": "M54_Lamba",
+        "Glottolog_Name": "Lamba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.2581,
+          -14.7192
+        ]
+      },
+      "properties": {
+        "Name": "M61_Lenje",
+        "Glottocode": "lenj1248",
+        "Original_Name": "M61_Lenje",
+        "Glottolog_Name": "Lenje"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.7934,
+          -15.5213
+        ]
+      },
+      "properties": {
+        "Name": "M62_Soli",
+        "Glottocode": "soli1239",
+        "Original_Name": "M62_Soli",
+        "Glottolog_Name": "Soli"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.103495,
+          -17.422325
+        ]
+      },
+      "properties": {
+        "Name": "M64_Tonga",
+        "Glottocode": "tong1318",
+        "xd_ids": [
+          "xd37"
+        ],
+        "Original_Name": "M64_Tonga",
+        "Glottolog_Name": "Tonga (Zambia)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2439,
+          9.60769
+        ]
+      },
+      "properties": {
+        "Name": "Mbula_Jarawan",
+        "Glottocode": "mbul1260",
+        "Original_Name": "Mbula_Jarawan",
+        "Glottolog_Name": "Mbula-Bwazza"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.87416,
+          5.88942
+        ]
+      },
+      "properties": {
+        "Name": "Moghamo_Grassfields",
+        "Glottocode": "meta1238",
+        "xd_ids": [
+          "xd181"
+        ],
+        "Original_Name": "Moghamo_Grassfields",
+        "Glottolog_Name": "Meta'"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0294,
+          5.89752
+        ]
+      },
+      "properties": {
+        "Name": "Mungaka_Grassfields",
+        "Glottocode": "mung1266",
+        "xd_ids": [
+          "xd170"
+        ],
+        "Original_Name": "Mungaka_Grassfields",
+        "Glottolog_Name": "Mungaka"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7424,
+          -10.3991
+        ]
+      },
+      "properties": {
+        "Name": "N11_Manda",
+        "Glottocode": "mand1423",
+        "xd_ids": [
+          "xd65"
+        ],
+        "Original_Name": "N11_Manda",
+        "Glottolog_Name": "Manda-Matumba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.459,
+          -11.779
+        ]
+      },
+      "properties": {
+        "Name": "N12_Ngoni",
+        "Glottocode": "tanz1241",
+        "xd_ids": [
+          "xd75"
+        ],
+        "Original_Name": "N12_Ngoni",
+        "Glottolog_Name": "Tanzanian Ngoni"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.0056,
+          -11.554
+        ]
+      },
+      "properties": {
+        "Name": "N13_Matengo",
+        "Glottocode": "mate1258",
+        "Original_Name": "N13_Matengo",
+        "Glottolog_Name": "Matengo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.71269,
+          -11.13767
+        ]
+      },
+      "properties": {
+        "Name": "N14_Mpoto",
+        "Glottocode": "mpot1240",
+        "Original_Name": "N14_Mpoto",
+        "Glottolog_Name": "Mpoto"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.3738,
+          -11.3297
+        ]
+      },
+      "properties": {
+        "Name": "N21_Tumbuka_Malawi",
+        "Glottocode": "tumb1250",
+        "xd_ids": [
+          "xd62"
+        ],
+        "Original_Name": "N21_Tumbuka_Malawi",
+        "Glottolog_Name": "Tumbuka"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.8108,
+          -14.8047
+        ]
+      },
+      "properties": {
+        "Name": "N31_Chewa",
+        "Glottocode": "nyan1308",
+        "xd_ids": [
+          "xd34",
+          "xd64"
+        ],
+        "Original_Name": "N31_Chewa",
+        "Glottolog_Name": "Nyanja"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2804,
+          -15.7337
+        ]
+      },
+      "properties": {
+        "Name": "N42_Kunda",
+        "Glottocode": "kund1255",
+        "xd_ids": [
+          "xd63"
+        ],
+        "Original_Name": "N42_Kunda",
+        "Glottolog_Name": "Chikunda"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.90439,
+          5.75169
+        ]
+      },
+      "properties": {
+        "Name": "Njen_Grassfields",
+        "Glottocode": "njen1238",
+        "Original_Name": "Njen_Grassfields",
+        "Glottolog_Name": "Njen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5096,
+          6.23712
+        ]
+      },
+      "properties": {
+        "Name": "Oku_Grassfields",
+        "Glottocode": "okuu1243",
+        "Original_Name": "Oku_Grassfields",
+        "Glottolog_Name": "Oku"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.958,
+          -7.54628
+        ]
+      },
+      "properties": {
+        "Name": "P11_Ndengeleko",
+        "Glottocode": "nden1248",
+        "Original_Name": "P11_Ndengeleko",
+        "Glottolog_Name": "Ndengereko"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.958,
+          -7.54628
+        ]
+      },
+      "properties": {
+        "Name": "P12_Rufiji",
+        "Glottocode": "nden1248",
+        "Original_Name": "P12_Rufiji",
+        "Glottolog_Name": "Ndengereko"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.0409,
+          -8.53734
+        ]
+      },
+      "properties": {
+        "Name": "P13_Matumbi",
+        "Glottocode": "matu1259",
+        "Original_Name": "P13_Matumbi",
+        "Glottolog_Name": "Matumbi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.9832,
+          -9.78145
+        ]
+      },
+      "properties": {
+        "Name": "P14_Ngindo",
+        "Glottocode": "ngin1244",
+        "Original_Name": "P14_Ngindo",
+        "Glottolog_Name": "Ngindo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.5362,
+          -8.19661
+        ]
+      },
+      "properties": {
+        "Name": "P15_Mbunga",
+        "Glottocode": "mbun1248",
+        "Original_Name": "P15_Mbunga",
+        "Glottolog_Name": "Mbunga"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2387,
+          -13.6119
+        ]
+      },
+      "properties": {
+        "Name": "P21_Yao",
+        "Glottocode": "yaoo1241",
+        "xd_ids": [
+          "xd73"
+        ],
+        "Original_Name": "P21_Yao",
+        "Glottolog_Name": "Yao"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.8762,
+          -9.75639
+        ]
+      },
+      "properties": {
+        "Name": "P22_Mwera",
+        "Glottocode": "mwer1248",
+        "Original_Name": "P22_Mwera",
+        "Glottolog_Name": "Mwera (Chimwera)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.5133,
+          -10.9906
+        ]
+      },
+      "properties": {
+        "Name": "P23_Simakonde",
+        "Glottocode": "mako1251",
+        "xd_ids": [
+          "xd68"
+        ],
+        "Original_Name": "P23_Simakonde",
+        "Glottolog_Name": "Makonde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.5133,
+          -10.9906
+        ]
+      },
+      "properties": {
+        "Name": "P25_Mabia",
+        "Glottocode": "mako1251",
+        "Original_Name": "P25_Mabia",
+        "Glottolog_Name": "Makonde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.8052,
+          -14.8509
+        ]
+      },
+      "properties": {
+        "Name": "P31_Emakhua",
+        "Glottocode": "makh1264",
+        "xd_ids": [
+          "xd69"
+        ],
+        "Original_Name": "P31_Emakhua",
+        "Glottolog_Name": "Makhuwa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.6874,
+          -11.9553
+        ]
+      },
+      "properties": {
+        "Name": "P31G_Ikorovere",
+        "Glottocode": "makh1261",
+        "Original_Name": "P31G_Ikorovere",
+        "Glottolog_Name": "Makhuwa-Meetto"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4148,
+          -12.4763
+        ]
+      },
+      "properties": {
+        "Name": "R11_Umbundu",
+        "Glottocode": "umbu1257",
+        "xd_ids": [
+          "xd28"
+        ],
+        "Original_Name": "R11_Umbundu",
+        "Glottolog_Name": "Umbundu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.58,
+          -17.7176
+        ]
+      },
+      "properties": {
+        "Name": "R21_Kwanyama",
+        "Glottocode": "kuan1247",
+        "Original_Name": "R21_Kwanyama",
+        "Glottolog_Name": "Kuanyama"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.35,
+          -17.22
+        ]
+      },
+      "properties": {
+        "Name": "R22_Ndonga",
+        "Glottocode": "ndon1254",
+        "Original_Name": "R22_Ndonga",
+        "Glottolog_Name": "Ndonga"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.5655,
+          -21.0231
+        ]
+      },
+      "properties": {
+        "Name": "R31_Herero",
+        "Glottocode": "here1253",
+        "xd_ids": [
+          "xd10"
+        ],
+        "Original_Name": "R31_Herero",
+        "Glottolog_Name": "Herero"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.75725,
+          -17.20849
+        ]
+      },
+      "properties": {
+        "Name": "S11_Shona",
+        "Glottocode": "shon1251",
+        "xd_ids": [
+          "xd19"
+        ],
+        "Original_Name": "S11_Shona",
+        "Glottolog_Name": "Shona"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.401,
+          -21.2887
+        ]
+      },
+      "properties": {
+        "Name": "S16_Kalanga",
+        "Glottocode": "kala1384",
+        "Original_Name": "S16_Kalanga",
+        "Glottolog_Name": "Kalanga"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.9523,
+          -22.188
+        ]
+      },
+      "properties": {
+        "Name": "S21_Venda",
+        "Glottocode": "vend1245",
+        "xd_ids": [
+          "xd29"
+        ],
+        "Original_Name": "S21_Venda",
+        "Glottolog_Name": "Venda"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7587,
+          -24.368
+        ]
+      },
+      "properties": {
+        "Name": "S31_Tswana",
+        "Glottocode": "tswa1253",
+        "xd_ids": [
+          "xd14"
+        ],
+        "Original_Name": "S31_Tswana",
+        "Glottolog_Name": "Tswana"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.72016,
+          -24.9208
+        ]
+      },
+      "properties": {
+        "Name": "S311_Shekgalagari",
+        "Glottocode": "kgal1244",
+        "Original_Name": "S311_Shekgalagari",
+        "Glottolog_Name": "Kgalagadi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.0769,
+          -31.0389
+        ]
+      },
+      "properties": {
+        "Name": "S41_Xhosa",
+        "Glottocode": "xhos1239",
+        "xd_ids": [
+          "xd12",
+          "xd24",
+          "xd11"
+        ],
+        "Original_Name": "S41_Xhosa",
+        "Glottolog_Name": "Xhosa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2,
+          -28.9
+        ]
+      },
+      "properties": {
+        "Name": "S42_Zulu",
+        "Glottocode": "zulu1248",
+        "xd_ids": [
+          "xd13"
+        ],
+        "Original_Name": "S42_Zulu",
+        "Glottolog_Name": "Zulu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2,
+          -28.9
+        ]
+      },
+      "properties": {
+        "Name": "S44_Ndebele",
+        "Glottocode": "zulu1248",
+        "xd_ids": [
+          "xd32"
+        ],
+        "Original_Name": "S44_Ndebele",
+        "Glottolog_Name": "Zulu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.4287,
+          -22.9891
+        ]
+      },
+      "properties": {
+        "Name": "S51_Tshwa",
+        "Glottocode": "tswa1255",
+        "Original_Name": "S51_Tshwa",
+        "Glottolog_Name": "Tswa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.8105,
+          -23.5754
+        ]
+      },
+      "properties": {
+        "Name": "S53_Tsonga",
+        "Glottocode": "tson1249",
+        "xd_ids": [
+          "xd27"
+        ],
+        "Original_Name": "S53_Tsonga",
+        "Glottolog_Name": "Tsonga"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.26287,
+          6.88039
+        ]
+      },
+      "properties": {
+        "Name": "Tiv_Tivoid",
+        "Glottocode": "tivv1240",
+        "xd_ids": [
+          "xd320"
+        ],
+        "Original_Name": "Tiv_Tivoid",
+        "Glottolog_Name": "Tiv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2439,
+          9.60769
+        ]
+      },
+      "properties": {
+        "Name": "Zaambo_Jarawan",
+        "Glottocode": "mbul1260",
+        "Original_Name": "Zaambo_Jarawan",
+        "Glottolog_Name": "Mbula-Bwazza"
+      }
+    }
+  ]
+}
