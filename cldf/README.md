@@ -14,8 +14,8 @@ property | value
 [dc:license](http://purl.org/dc/terms/license) | https://creativecommons.org/licenses/by/4.0/
 [dc:subject](http://purl.org/dc/terms/subject) | <dl><dt>family</dt><dd>Bantu</dd><dt>analysis</dt><dd>bayesian</dd><dt>scaling</dt><dd>centuries</dd></dl>
 [dcat:accessURL](http://www.w3.org/ns/dcat#accessURL) | https://github.com/phlorest/grollemund_et_al2015
-[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="data.nex">data.nex </a></li><li><a href="https://doi.org/10.5281/zenodo.3755518">https://doi.org/10.5281/zenodo.3755518 </a></li><li><a href="https://github.com/phlorest/grollemund_et_al2015/tree/da29503">phlorest/grollemund_et_al2015 v1.1-3-gda29503</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v5.2">Glottolog v5.2</a></li></ol>
-[prov:wasGeneratedBy](http://www.w3.org/ns/prov#wasGeneratedBy) | <ol><li><strong>python</strong>: 3.12.3</li><li><strong>python-packages</strong>: <a href="./requirements.txt">requirements.txt</a></li></ol>
+[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="data.nex">data.nex  None</a></li><li><a href="https://doi.org/10.5281/zenodo.3755518">https://doi.org/10.5281/zenodo.3755518  None</a></li><li><a href="https://github.com/phlorest/grollemund_et_al2015/tree/a7ef974">phlorest/grollemund_et_al2015  v1.2-8-ga7ef974</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v5.3">Glottolog  v5.3</a></li></ol>
+[prov:wasGeneratedBy](http://www.w3.org/ns/prov#wasGeneratedBy) | <ol><li><strong>python</strong>: 3.14.8</li><li><strong>python-packages</strong>: <a href="./requirements.txt">requirements.txt</a></li></ol>
 [rdf:ID](http://www.w3.org/1999/02/22-rdf-syntax-ns#ID) | grollemund_et_al2015
 [rdf:type](http://www.w3.org/1999/02/22-rdf-syntax-ns#type) | http://www.w3.org/ns/dcat#Distribution
 
@@ -106,4 +106,3 @@ Name/Property | Datatype | Description
 [Nexus_File](http://cldf.clld.org/v1.0/terms.rdf#mediaReference) | `string` | The data for this parameter is stored at 1-based index {ID} of the sequences in the DATA block of the Nexus file specified here. (See https://en.wikipedia.org/wiki/Nexus_file)<br>References [media.csv::ID](#table-mediacsv)
 [Concepticon_ID](http://cldf.clld.org/v1.0/terms.rdf#concepticonReference) | `string`<br>Regex: `[0-9]+` | 
 `Concepticon_Gloss` | `string` | 
-

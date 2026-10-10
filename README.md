@@ -25,6 +25,7 @@ Source available online at https://doi.org/10.1073/pnas.1503793112
 The following CLDF datasets are available in [cldf](cldf):
 
 - CLDF [Generic](https://github.com/cldf/cldf/tree/master/modules/Generic) at [cldf/Generic-metadata.json](cldf/Generic-metadata.json)
+
 ## Summary Tree
 
 ![summary](https://raw.githubusercontent.com/phlorest/grollemund_et_al2015/main/summary_tree.svg)
