@@ -4,9 +4,10 @@
   ```shell
   pip install -e .[test]
   ```
-- Re-create the CLDF dataset:
+- Re-create the CLDF dataset with the latest Glottolog release:
   ```shell
-  cldfbench makecldf --glottolog-version v5.2 cldfbench_grollemund_et_al2015.py --with-zenodo --with-cldfreadme
+  GLOTTOLOG=$(git ls-remote --tags --sort=-v:refname https://github.com/glottolog/glottolog 'v*' | head -1 | sed 's|.*/||; s|\^{}||')
+  cldfbench makecldf --glottolog-version $GLOTTOLOG cldfbench_*.py --with-zenodo --with-cldfreadme
   ```
 - Make sure the CLDF is valid:
   ```shell
@@ -14,11 +15,11 @@
   ```
 - Re-create the README:
   ```shell
-  cldfbench readme cldfbench_grollemund_et_al2015.py
+  cldfbench readme cldfbench_*.py
   ```
 - Run Phlorest-specific checks on the data:
   ```shell
-  phlorest check --with-R cldfbench_grollemund_et_al2015.py
+  phlorest check --with-R cldfbench_*.py
   ```
 - Check whether new files have been generated (and add them if so):
   ```shell
@@ -35,7 +36,7 @@
   ```
 - Create the release instruction:
   ```shell
-  phlorest release cldfbench_grollemund_et_al2015.py vX.Y
+  phlorest release cldfbench_*.py vX.Y
   ```
 - Make sure the repository is wired up with Zenodo, and if so run the `gh release` command as
   given in the output of `phlorest release`.
