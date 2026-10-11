@@ -13,7 +13,7 @@
     "dc:subject": {
         "family": "Bantu",
         "analysis": "bayesian",
-        "scaling": "centuries"
+        "scaling": "years"
     },
     "dc:title": "Phlorest phylogeny derived from Grollemund et al. 2015 'Bantu expansion shows habitat alters the route and pace of human dispersals'",
     "dcat:accessURL": "https://github.com/phlorest/grollemund_et_al2015",
@@ -33,7 +33,7 @@
         {
             "rdf:about": "https://github.com/phlorest/grollemund_et_al2015",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.2-8-ga7ef974",
+            "dc:created": "v1.2-9-g3f7d453",
             "dc:title": "Repository"
         },
         {

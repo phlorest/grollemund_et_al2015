@@ -12,7 +12,7 @@ If you use these data please cite
 
 ## Description
 
-A [Phlorest phylogeny](https://github.com/phlorest) of the Bantu language family computed from a bayesian analysis scaled by centuries.
+A [Phlorest phylogeny](https://github.com/phlorest) of the Bantu language family computed from a bayesian analysis scaled by years.
 
 
 This dataset is licensed under a https://creativecommons.org/licenses/by/4.0/ license
