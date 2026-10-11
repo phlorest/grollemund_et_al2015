@@ -4,7 +4,7 @@ babel==2.18.0
 bibtexparser==2.1.0
 certifi==2026.7.22
 cldfbench==2.0.1
--e git+https://github.com/phlorest/grollemund_et_al2015@3f7d4536f40d20f92f4ea348d6b41b9bd205ae51#egg=cldfbench_grollemund_et_al2015
+-e git+https://github.com/phlorest/grollemund_et_al2015@bfe06beec4affe0a971a10bd624299de4b3c173d#egg=cldfbench_grollemund_et_al2015
 cldfcatalog==1.7.0
 cldfviz==2.0.0
 cldfzenodo==3.0.0

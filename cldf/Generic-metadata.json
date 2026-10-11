@@ -33,7 +33,7 @@
         {
             "rdf:about": "https://github.com/phlorest/grollemund_et_al2015",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.2-9-g3f7d453",
+            "dc:created": "v1.2-11-gbfe06be",
             "dc:title": "Repository"
         },
         {
